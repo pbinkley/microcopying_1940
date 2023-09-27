@@ -18,7 +18,7 @@ Library of Congress
 and Cosmos Club
 Washington, D. C.
 
-<span style="page" id="pagei">[p.i]</span>
+<span class="page" id="pagei">[p.i]</span>
 
 ## TABLE OF CONTENTS
 
@@ -42,7 +42,7 @@ June 5, 1940
 | A general discussion of cost | <a href="#page100">100</a> |
 | Consideration of special training of operating and supervisory personnel | <a href="#page115">115</a> |
 
-<span style="page" id="page ii">[p. ii]</span>
+<span class="page" id="page ii">[p. ii]</span>
 
 TABLE OF CONTENTS
 
@@ -68,7 +68,7 @@ June 6, 1940
 | Discussion of the possibility of making projects self-supporting | <a href="#page247">247</a> |
 | Discussion of the general topic, receipt, storage and servicing of materials: coordination of acquisition policies | <a href="#page275">275</a> |
 
-<span style="page" id="page iii">[p. iii]</span>
+<span class="page" id="page iii">[p. iii]</span>
 
 TABLE OF CONTENTS
 
@@ -82,7 +82,7 @@ Club and Council of Learned Societies | 283 |
 | Suggestions for making the record more complete as to existing facilities | 283 |
 | Summary of discussions | 285 |
 
-<span style="page" id="page1">[p.1]</span>
+<span class="page" id="page1">[p.1]</span>
 
 WEDNESDAY AFTERNOON SESSION
 
@@ -95,14 +95,14 @@ two-ten o'clock in Whittall Pavilion, Library of Congress,
 Washington, D. C., by Dr. Waldo G. Leland, Director of the
 Council.
 
-CHAIRMAN LELAND: Gentlemen, the conference will
+<span class="speaker" data-speaker="LELAND">CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Gentlemen, the conference will
 please come to order.
 
 The first very pleasant duty is to call upon the
 Librarian of Congress, Mr. Archibald MacLeish, to extend the
-welcome of the Library to you. Mr. MacLeish!
+welcome of the Library to you. Mr. MacLeish!</span>
 
-MR. ARCHIBALD MacLEISH: We are delighted to have you
+<span class="speaker" data-speaker="ARCHIBALD MacLEISH">MR. ARCHIBALD MacLEISH</span>: <span class="speech" data-speaker="ARCHIBALD MacLEISH">We are delighted to have you
 here and very grateful to you for coming. The necessity for
 meeting of this kind I think is so obvious to everyone sitting
 in this room that I won't take your time to talk about it,
@@ -111,7 +111,7 @@ way touched microphotography or the use of microphotography or
 photo-duplications of any kind, or the relation of libraries to
 each other in that field, we here---and by "we here" I mean not
 only the Library of Congress but people in Washington, in
-communication with Dr. Leland and others---find ourselves coming <span style="page" id="page2">[p.2]</span> back to the realization that until there is some mutual understanding as to what the mechanism is, how it is going to be
+communication with Dr. Leland and others---find ourselves coming <span class="page" id="page2">[p.2]</span> back to the realization that until there is some mutual understanding as to what the mechanism is, how it is going to be
 used, and how our use of it can be made most effective to
 other libraries, there is not very much point in trying to
 develop a program. This is basic, and of course is perhaps only
@@ -133,7 +133,7 @@ most refreshing to have some outside notions, but underneath
 it and all through it, I think, lies the question as to whether
 it isn't conceivable that a central funding body or directing
 body of some kind could be set up so that microphotographic
-apparatus in various libraries can be drawn together into <span style="page" id="page3">[p.3]</span> great web which will make the materials of the country immediately flexible and usefully available.
+apparatus in various libraries can be drawn together into <span class="page" id="page3">[p.3]</span> great web which will make the materials of the country immediately flexible and usefully available.
 
 That basic question is the one---I won't say it is the
 one we are most interested in, because of course we are tremendously interested in the real project, the large project that
@@ -143,9 +143,9 @@ can go very far, either at this conference or some future conference, there has 
 
 We are delighted to have you here; we are honored that
 you have come here to the Library and very appreciative of the
-time you have given up for these conferences.
+time you have given up for these conferences.</span>
 
-CHAIRMAN LELAND: Thank you very much, Dr. MacLeish,
+<span class="speaker" data-speaker="LELAND">CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Thank you very much, Dr. MacLeish,
 and at the same time let us thank you on behalf of ourselves
 and on behalf of the Council of Learned Societies for the very
 hospitable reception that you have given us here, the opportunity that you give us to meet in this beautiful room, and in
@@ -154,9 +154,9 @@ a place so appropriate for a meeting of this sort.
 I suppose the first thing we should do is to establish
 our identities. In other words, we will have a roll call. I
 will ask Dr. Daugherty of the staff to call the roll, and I
-will ask my colleague, Mr. Graves, to check the list.
+will ask my colleague, Mr. Graves, to check the list.</span>
 
-... Following is the complete list of attendance <span style="page" id="page4">[p.4]</span> at the conference:
+... Following is the complete list of attendance <span class="page" id="page4">[p.4]</span> at the conference:
 
 Samuel Flagg Bemis  
 Yale University  
@@ -203,7 +203,7 @@ D. H. Daugherty
 American Council of Learned Societies  
 Washington, D. C.
 
-<span style="page" id="page5">[p.5]</span>
+<span class="page" id="page5">[p.5]</span>
 
 Godfrey Davies  
 Henry E. Huntington Library and Art Gallery  
@@ -250,7 +250,7 @@ Consultant in Comparative Literature
 Library of Congress  
 Washington, D. C.
 
-<span style="page" id="page6">[p.6]</span>
+<span class="page" id="page6">[p.6]</span>
 
 Herbert A. Kellar, Director  
 McCormick Historical Association  
@@ -298,7 +298,7 @@ Claudius F. Mayer, Assistant Librarian
 Army Medical Library  
 Washington, D. C.
 
-<span style="page" id="page7">[p.7]</span>
+<span class="page" id="page7">[p.7]</span>
 
 Keyes D. Metcalf, Director  
 Harvard College Library  
@@ -346,7 +346,7 @@ Chief, Division of Manuscripts
 Library of Congress  
 Washington, D. C.
 
-<span style="page" id="page8">[p.8]</span>
+<span class="page" id="page8">[p.8]</span>
 
 E. Wilder Spaulding  
 Division of Research and Publications  
@@ -378,9 +378,9 @@ Robert Haden Williams
 Brown University  
 Providence, Rhode Island
 
-<span style="page" id="page9">[p.9]</span>
+<span class="page" id="page9">[p.9]</span>
 
-CHAIRMAN LELAND: It is very gratifying to the
+<span class="speaker" data-speaker="LELAND">CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">It is very gratifying to the
 Council that so many of you should have been able to come to a
 conference which, considering its importance and the time of
 the year, was called perhaps rather suddenly without adequate
@@ -404,7 +404,7 @@ and our own information and instruction.
 
 One absence I must note particularly because it is
 a permanent absence. Those of you who knew Professor Robert
-Binkley, who died a few weeks ago, and who was Chairman of <span style="page" id="page10">[p.10]</span> the joint committee of the Council of Learned Societies and the
+Binkley, who died a few weeks ago, and who was Chairman of <span class="page" id="page10">[p.10]</span> the joint committee of the Council of Learned Societies and the
 Social Science Research Council, realize what a tremendous
 vacancy is left by his death. As Chairman of our joint committee, he devoted himself heart and soul to the interests of
 that committee; he was the committee, one could almost say.
@@ -426,7 +426,7 @@ who was full of ingenious suggestions, and so forth, but someone who was a very 
 I would like to say a word or two about the purpose
 of the Council in calling this conference. In the first place,
 why should the Council of Learned Societies call it instead
-of some other body? Probably there isn't any good answer to <span style="page" id="page11">[p.11]</span> that except that the Council was very much interested in it,
+of some other body? Probably there isn't any good answer to <span class="page" id="page11">[p.11]</span> that except that the Council was very much interested in it,
 but the Council does have a very comprehensive range of
 interests, from bibliography through the subject matter fields
 of social sciences and humanities, and it seemed to be in a
@@ -447,7 +447,7 @@ they seemed to offer to scholarship and to librarians was
 likely in the near future to cause perhaps a congestion of
 planning and projects and schemes and so forth, and that it
 was highly desirable at this time to see if we could pool our
-interests, so to speak, and endeavor to bring some order out <span style="page" id="page12">[p.12]</span> of what threatened to be a very real chaos, and so by bringing
+interests, so to speak, and endeavor to bring some order out <span class="page" id="page12">[p.12]</span> of what threatened to be a very real chaos, and so by bringing
 together the agencies most interested in these matters, we
 hope some approach to that can be made.
 
@@ -466,7 +466,7 @@ the areas in which those plans can be carried on, perhaps
 develop more plans more applicable to the American world, North
 and South America, or perhaps more applicable to the peaceful
 parts of Europe them to the parts which are now racked by war,
-and applicable to the Asiatic world where already some interesting work is being done. At any rate, as we go on we shall see <span style="page" id="page13">[p.13]</span> what the opinion of the conference is with regard to that.
+and applicable to the Asiatic world where already some interesting work is being done. At any rate, as we go on we shall see <span class="page" id="page13">[p.13]</span> what the opinion of the conference is with regard to that.
 
 With regard to the purpose of the conference, it
 seems to me that it is not to draw any definite plans at the
@@ -485,7 +485,7 @@ on foot, possibly, a good many projects which ought to be
 undertaken.
 
 That Committee will undoubtedly have a very important task to perform. Its duties will be heavy, without any
-doubt. But it will be an exceedingly important task and I am <span style="page" id="page14">[p.14]</span> sure it can command the hearty cooperation of everybody who is
+doubt. But it will be an exceedingly important task and I am <span class="page" id="page14">[p.14]</span> sure it can command the hearty cooperation of everybody who is
 interested.
 
 The Committee will perhaps be chosen a little
@@ -510,12 +510,12 @@ that call and which were duplicated and distributed a few days
 ago; it also consists of an additional memorandum submitted
 by Mr. Bemis; and finally, on the orange colored sheets, the
 final agenda headed by the schedule of the meetings. If any
-of you do not have all of that material, Mr. Daugherty will be <span style="page" id="page15">[p.15]</span> very glad to supply it to you.
+of you do not have all of that material, Mr. Daugherty will be <span class="page" id="page15">[p.15]</span> very glad to supply it to you.</span>
 
 ... Announcements regarding dinner at the Cosmos
 Club and schedule of meetings ...
 
-CHAIRMAN LELAND (Continuing): Those of you who
+<span class="speaker" data-speaker="LELAND">CHAIRMAN LELAND</span> (Continuing): Those of you who
 come from outside of Washington are invited on your return to
 fill out expense accounts which will be distributed to you
 by Dr. Daugherty and return them to the Council and you will
@@ -526,24 +526,24 @@ conference.
 We have to organize this conference by the democratic
 process of selecting a Chairman and a Reporter, and the first
 thing to do is to call for nominations for Chairman. Do I
-hear any nominations for Chairman?
+hear any nominations for Chairman?</span>
 
-MR. TATE: Mr. Chairman, I nominate Mr. Leland and
-Mr. Lydenberg to serve as co-chairmen.
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">Mr. Chairman, I nominate Mr. Leland and
+Mr. Lydenberg to serve as co-chairmen.</span>
 
-CHAIRMAN LELAND: A very ingenious suggestions which
-I welcome with all my heart. Are there any other nominations?
+<span class="speaker" data-speaker="LELAND">CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">A very ingenious suggestion which
+I welcome with all my heart. Are there any other nominations?</span>
 
-MR. PETTITT: I move the nominations be closed.
+<span class="speaker" data-speaker="PETTITT">MR. PETTITT</span>: <span class="speech" data-speaker="PETTITT">I move the nominations be closed.</span>
 
-CHAIRMAN LELAND: The nominations are closed. Those
+<span class="speaker" data-speaker="LELAND">CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">The nominations are closed. Those
 in favor will please say "aye"; those opposed will say "no,"
 and Mr. Lydenberg, will you please occupy a place here as
-Co-Chairman. <span style="page" id="page16">[p.16]</span>
+Co-Chairman. <span class="page" id="page16">[p.16]</span></span>
 
 ... Mr. H. M. Lydenberg took his place at the table as Co-Chairman ...
 
-CO-CHAIRMAN LELAND: The beauty of an arrangement of
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">The beauty of an arrangement of
 co-chairmen is that one can skip out every once in a while, and
 he can also wander about and test the sentiment of the crowd
 and come back and report to his collaborator.
@@ -553,11 +553,11 @@ trusted up to a certain point but it is not safe to rely on
 it too completely. (Laughter) The Council in the responsibility which it assumed for organizing this asks that you accept
 its judgment that Dr. Vernon Tate of the National Archives is
 the proper person to select as Reporter. If anyone wishes
-to nominate him, I will be glad to observe the democratic process to the extent of allowing you to vote upon him.
+to nominate him, I will be glad to observe the democratic process to the extent of allowing you to vote upon him.</span>
 
-MR. SIOUSSAT: I nominate Mr. Tate.
+<span class="speaker" data-speaker="SIOUSSAT">MR. SIOUSSAT</span>: <span class="speech" data-speaker="SIOUSSAT">I nominate Mr. Tate.</span>
 
-CO-CHAIRMAN LELAND: Are there any other nominations?
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Are there any other nominations?
 I hear none. The nominations are duly closed. Those in favor
 of Dr. Tate's serving as Reporter will please signify in the
 usual manner. Those opposed. Dr. Tate is unanimously and
@@ -565,7 +565,7 @@ duly elected Reporter and he will take one of these secondary
 chairs and assume his place on the rostrum.
 
 Let me explain that we expect the Reporter to do.
-First of all, as you can see a verbatim report is being kept of <span style="page" id="page17">[p.17]</span> these proceedings. That means in the course of time the
+First of all, as you can see a verbatim report is being kept of <span class="page" id="page17">[p.17]</span> these proceedings. That means in the course of time the
 Reporter will have a complete verbatim report which he will
 then edit and send to you as soon as possible, but not too
 soon---a complete report of this conference, a substantial report, which you can use in reporting to your organizations or
@@ -586,14 +586,14 @@ speak, and that seems to me to be a better device than appointing a committee wh
 the end of luncheon ask someone to present the conclusions
 of the committee.
 
-I think now we are fully organized except for the <span style="page" id="page18">[p.18]</span> appointment of the Continuation Committee. As to that, announcements will be made later.
+I think now we are fully organized except for the <span class="page" id="page18">[p.18]</span> appointment of the Continuation Committee. As to that, announcements will be made later.
 
 So now we come to the agenda. We must adopt the
 agenda, of course. This agenda has been drawn up tentatively
 and I ask if it meets with your approval, if you think it
-presents a workable order of exercises along which you can proceed. Are there any addition which should be made to it?
+presents a workable order of exercises along which you can proceed. Are there any addition which should be made to it?</span>
 
-MR. TILLEUX: You have already told us that the
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">You have already told us that the
 recent trend of events in Europe may change the direction of
 our thinking in terms of North and South America or Asia or
 other parts of the world. If we do remain constant in our
@@ -602,27 +602,27 @@ place on the agenda some discussion of barriers offered bý
 censorship. In other words, we can send to Bibliothèque
 Nationale an order for materials, but when they get to the
 frontier will they stop there? What assurance is there that
-they will reach us?
+they will reach us?</span>
 
-CO-CHAIRMAN LELAND: That is an important point and
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">That is an important point and
 should be taken into consideration when we come to discuss the
 question of where we shall work, where these operations shall
 be carried on, and I think we will do well to bear that problem in mind, and I hope Mr. Tilleux will take the opportunity
-of discussing it at that time. <span style="page" id="page19">[p.19]</span>
+of discussing it at that time. <span class="page" id="page19">[p.19]</span></span>
 
-MR. BEMIS: Is this "Preliminary Memorandum" what
-you mean by agenda?
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">Is this "Preliminary Memorandum" what
+you mean by agenda?</span>
 
-CO-CHAIRMAN LELAND: No, this agenda was distributed
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">No, this agenda was distributed
 to you only a few days ago. I am inclined to think the agenda
 is flexible enough so it can allow for departures, modifications, accretions, and so forth as we go along, and unless
 there are other additions to suggest, we may perhaps regard it
-as serviceable and proceed along the lines indicated in it.
+as serviceable and proceed along the lines indicated in it.</span>
 
-MR. BEMIS: Mr. Chairman, I suggest it might be well
-to allocate time periods for each of these.
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">Mr. Chairman, I suggest it might be well
+to allocate time periods for each of these.</span>
 
-CO-CHAIRMAN LELAND: Perhaps so. I hadn't thought
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Perhaps so. I hadn't thought
 of establishing a time schedule. It is easier to do that after
 we get into a thing a little than at the very beginning, but
 I thought that Chapter I, Existing Agencies, Facilities and
@@ -634,7 +634,7 @@ aspects of it. The details have got to be left to the
 Continuation Committee. No. V will require some deliberation,
 but there again it has to be left to the Continuation Committee
 and so with No. VI. I think if we remember all through this
-that this conference is not going to solve all the problems, is <span style="page" id="page20">[p.20]</span> not going to find all the answers, and is not going to set
+that this conference is not going to solve all the problems, is <span class="page" id="page20">[p.20]</span> not going to find all the answers, and is not going to set
 up a definite plan of work, but is rather going to discuss
 general principles and procedures and policies and practices
 that will be useful for a Continuation Committee to consider,
@@ -658,7 +658,7 @@ like. I will rule it can be considered at any time between
 sections of the agenda.
 
 The first question that we are asking ourselves here
-is: What are the major existing agencies and facilities for <span style="page" id="page21">[p.21]</span> microphotography in the United States and in foreign countries?
+is: What are the major existing agencies and facilities for <span class="page" id="page21">[p.21]</span> microphotography in the United States and in foreign countries?
 This is a rapid gathering of information. Some of those of
 course have been indicated just by way of example in the
 preliminary memorandum. Others have been indicated in considerably more detail in the additional memoranda that were
@@ -667,70 +667,70 @@ and that we must bear in mind. Particularly, I think one thing
 we want to know is at what universities are special microfilm
 projects set up? At what universities have special facilities
 been provided so that they are carrying on work in this much
-beyond the usual work, the normal work of a university in providing copying service? We know of course that at the University of Chicago there is a major project.
+beyond the usual work, the normal work of a university in providing copying service? We know of course that at the University of Chicago there is a major project.</span>
 
-MR. FUSSLER: I wonder if you won't find most of this
-data already compiled in the Journal of Documentary Reproduction.
+<span class="speaker" data-speaker="FUSSLER">MR. FUSSLER</span>: <span class="speech" data-speaker="FUSSLER">I wonder if you won't find most of this
+data already compiled in the Journal of Documentary Reproduction.</span>
 
-CO-CHAIRMAN LELAND: Yes, I was going to refer to
-that as a source of material about much of which we are discussing.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Yes, I was going to refer to
+that as a source of material about much of which we are discussing.</span>
 
-MR. MILAM: I think Mr. Fussler might name those
-universities. He knows all of them.
+<span class="speaker" data-speaker="MILAM">MR. MILAM</span>: <span class="speech" data-speaker="MILAM">I think Mr. Fussler might name those
+universities. He knows all of them.</span>
 
-MR. FUSSLER: That is depending on my memory more <span style="page" id="page22">[p.22]</span> than is warranted. Certainly the larger universities at present
+<span class="speaker" data-speaker="FUSSLER">MR. FUSSLER</span>: <span class="speech" data-speaker="FUSSLER">That is depending on my memory more <span class="page" id="page22">[p.22]</span> than is warranted. Certainly the larger universities at present
 are equipped to more or less extent. That would include
-Columbia, Harvard, Yale, Brown, Chicago, Wisconsin, Iowa, Virginia, and so forth; some on the West Coast; Temple University.
+Columbia, Harvard, Yale, Brown, Chicago, Wisconsin, Iowa, Virginia, and so forth; some on the West Coast; Temple University.</span>
 
-MR. BOYD: University of Alabama.
+<span class="speaker" data-speaker="BOYD">MR. BOYD</span>: <span class="speech" data-speaker="BOYD">University of Alabama.</span>
 
-MR. FUSSLER: The mere naming of the institutions
+<span class="speaker" data-speaker="FUSSLER">MR. FUSSLER</span>: <span class="speech" data-speaker="FUSSLER">The mere naming of the institutions
 will not of course mean that the services are comparable, but
-there is something there.
+there is something there.</span>
 
-CO-CHAIRMAN LELAND: Are there any others?
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Are there any others?</span>
 
-MR. POWER: There is the University of Minnesota
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">There is the University of Minnesota
 and my own organization at the University of Michigan which
 is really their photographing department, and in that same
 connection, and while I am saying something about it, I thought
 we ought to say something about the facilities which we have
 abroad, and which I assume is included in this question, is
-that right?
+that right?</span>
 
-CO-CHAIRMAN LELAND: I thought we would first discuss the facilities in this country and then the facilities
-abroad.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I thought we would first discuss the facilities in this country and then the facilities
+abroad.</span>
 
-MR. SCHWEGMANN: May I amplify that list a bit
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">May I amplify that list a bit
 of the services available: Library of Congress, National
 Archives, Bibliofilm Service, University of Chicago, Brown,
-Columbia, Harvard, University Microfilms, Yale, University of <span style="page" id="page23">[p.23]</span> Virginia, University of Wisconsin, Temple University, University
-of Alabama. No doubt there are several others.
+Columbia, Harvard, University Microfilms, Yale, University of <span class="page" id="page23">[p.23]</span> Virginia, University of Wisconsin, Temple University, University
+of Alabama. No doubt there are several others.</span>
 
-MR. TATE: Vanderbilt, for one, California, University of Texas, Historical Society of Pennsylvania. There
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">Vanderbilt, for one, California, University of Texas, Historical Society of Pennsylvania. There
 are a number of historical societies in the country that have
 facilities: Peabody, for example, State Archives of Illinois,
-University of New Mexico, Huntington Library.
+University of New Mexico, Huntington Library.</span>
 
-MR. VANDERBILT: May I ask if there is contemplation
+<span class="speaker" data-speaker="VANDERBILT">MR. VANDERBILT</span>: <span class="speech" data-speaker="VANDERBILT">May I ask if there is contemplation
 that a further list of that kind be published? If not, I
 think it would be highly desirable to make a complete list of
-all photographic facilities available in the country.
+all photographic facilities available in the country.</span>
 
-MR. TILLEUX: There is, I believe, in the June issue
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">There is, I believe, in the June issue
 for 1939 of the Journal of Documentary Reproduction a rather
 complete list of universities which have these facilities. They
 also list some private organizations, Holbrook, Microfilms of
 New York, the Graphic Service Company of Boston, and some
 company in Indianapolis, Indiana, the name of which escapes
 me at the present time. They are springing up like mushrooms
-and you have to keep a loose-leaf list.
+and you have to keep a loose-leaf list.</span>
 
-MR. CARRUTHERS: I might mention the Library of
+<span class="speaker" data-speaker="CARRUTHERS">MR. CARRUTHERS</span>: <span class="speech" data-speaker="CARRUTHERS">I might mention the Library of
 the Hispanic Society in New York which provides films and
-photostats.
+photostats.</span>
 
-MR. SIOUSSAT: Isn't it dependent on what you mean <span style="page" id="page24">[p.24]</span> by the word "major," Mr. Chairman? Your agenda calls for
+<span class="speaker" data-speaker="SIOUSSAT">MR. SIOUSSAT</span>: <span class="speech" data-speaker="SIOUSSAT">Isn't it dependent on what you mean <span class="page" id="page24">[p.24]</span> by the word "major," Mr. Chairman? Your agenda calls for
 the major existing facilities for microphotography. If you
 are going to include minor ones, the list could be almost
 indefinitely extended.
@@ -749,47 +749,47 @@ which really carries over into Part 2 and Part 3. That is to
 say, are we looking forward in asking these questions, in going
 over this list, to the continuation of interchange of information all the time, year after year, about both agencies and
 plans? That would perhaps come under No. 3, but it is raised
-immediately by your question.
+immediately by your question.</span>
 
-CO-CHAIRMAN LELAND: Quite right. Mr. Stewart, you
-have been doing a survey lately.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Quite right. Mr. Stewart, you
+have been doing a survey lately.</span>
 
-MR. STEWART: Yes. I think all the major ones have
-been mentioned. I have in my office some material which I can <span style="page" id="page25">[p.25]</span> give the Reporter, a supplementary list which would include a
+<span class="speaker" data-speaker="STEWART">MR. STEWART</span>: <span class="speech" data-speaker="STEWART">Yes. I think all the major ones have
+been mentioned. I have in my office some material which I can <span class="page" id="page25">[p.25]</span> give the Reporter, a supplementary list which would include a
 number of minor ones which haven't been mentioned. I can't
-add anything right now.
+add anything right now.</span>
 
-CO-CHAIRMAN LELAND: This is a form of information
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">This is a form of information
 we should like very much to see kept current, and doubtless in
 the Journal of Documentary Reproduction there will be published
 from time to time a list of both the major and the minor
 plants and facilities that are provided in universities and
-libraries and in private hands.
+libraries and in private hands.</span>
 
-MR. TATE: Mr. Chairman, it is rather hard to distinguish between "major" and "minor" when you are compiling a
-list.
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">Mr. Chairman, it is rather hard to distinguish between "major" and "minor" when you are compiling a
+list.</span>
 
-CO-CHAIRMAN LELAND: Perhaps it would be better not
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Perhaps it would be better not
 to try to make that invidious description, but a descriptive
 note of the operations and the scope and purpose of them
 perhaps would enable the reader to classify in his own mind
-as to whether they were major or minor.
+as to whether they were major or minor.</span>
 
-MR. MacLEISH: From the point of view of any central
+<span class="speaker" data-speaker="MacLEISH">MR. MacLEISH</span>: <span class="speech" data-speaker="MacLEISH">From the point of view of any central
 organization that might perhaps be set up to control operations
 in this country, it is very important indeed that there should
 be a census of apparatus, with some notion as to its capacity.
 For example, if there were set up in connection with the Union
-Catalogue of the Library of Congress (to imagine a possible <span style="page" id="page26">[p.26]</span> situation) a central finding unit through which requests were
+Catalogue of the Library of Congress (to imagine a possible <span class="page" id="page26">[p.26]</span> situation) a central finding unit through which requests were
 filed and out of which they were forwarded, it would be
 absolutely essential to know what depositories had facilities
 and what they were. I should think a very useful suggestion
 that might come from this conference would be a suggestion
 that all institutions which do come under the general scope
 of this inquiry might wish to file within whatever central
-body is designated a description of their facilities.
+body is designated a description of their facilities.</span>
 
-CO-CHAIRMAN LELAND: I think that would be a very
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I think that would be a very
 good suggestion. I wonder if that isn't the line we had
 better take. At any rate, it seems desirable to gather and to
 keep on hand current information, up-to-date information with
@@ -802,9 +802,9 @@ is to know what facilities already exist there. We won't
 wish to duplicate them but to utilize them. Those of you who
 have followed that can give us some indication as to where the
 most important apparatus is located and places that are prepared to fill orders from foreign countries. Mr. Power, you
-have made a very recent study of that.
+have made a very recent study of that.</span>
 
-MR. POWER: This last summer I was abroad for that <span style="page" id="page27">[p.27]</span> very purpose, for the dual purpose of finding out what
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">This last summer I was abroad for that <span class="page" id="page27">[p.27]</span> very purpose, for the dual purpose of finding out what
 facilities were available and also for the purpose of setting
 up facilities where they were not available. At the present
 time the services in England are fairly complete. The British
@@ -826,7 +826,7 @@ the International Labor Office has a camera which is available to travel around 
 
 In Italy the Vatican has a camera of mine which
 they operate and which is portable and this past summer
-an operator traveled over Italy collecting microfilms of <span style="page" id="page28">[p.28]</span> manuscript material for the Library of Congress and the Modern
+an operator traveled over Italy collecting microfilms of <span class="page" id="page28">[p.28]</span> manuscript material for the Library of Congress and the Modern
 Language Association.
 
 In Germany the situation looked very promising in
@@ -840,54 +840,54 @@ organization represents these people in the United States
 and we have attempted to serve in somewhat the manner in which
 Mr. MacLeish mentioned, that is, as a centralized spot or place
 to which American scholars might well send their orders, inasmuch as we had a little more information than the individual
-himself.
+himself.</span>
 
-CO-CHAIRMAN LELAND: That is very interesting information about the European facilities.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">That is very interesting information about the European facilities.
 
 Mr. Leonard, do you recall offhand what institutions
-have received special assistance from the Rockefeller Foundation for the provision of facilities of this sort?
+have received special assistance from the Rockefeller Foundation for the provision of facilities of this sort?</span>
 
-MR. LEONARD: Bodleian and Kings College received
-some support. I believe that is about all. I am not sure.
+<span class="speaker" data-speaker="LEONARD">MR. LEONARD</span>: <span class="speech" data-speaker="LEONARD">Bodleian and Kings College received
+some support. I believe that is about all. I am not sure.</span>
 
-CO-CHAIRMAN LELAND: Is there any other information <span style="page" id="page29">[p.29]</span> in regard to the important facilities existing in Europe?
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Is there any other information <span class="page" id="page29">[p.29]</span> in regard to the important facilities existing in Europe?</span>
 
-MR. TATE: I can add a few, Mr. Chairman. The F.I.D.
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">I can add a few, Mr. Chairman. The F.I.D.
 at The Hague has German equipment, or had; I don't know what
 the situation is now. There is an installation at the Royal
 Library in Stockholm. There is another at the Danish Archives
 in Copenhagen, and there is still another at Oslo, at the
 University Library under Dr. Munthe. I think those are the
-principal ones I know about.
+principal ones I know about.</span>
 
-CO-CHAIRMAN LYDENBERG: Does anyone know anything
-about Russian equipment?
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Does anyone know anything
+about Russian equipment?</span>
 
-MR. TATE: They were interested at one time but I
-don't think they did more than a little some years ago.
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">They were interested at one time but I
+don't think they did more than a little some years ago.</span>
 
-CO-CHAIRMAN LYDENBERG: I recall, I think, some
-films coming out of Russia, although I am not certain.
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">I recall, I think, some
+films coming out of Russia, although I am not certain.</span>
 
-CO-CHAIRMAN LELAND: Mr. Graves, do you know anything
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Mr. Graves, do you know anything?</span>
 
-MR. GRAVES: No.
+<span class="speaker" data-speaker="GRAVES">MR. GRAVES</span>: <span class="speech" data-speaker="GRAVES">No.</span>
 
-MR. POWER: E. V. Pratt of the National Microfilming
-Company did sell the Russians a camera.
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">E. V. Pratt of the National Microfilming
+Company did sell the Russians a camera.</span>
 
-MR. BEMIS: Some ten years ago the Russians were
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">Some ten years ago the Russians were
 doing a great deal of work; I remember particularly in Berlin
 at that time they were photographing police records of
 Communists who had been arrested in Berlin in previous years,
-and treasuring those documents in their archives. <span style="page" id="page30">[p.30]</span> CO-CHAIRMAN LELAND: Very practical people, the Russians!
+and treasuring those documents in their archives. <span class="page" id="page30">[p.30]</span> CO-CHAIRMAN LELAND: Very practical people, the Russians!
 
 Mr. Graves, you were up a moment or two ago. We
 haven't mentioned Asia. You know I suppose better than
 anyone except Mr. Hummel and Mr. Swingle what provision there
-is in China.
+is in China.</span>
 
-MR. GRAVES: First of all, before you get out of
+<span class="speaker" data-speaker="GRAVES">MR. GRAVES</span>: <span class="speech" data-speaker="GRAVES">First of all, before you get out of
 Europe, there was a machine in the Historical Institute in
 Prague, and just before the Germans went in, Mendle, the
 Director of the Institute, wrote me that he had put 9,000
@@ -904,7 +904,7 @@ that it is in operation. We have sent film and chemicals
 over to them. There seems to be no reason why one can't
 get copies now of anything that is in any Peiping library.
 Presumably that will be kept in touch with by the Division of
-Orientalia of the Library of Congress, but the system hasn't <span style="page" id="page31">[p.31]</span> been worked out yet.
+Orientalia of the Library of Congress, but the system hasn't <span class="page" id="page31">[p.31]</span> been worked out yet.
 
 Besides that, the chief of the India collection
 in the Library of Congress has taken a portable machine with
@@ -913,59 +913,59 @@ depository in India which will assume the responsibility for
 caring for it and supplying microfilm materials from such
 other depositories in India as it is able to get them from.
 
-There must be something in Japan, but I don't know.
+There must be something in Japan, but I don't know.</span>
 
-MR. BEMIS: All I know is that Japan for ten years
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">All I know is that Japan for ten years
 back has been doing quite a little work. Whether it is by the
 government or by Japanese scholars, I am unable to say, but
-I remember they were at The Hague photographing Dutch records.
+I remember they were at The Hague photographing Dutch records.</span>
 
-CO-CHAIRMAN LELAND: Yes, the Cabinet of Tokyo
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Yes, the Cabinet of Tokyo
 had a commission in Europe for a long time seeking documents
 of interest to the Japanese. That operated with the advice
-of the Committee on Far Eastern Studies.
+of the Committee on Far Eastern Studies.</span>
 
-MR. SCHWEGMANN: One of Dr. Seidell's camera has
-been in Japan for about nine months.
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">One of Dr. Seidell's camera has
+been in Japan for about nine months.</span>
 
-MR. SWINGLE: I was going to say the same thing.
+<span class="speaker" data-speaker="SWINGLE">MR. SWINGLE</span>: <span class="speech" data-speaker="SWINGLE">I was going to say the same thing.
 It can be used and we can undoubtedly get certain easily
-available material from Japan.
+available material from Japan.</span>
 
-CO-CHAIRMAN LELAND: Mr. Seidell, do you have any
-other cameras scattered around in far parts? <span style="page" id="page32">[p.32]</span>
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Mr. Seidell, do you have any
+other cameras scattered around in far parts? <span class="page" id="page32">[p.32]</span></span>
 
-MR. SEIDELL: No other far parts. I have one in
-England, although it hasn't been used yet.
+<span class="speaker" data-speaker="SEIDELL">MR. SEIDELL</span>: <span class="speech" data-speaker="SEIDELL">No other far parts. I have one in
+England, although it hasn't been used yet.</span>
 
-CO-CHAIRMAN LELAND: Have you any in Paris?
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Have you any in Paris?</span>
 
-MR. SEIDELL: About eight there.
+<span class="speaker" data-speaker="SEIDELL">MR. SEIDELL</span>: <span class="speech" data-speaker="SEIDELL">About eight there.</span>
 
-MR. WATSON DAVIS: In Paris there is equipment in
+<span class="speaker" data-speaker="WATSON DAVIS">MR. WATSON DAVIS</span>: <span class="speech" data-speaker="WATSON DAVIS">In Paris there is equipment in
 the Maison de La Chimie, and also at the National Council of
 Scientific Research. I don't know what the facilities are
-there, but they are ordering microfilm.
+there, but they are ordering microfilm.</span>
 
-MR. TATE: There is a camera at Poona, India, in the
-Government Registry Office.
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">There is a camera at Poona, India, in the
+Government Registry Office.</span>
 
-CO-CHAIRMAN LELAND: Do we know anything about South
-America and where apparatus is installed there?
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Do we know anything about South
+America and where apparatus is installed there?</span>
 
-MR. BEMIS: Yes, we have an apparatus for microfilming and photostating at Archivo General de la Nacion
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">Yes, we have an apparatus for microfilming and photostating at Archivo General de la Nacion
 in Buenos Aires, they have a photostat machine in the
 Bibliotheca Nacional in Rio de Janeiro, and they were about to
 put one in the National Archives in Chile. Whether that has
 actually been installed, I am not sure. I don't know of any
-others in South America.
+others in South America.</span>
 
-CO-CHAIRMAN LELAND: Mr. Leonard, have you any
-other information about South America?
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Mr. Leonard, have you any
+other information about South America?</span>
 
-MR. LEONARD: No; there is none yet in Chile.
+<span class="speaker" data-speaker="LEONARD">MR. LEONARD</span>: <span class="speech" data-speaker="LEONARD">No; there is none yet in Chile.</span>
 
-MR. SWINGLE: Mr. Chairman; I might say a word about <span style="page" id="page33">[p.33]</span> the work of the Bibliotheca Nacional in Rio de Janeiro.
+<span class="speaker" data-speaker="SWINGLE">MR. SWINGLE</span>: <span class="speech" data-speaker="SWINGLE">Mr. Chairman; I might say a word about <span class="page" id="page33">[p.33]</span> the work of the Bibliotheca Nacional in Rio de Janeiro.
 The director there showed me some of their work and he made
 a photostat in my presence to show me how it looks. It is
 transparent. You put it in the machine to print directly on
@@ -976,37 +976,37 @@ with me for my own use. Of course, the Bibliofilms created
 a very great interest, both in the library and at the Department of Agriculture there, and the projection machine was
 purchased for the new National School of Agriculture some forty
 kilometers west of Rio. They were quick to appreciate the
-importance of it.
+importance of it.</span>
 
-CO-CHAIRMAN LELAND: We have had a rapid swing
-around the world.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">We have had a rapid swing
+around the world.</span>
 
-MR. BUCK: Is there equipment in Canada? The
+<span class="speaker" data-speaker="BUCK">MR. BUCK</span>: <span class="speech" data-speaker="BUCK">Is there equipment in Canada? The
 Public Archives does a good deal of photostating. Do they have
-a microfilm apparatus? 
+a microfilm apparatus? </span>
 
-MR. TATE: Not yet.
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">Not yet.</span>
 
-MR. BUCK: Didn't you say there was one in Mexico?
+<span class="speaker" data-speaker="BUCK">MR. BUCK</span>: <span class="speech" data-speaker="BUCK">Didn't you say there was one in Mexico?</span>
 
-MR. TATE: No, only a possibility of getting a man
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">No, only a possibility of getting a man
 who does a certain amount of work there. There is a camera
-there but it is not available generally. <span style="page" id="page34">[p.34]</span>
+there but it is not available generally. <span class="page" id="page34">[p.34]</span></span>
 
-MR. POWER: There is one at the Library of Toronto,
-I know.
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">There is one at the Library of Toronto,
+I know.</span>
 
-MR. TATE: I will take back what I have just said.
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">I will take back what I have just said.
 There is a camera in the Department of Foreign Relations in
 Mexico but it was bought for the Mexican governmental use and
-is not available for foreign use.
+is not available for foreign use.</span>
 
-MR. BUCK: I think there is a microcamera in
-South Africa.
+<span class="speaker" data-speaker="BUCK">MR. BUCK</span>: <span class="speech" data-speaker="BUCK">I think there is a microcamera in
+South Africa.</span>
 
-MR. TATE: Yes, in Capetown, a Leica.
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">Yes, in Capetown, a Leica.</span>
 
-CO-CHAIRMAN LELAND: At least that gives us
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">At least that gives us
 volume of information to start off with, and we have a little
 better idea than we first had of the distribution of the
 apparatus.
@@ -1021,36 +1021,36 @@ I don't know whether it is desirable to devote very
 much time to that. We know of such projects as Project A
 of the Library of Congress, and we know of the great newspaper
 project carried on by the University of Chicago and the
-American Library Association, and the work of the Maison de <span style="page" id="page35">[p.35]</span> La Chimie in Paris, and there are others that are being carried
+American Library Association, and the work of the Maison de <span class="page" id="page35">[p.35]</span> La Chimie in Paris, and there are others that are being carried
 out. At Brown there is a new laboratory. Mr. Roosen-Runge,
-what are you actually doing there now?
+what are you actually doing there now?</span>
 
-MR. ROOSEN-RUNGE: The main work is to complete
+<span class="speaker" data-speaker="ROOSEN-RUNGE">MR. ROOSEN-RUNGE</span>: <span class="speech" data-speaker="ROOSEN-RUNGE">The main work is to complete
 the Mathematics Library and to give service to mathematical
 reviews and the new Mathematical Abstract Journal. That work
-is being supported by the Rockefeller Foundation.
+is being supported by the Rockefeller Foundation.</span>
 
-CO-CHAIRMAN LELAND: It has to do chiefly with that,
-then, and it is not prepared to undertake other work?
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">It has to do chiefly with that,
+then, and it is not prepared to undertake other work?</span>
 
-MR. ROOSEN-RUNGE: Yes, it is, but that is the main
-work going on now.
+<span class="speaker" data-speaker="ROOSEN-RUNGE">MR. ROOSEN-RUNGE</span>: <span class="speech" data-speaker="ROOSEN-RUNGE">Yes, it is, but that is the main
+work going on now.</span>
 
-MR. SIOUSSAT: I can give you the specific figures
+<span class="speaker" data-speaker="SIOUSSAT">MR. SIOUSSAT</span>: <span class="speech" data-speaker="SIOUSSAT">I can give you the specific figures
 for the Modern Language Association for the past year if you
-so desire.
+so desire.</span>
 
-CO-CHAIRMAN LELAND: You mean the old Rotograph
-Service?
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">You mean the old Rotograph
+Service?</span>
 
-MR. SIOUSSAT: No, I mean the microfilms.
+<span class="speaker" data-speaker="SIOUSSAT">MR. SIOUSSAT</span>: <span class="speech" data-speaker="SIOUSSAT">No, I mean the microfilms.
 
 Sixty microfilms and two rotographs from Great Britain: Forty-three from the British Museum, 12 from the Bodleian,
 one from the Victoria and Albert Museum, one from Durham,
 one from Cambridge University, one from Gonville and Caius
 College Library at Cambridge, and one from Emanuel College.
 
-Fifty-eight microfilms from France, divided between <span style="page" id="page36">[p.36]</span> the Bibliothèque Nationale, 38; Bibliothèque de l'Arsenal, 7;
+Fifty-eight microfilms from France, divided between <span class="page" id="page36">[p.36]</span> the Bibliothèque Nationale, 38; Bibliothèque de l'Arsenal, 7;
 Bibliothèque de la Sorbonne, 1; the Archives de la Comédie
 Française 8, and the municipal libraries at Avranches, Metz,
 Rouen, and Tours, 1 film each.
@@ -1078,9 +1078,9 @@ one from Australia. That is in the Modern Language Series.
 In the second group, the Council of Learned Societies: three rotographs and one microfilm from Great Britain;
 four rotographs and one microfilm from the Bibliothèque
 Nationale; eight rotographs and one microfilm from Germany;
-four rotographs from Italy, and three rotographs from Denmark. <span style="page" id="page37">[p.37]</span>
+four rotographs from Italy, and three rotographs from Denmark. <span class="page" id="page37">[p.37]</span></span>
 
-CO-CHAIRMAN LELAND: Thank you. That shows the production during the year of one of the continuing projects,
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Thank you. That shows the production during the year of one of the continuing projects,
 started by the Modern Language Association and maintained in
 cooperation with the Library of Congress, which enables individual scholars to place orders for documents they need. They
 are loaned to the scholars. They become the property of the
@@ -1101,22 +1101,22 @@ for securing on order documents or materials that are needed
 by individual scholars. Suppose before we go any farther we
 see if we know any other services of just that sort that are
 being set up or that are in operation, service for taking
-orders from individual scholars for material that they need, <span style="page" id="page38">[p.38]</span> securing the photographic reproductions of those materials
+orders from individual scholars for material that they need, <span class="page" id="page38">[p.38]</span> securing the photographic reproductions of those materials
 and servicing them to the scholars who have requested them.
-Are there any others?
+Are there any others?</span>
 
-MR. WATSON DAVIS: The American Documentation
+<span class="speaker" data-speaker="WATSON DAVIS">MR. WATSON DAVIS</span>: <span class="speech" data-speaker="WATSON DAVIS">The American Documentation
 Institute is servicing perhaps well over a thousand such other
-per month.
+per month.</span>
 
-CO-CHAIRMAN LELAND: You deal largely with the sciences
-don't you?
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">You deal largely with the sciences
+don't you?</span>
 
-MR. DAVIS: Not only sciences, but all fields.
+<span class="speaker" data-speaker="DAVIS">MR. DAVIS</span>: <span class="speech" data-speaker="DAVIS">Not only sciences, but all fields.</span>
 
-CO-CHAIRMAN LELAND: Are the majority of your requests in the fields of the sciences?
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Are the majority of your requests in the fields of the sciences?</span>
 
-MR. DAVIS: The majority are because of the libraries
+<span class="speaker" data-speaker="DAVIS">MR. DAVIS</span>: <span class="speech" data-speaker="DAVIS">The majority are because of the libraries
 that are served by the Bibliofilm Service of the American
 Documentation Institute---the Library of the Department of
 Agriculture, the Army Medical Library, the Geological Survey
@@ -1125,19 +1125,19 @@ borrowing books many other libraries in Washington. I might
 also add that since we receive a good many orders which can
 be supplied most effectively by the Library of Congress quite
 informally but with effectiveness, those orders are transferred there and filled so that the ultimate object which
-we are interested in is that the service to the scholar and the <span style="page" id="page39">[p.39]</span> scientist is fulfilled satisfactorily.
+we are interested in is that the service to the scholar and the <span class="page" id="page39">[p.39]</span> scientist is fulfilled satisfactorily.</span>
 
-CO-CHAIRMAN LELAND: That is a service, then, for
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">That is a service, then, for
 securing copies of materials which are in large part in
-Washington libraries.
+Washington libraries.</span>
 
-MR. DAVIS: Yes.
+<span class="speaker" data-speaker="DAVIS">MR. DAVIS</span>: <span class="speech" data-speaker="DAVIS">Yes.</span>
 
-CO-CHAIRMAN LELAND: Whereas, the service that
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Whereas, the service that
 Mr. Sioussat is describing is for securing materials that are
-in foreign libraries.
+in foreign libraries.</span>
 
-MR. DAVIS: In addition to that, when we have had a
+<span class="speaker" data-speaker="DAVIS">MR. DAVIS</span>: <span class="speech" data-speaker="DAVIS">In addition to that, when we have had a
 request, we have been quite successful, sometimes directly,
 sometimes with the help of the State Department, in securing
 materials which individual scholars have not been able to secure in foreign depositories. One that I happen to remember involved material in Leningrad. It is true that did not come in
@@ -1150,12 +1150,12 @@ case since the preference of the individual was for microfilm,
 we turned the photostatic material into microfilm at the request of the person who ordered it.
 
 There is one other project which I would like to
-mention, that is the sets of journals that are out of print <span style="page" id="page40">[p.40]</span> or difficult to obtain which have been provided by the American
+mention, that is the sets of journals that are out of print <span class="page" id="page40">[p.40]</span> or difficult to obtain which have been provided by the American
 Documentation Institute through a grant of the Committee on
 Scientific Aids to Learning of the National Research Council,
-which is a long-term copy project.
+which is a long-term copy project.</span>
 
-MR. POWER: In your preliminary memorandum you mentioned something about English books before 1640. I don't
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">In your preliminary memorandum you mentioned something about English books before 1640. I don't
 know whether everyone here knows it or not but we are already
 engaged in photographing books printed in England up to 1550 and
 have recently managed to extend that through 1600, with the
@@ -1167,14 +1167,14 @@ mentioned in his reply, namely, the American periodicals prior
 to 1800 and a selected list of books on American culture from
 the Columbus Letter through the same date. All of those are
 self-supporting in themselves and don't need any help from
-outside.
+outside.</span>
 
-CO-CHAIRMAN LELAND: We have developed two kinds of
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">We have developed two kinds of
 enterprises, one for doing, let us say, short orders for
 individual scholars, securing notes, and the other which are
 large-scale enterprises, securing large bodies of material of
 a specified sort which are subscribed to by libraries rather
-than individual scholars. Before we leave that point, I should <span style="page" id="page41">[p.41]</span> like to know if in addition to the three agencies available
+than individual scholars. Before we leave that point, I should <span class="page" id="page41">[p.41]</span> like to know if in addition to the three agencies available
 for short orders, Mr. Powers, the Library of Congress and the
 American Documentation Institute, there are any other agencies
 that receive requests from scholars and fill those requests
@@ -1187,22 +1187,22 @@ very interesting: the Modern Language Association dealing
 mostly in literature and for the modern field, and Mr. Davis
 dealing rather largely with demands from scientists, and Mr.
 Power meeting general demands, demands of all sort but largely
-in the field of literature, isn't that true?
+in the field of literature, isn't that true?</span>
 
-MR. POWER: Perhaps, yes, but it covers anything anybody wants.
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">Perhaps, yes, but it covers anything anybody wants.</span>
 
-CO-CHAIRMAN LYDENBERG: Mr. Chairman, in that
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Mr. Chairman, in that
 connection have we in this country a center of information
 about the nearest point of help for appeals from out-of-the-way places and for material in out-of-the-way places? Is the
 Journal of Documentary Reproduction, for instance, able to
 tell us where is the best place to turn to for something in
-Bucharest, or in this country if one of the smaller <span style="page" id="page42">[p.42]</span> universities wants something in another part of the country.
+Bucharest, or in this country if one of the smaller <span class="page" id="page42">[p.42]</span> universities wants something in another part of the country.
 Where can we find out what is the most expeditious and reliable
-source to turn to?
+source to turn to?</span>
 
-CO-CHAIRMAN LELAND: That is not a rhetorical question, is it?
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">That is not a rhetorical question, is it?</span>
 
-MR. TATE: Mr. Chairman, the Journal tries in so far
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">Mr. Chairman, the Journal tries in so far
 as possible to supply such information, but it is more or less
 handled on an informal basis. In many cases we refer questions
 to sources which we know or believe to have access to the
@@ -1211,22 +1211,22 @@ Library must, as well as a great many other sources. The
 tendency is for people to write to their research library in
 their immediate vicinity. The question then may be relayed
 half a dozen times before the final information is reached.
-There is no organization center.
+There is no organization center.</span>
 
-CO-CHAIRMAN LYDENBERG: Would it be fair to the
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Would it be fair to the
 Journal to say it was willing to act as a focus for such
 requests, granting that they have not been able to be answered
-at the point of first attack?
+at the point of first attack?</span>
 
-MR. TATE: The Journal would be willing to do so.
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">The Journal would be willing to do so.
 Unfortunately, the Journal is not overly burdened with clerical
-assistance and the mechanical problem of answering those queries <span style="page" id="page43">[p.43]</span> is quite a considerable one.
+assistance and the mechanical problem of answering those queries <span class="page" id="page43">[p.43]</span> is quite a considerable one.</span>
 
-CO-CHAIRMAN LELAND: We have developed another need,
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">We have developed another need,
 haven't we, Mr. Lydenberg, and think it ought to go to the
-Continuation Committee.
+Continuation Committee.</span>
 
-MR. DAVIS: To a very large extent the American
+<span class="speaker" data-speaker="DAVIS">MR. DAVIS</span>: <span class="speech" data-speaker="DAVIS">To a very large extent the American
 Documentation Institute in a practical way is serving that need
 That is, in a very large number of instances where the request can't be filled in this city, we do forward it to a
 library that we are confident does have both the material desired and the facilities. I would like at some appropriate
@@ -1234,15 +1234,15 @@ time during these sessions briefly but with emphasis to put
 forth the idea that we should have a cooperating microfilm network which would effectively do this job without any particular
 control by the central agency of the integral units in the
 network, but with the idea of making effective contribution
-to scholarship and scientific research.
+to scholarship and scientific research.</span>
 
-CO-CHAIRMAN LELAND: Wouldn't you be willing to put
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Wouldn't you be willing to put
 that in the hands of the Continuation Committee in the form
-of a memorandum, Mr. Davis?
+of a memorandum, Mr. Davis?</span>
 
-MR. BEMIS: Mr. Chairman, in answer to the Co-Chairman's question, I think, Mr. Lydenberg, we touch here a
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">Mr. Chairman, in answer to the Co-Chairman's question, I think, Mr. Lydenberg, we touch here a
 problem of all our work, at least so it appears to me as a
-student of history with some experience in getting these <span style="page" id="page44">[p.44]</span> photostats of documents relating to the history of the United
+student of history with some experience in getting these <span class="page" id="page44">[p.44]</span> photostats of documents relating to the history of the United
 States to be found in foreign archives. All of that work was
 possible because of the larger work with which you, yourself,
 are so familiar, the work of the Carnegie Institution of
@@ -1261,35 +1261,35 @@ elsewhere.
 It raises the question whether for any large-scale
 program the preparation of guides isn't really a fundamental
 step, and I suggest that that has been proven by the work of
-which you are so familiar yourself, Mr. Chairman.
+which you are so familiar yourself, Mr. Chairman.</span>
 
-CO-CHAIRMAN LELAND: I think that is a point we have
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I think that is a point we have
 got to consider very carefully indeed. I judge it is going to
-come up perhaps for fuller consideration under Chapter IV, <span style="page" id="page45">[p.45]</span> Problems of Selection of Material, and especially under 12,
+come up perhaps for fuller consideration under Chapter IV, <span class="page" id="page45">[p.45]</span> Problems of Selection of Material, and especially under 12,
 "What are the most practical methods of selection?" so I judge
 we shall have an opportunity to discuss that more fully at
 that time, but I think it would be well to bear it in mind
-from the very beginning.
+from the very beginning.</span>
 
-MR. SIOUSSAT: That is with regard to the future,
+<span class="speaker" data-speaker="SIOUSSAT">MR. SIOUSSAT</span>: <span class="speech" data-speaker="SIOUSSAT">That is with regard to the future,
 whereas No. 3, to which we are now coming, reads, "What are the
-chief results of the experience thus far acquired?"
+chief results of the experience thus far acquired?"</span>
 
-CO-CHAIRMAN LELAND: I suppose Mr. Bemis would
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I suppose Mr. Bemis would
 offer that as one of his experiences, that you have to have
-a guide of some sort.
+a guide of some sort.</span>
 
-MR. CARRUTHERS: Along the line of available facilities for microfilming and photostating, I am very desirous
+<span class="speaker" data-speaker="CARRUTHERS">MR. CARRUTHERS</span>: <span class="speech" data-speaker="CARRUTHERS">Along the line of available facilities for microfilming and photostating, I am very desirous
 that the forthcoming Union List of Serials will have some
 kind of designation as to where microfilming can be secured,
 such as the Abstract Service has at the present time. If
 we at the New York Public Library do not have a periodical
 and cannot supply it, we have a form letter which goes out
 saying where they can obtain the material, or at least where
-they are most likely to be able to get it.
+they are most likely to be able to get it.</span>
 
-MR. TILLEUX: If I might return to one point mentioned by Mr. Lydenberg a while ago, most of us know where we
-can find material when we want it, but when we take into <span style="page" id="page46">[p.46]</span> consideration the student working on a Master's dissertation
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">If I might return to one point mentioned by Mr. Lydenberg a while ago, most of us know where we
+can find material when we want it, but when we take into <span class="page" id="page46">[p.46]</span> consideration the student working on a Master's dissertation
 perhaps in Southwestern Nevada, he may not know where that
 material is available, and that is the type of person who
 needs it badly, and usually when he asks for it is when he has
@@ -1312,36 +1312,36 @@ people can be handled nationally for the people of the
 country? I know that Dr. Evans of the Library of Congress
 and other members of the staff here have been thinking in terms
 of national assistance and the larger program of the library.
-They are supported by taxes and that is what the tax money is <span style="page" id="page47">[p.47]</span> for, and they can render an assistance to scholars generally
+They are supported by taxes and that is what the tax money is <span class="page" id="page47">[p.47]</span> for, and they can render an assistance to scholars generally
 that the individual business organizations cannot afford to
 render. Maybe the time is coming when any questions asked by
 any person anywhere within the United States can be answered
-by some branch of the Library of Congress, some division.
+by some branch of the Library of Congress, some division.</span>
 
-CO-CHAIRMAN LELAND: I thought we had Mr. Haskins
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I thought we had Mr. Haskins
 and his newspaper column for that, but perhaps he isn't
 sufficient.
 
 Thank you, Mr. Tilleux, I think it is very useful
-for us to keep that in mind.
+for us to keep that in mind.</span>
 
-CO-CHAIRMAN LYDENBERG: Mr. Chairman, may I interrupt
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Mr. Chairman, may I interrupt
 a moment and ask Mr. Metcalf if he will not tell us about his
 newspaper project. That I think is a continuing project. I
 think it is self-supporting, and I am sure it is of real
-significance.
+significance.</span>
 
-MR. METCALF: We have arranged to copy between thirty-five and forty different foreign newspapers currently, a
+<span class="speaker" data-speaker="METCALF">MR. METCALF</span>: <span class="speech" data-speaker="METCALF">We have arranged to copy between thirty-five and forty different foreign newspapers currently, a
 selection of papers from all over the world. We have a subsidy
 of $2,000 a year for two years that has helped put the project
 on its feet. We hope after next year it will pay for itself.
 We are selling the positive film to any library that wants it
 at a little below cost now. We hope it will be at cost by year
-after next.
+after next.</span>
 
-CO-CHAIRMAN LELAND: Do you mean the cost will come <span style="page" id="page48">[p.48]</span> down or the price will go up?
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Do you mean the cost will come <span class="page" id="page48">[p.48]</span> down or the price will go up?</span>
 
-MR. METCALF: Neither, but by selling a few more
+<span class="speaker" data-speaker="METCALF">MR. METCALF</span>: <span class="speech" data-speaker="METCALF">Neither, but by selling a few more
 copies we can make up the overhead cost that is divided among
 the libraries that subscribe. Harvard is buying a copy of
 positive film for each of the papers, and libraries throughout
@@ -1351,9 +1351,9 @@ know what present conditions are going to do to us and whether
 we can continue to get some of the papers. As I said, the
 papers come from all over the world: one from Australia, one
 from Japan, China, India, South Africa, several from South
-America; most of them from Europe.
+America; most of them from Europe.</span>
 
-CO-CHAIRMAN LELAND: I suppose one of the earliest
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I suppose one of the earliest
 projects on a large scale was the copying of the hearings of
 the Agricultural Adjustment Administration and the NRA, a matter
 of a good many hundreds of thousands of pages. It was done
@@ -1364,7 +1364,7 @@ as an experiment by the Joint Committee under the direction of
 Mr. Binkley, in order to test out his theory that that was an
 excellent method of publication.
 
-I wonder, is there kept anywhere any current list of <span style="page" id="page49">[p.49]</span> major projects which are in progress? It is obvious, it
+I wonder, is there kept anywhere any current list of <span class="page" id="page49">[p.49]</span> major projects which are in progress? It is obvious, it
 seems to me, that we need to have information constantly on
 hand with regard to what is being done. Otherwise, we may be
 missing something that is useful to us on the one hand; on
@@ -1372,9 +1372,9 @@ the other hand, these people may get in each other's way. You
 notice in his letter Mr. Bishop indicates any library has far
 more opportunity to participate in these projects than its
 budget will stand for and there is sometimes the embarrassment
-of choice.
+of choice.</span>
 
-MR. KELLAR: Mr. Chairman, Mr. Barnes Lathrop of
+<span class="speaker" data-speaker="KELLAR">MR. KELLAR</span>: <span class="speech" data-speaker="KELLAR">Mr. Chairman, Mr. Barnes Lathrop of
 the University of Texas has been engaged for a year and a half
 under the auspices of the University of Texas in microfilming
 materials relating to Southern history in a great many collections in this country. That has been going on for a year and
@@ -1387,13 +1387,13 @@ Microprint organization which I do not think has been mentioned---the Albert Bon
 
 Another project which is about to be undertaken
 is the microfilming of the British Sessional papers from
-1800 to 1900. This is being done by a sub-committee of the <span style="page" id="page50">[p.50]</span> Historical Source Committee of the American Historical Association, of which Mr. Erickson of the University of Illinois is
-Chairman.
+1800 to 1900. This is being done by a sub-committee of the <span class="page" id="page50">[p.50]</span> Historical Source Committee of the American Historical Association, of which Mr. Erickson of the University of Illinois is
+Chairman.</span>
 
-CO-CHAIRMAN LELAND: Mr. Davies, you started to say
-something a short time ago but didn't get recognized.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Mr. Davies, you started to say
+something a short time ago but didn't get recognized.</span>
 
-MR. GODFREY DAVIES: I am not sure what I was going
+<span class="speaker" data-speaker="GODFREY DAVIES">MR. GODFREY DAVIES</span>: <span class="speech" data-speaker="GODFREY DAVIES">I am not sure what I was going
 to say is strictly relevant. I was going to refer to the
 Huntington Library project of 1640 books. Six years ago we
 started to get one copy of every book printed before 1641. We
@@ -1410,58 +1410,58 @@ and which Mr. Adams suggested in his letter, is a union catalogue
 of the 1640 books that are actually available in this country.
 It is quite true he wasn't talking about 1640 books, but his
 argument is applicable. At the present time I don't think
-anybody knows what is available in this country in 1640 books. <span style="page" id="page51">[p.51]</span> My guess would be that in one form or another nearly all of
+anybody knows what is available in this country in 1640 books. <span class="page" id="page51">[p.51]</span> My guess would be that in one form or another nearly all of
 them are available, and yet very often we write to England
 and sometimes elsewhere to get a copy, and maybe there is
-copy next door.
+copy next door.</span>
 
-CO-CHAIRMAN LYDENBERG: When you get a copy, don't
-you send a copy of your catalog card to the Library of Congress
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">When you get a copy, don't
+you send a copy of your catalog card to the Library of Congress</span>
 
-MR. DAVIES: I don't know whether we do that with
+<span class="speaker" data-speaker="DAVIES">MR. DAVIES</span>: <span class="speech" data-speaker="DAVIES">I don't know whether we do that with
 film. Of course we would do that with the original book. No,
 we don't, but so far we have been short-handed and we haven't
 catalogued our film properly. They have lists of them available in the library but we haven't formal cards and they
-can't go to the Library of Congress until they are made.
+can't go to the Library of Congress until they are made.</span>
 
-MR. SCHWEGMANN: I was amazed to learn last year
-they had photographic copies of all the incunabula.
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">I was amazed to learn last year
+they had photographic copies of all the incunabula.</span>
 
-MR. DAVIES: Not quite all, but the rarest and the
-most valuable.
+<span class="speaker" data-speaker="DAVIES">MR. DAVIES</span>: <span class="speech" data-speaker="DAVIES">Not quite all, but the rarest and the
+most valuable.</span>
 
-MR. SCHWEGMANN: It is an astounding amount, but
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">It is an astounding amount, but
 the Union Catalogue does not receive cards of those for the
 reasons mentioned. We do receive cards from the Huntington
 Library to the extent that they prepare the cards. We have
 the lists of the Huntington originals. As a matter of fact,
 Huntington Library is one of the most adequately represented
-1ibraries in the Union Catalogue, but all librarians are <span style="page" id="page52">[p.52]</span> hesitating about reporting film copies. I am experimenting
+1ibraries in the Union Catalogue, but all librarians are <span class="page" id="page52">[p.52]</span> hesitating about reporting film copies. I am experimenting
 now and attempting to isolate cards representing films, and I
 assure you that very few are coming in. The New York Public
-Library is about the largest producer, in fact it is indisputably the largest producer of cards for microfilm titles.
+Library is about the largest producer, in fact it is indisputably the largest producer of cards for microfilm titles.</span>
 
-MR. POWER: To answer Mr. Davies specifically,
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">To answer Mr. Davies specifically,
 the University of Michigan has a project under way under the
 direction of Mr. Bishop and supported by the Carnegie Corporation to do the things he mentioned, a census of the 1640 books
-within the United States.
+within the United States.</span>
 
-CO-CHAIRMAN LELAND: Including the copies?
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Including the copies?</span>
 
-MR. POWER: I think that will be included---photostatic
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">I think that will be included---photostatic
 copies but not microfilm copies, but it at least will give
-them information they want.
+them information they want.</span>
 
-CO-CHAIRMAN LELAND: I wonder if there is any
-logical reason for distinguishing between the two.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I wonder if there is any
+logical reason for distinguishing between the two.</span>
 
-MR. POWER: There is, yes, because this is a by-product of a project already under way. The project is a
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">There is, yes, because this is a by-product of a project already under way. The project is a
 loose-leaf bibliography of the contents of those books, and
 before they can be photographed it is necessary that they be
-located.
+located.</span>
 
-CO-CHAIRMAN LYDENBERG: May I withdraw for a
-moment as co-chairman and take a place on the floor and ask the <span style="page" id="page53">[p.53]</span> Reporter to note that at some appropriate time I am going
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">May I withdraw for a
+moment as co-chairman and take a place on the floor and ask the <span class="page" id="page53">[p.53]</span> Reporter to note that at some appropriate time I am going
 to ask if this organization favors or looks with disinterest
 or disfavors a recommendation from us that when libraries
 secure reproductions at full-scale or in microfilm of
@@ -1472,22 +1472,22 @@ Catalogue of the Library of Congress.
 
 I don't know that this is the time to consider that.
 We are trying to gather facts now but that is something I
-may call for later.
+may call for later.</span>
 
-MR. BEMIS: The Chairman said business could be brought
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">The Chairman said business could be brought
 up at any time. This has been brought up and I move we adopt
-a resolution favoring it.
+a resolution favoring it.</span>
 
-CO-CHAIRMAN LELAND: It seems to me to fit in here.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">It seems to me to fit in here.
 You have heard the motion, that this conference recommend to
 the Continuation Committee that acquisitions of photographic
 copies, whether microfilm or photostat, be reported to the
 Library of Congress in the form of cards. Mr. Schwegmann, did
-you wish to make an additional remark on that?
+you wish to make an additional remark on that?</span>
 
-MR. SCHWEGMANN: You gentlemen probably remember
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">You gentlemen probably remember
 about 1928 the Union Catalogue published what was called a list 
-of photo-facsimiles in American libraries, about 3,000 <span style="page" id="page54">[p.54]</span> titles, which were then photostated. Since then we have enlarged that list until it now includes about 6,000 titles,
+of photo-facsimiles in American libraries, about 3,000 <span class="page" id="page54">[p.54]</span> titles, which were then photostated. Since then we have enlarged that list until it now includes about 6,000 titles,
 all photostated or rotographed, not microfilmed. I have
 wondered for years whether it would be worth republishing in
 its enlarged form, but this duplication which is referred to
@@ -1496,35 +1496,35 @@ present form.
 
 In that connection, we systematically search the
 Union Catalogue for all indications of facsimiles, whether
-microfilm or photostats, and we make a separate file for both.
+microfilm or photostats, and we make a separate file for both.</span>
 
-MR. LONG: Mr. Chairman, inasmuch as these things
+<span class="speaker" data-speaker="LONG">MR. LONG</span>: <span class="speech" data-speaker="LONG">Mr. Chairman, inasmuch as these things
 have not been reported in the past, wouldn't it be well to
 include in the resolution that previous acquisitions of that
-sort, as well as current acquisitions, be included?
+sort, as well as current acquisitions, be included?</span>
 
-CO-CHAIRMAN LELAND: I have no doubt the mover and
-seconder would agree to that.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I have no doubt the mover and
+seconder would agree to that.</span>
 
-MR. SIOUSSAT: Might I suggest it might be well to
+<span class="speaker" data-speaker="SIOUSSAT">MR. SIOUSSAT</span>: <span class="speech" data-speaker="SIOUSSAT">Might I suggest it might be well to
 take this motion up at a later time, because I think a lot of
 things may come up which will throw light upon it which we
 might need before we vote to do a certain thing. The resolution might be to make it part of the agenda to be taken up.
 
-I would like to ask Mr. Lydenberg, with your permission, if he puts a card in the New York Public Library <span style="page" id="page55">[p.55]</span> for each individual manuscript.
+I would like to ask Mr. Lydenberg, with your permission, if he puts a card in the New York Public Library <span class="page" id="page55">[p.55]</span> for each individual manuscript.</span>
 
-CO-CHAIRMAN LYDENBERG: No, not in the public catalogue; in the manuscript catalogue.
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">No, not in the public catalogue; in the manuscript catalogue.</span>
 
-MR. SIOUSSAT: You don't have it in the public
-catalogue?
+<span class="speaker" data-speaker="SIOUSSAT">MR. SIOUSSAT</span>: <span class="speech" data-speaker="SIOUSSAT">You don't have it in the public
+catalogue?</span>
 
-CO-CHAIRMAN LYDENBERG: No. I was talking about printed texts in the resolution.
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">No. I was talking about printed texts in the resolution.</span>
 
-MR. SIOUSSAT: I thought that should go in the
+<span class="speaker" data-speaker="SIOUSSAT">MR. SIOUSSAT</span>: <span class="speech" data-speaker="SIOUSSAT">I thought that should go in the
 record, that the resolution referred to reproductions of printed texts. Your resolution as it was drawn referred to
-everything.
+everything.</span>
 
-CO-CHAIRMAN LELAND: It should refer to books. I
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">It should refer to books. I
 can see where you are leading to. You want to point out the
 necessity of doing the same thing for copies of manuscripts,
 and then we would have to have a new building.
@@ -1537,10 +1537,10 @@ suppose the discussion is terminated on that subject. Those in
 favor of the motion of Mr. Lydenberg will please say "aye";
 opposed, "no." The motion is carried.
 
-I wonder now if we are ready to ask the Reporter <span style="page" id="page56">[p.56]</span> to sum up his understanding of the discussion of Section I.
-We started off according to our time table to give that fifteen minutes, but we have given it an hour.
+I wonder now if we are ready to ask the Reporter <span class="page" id="page56">[p.56]</span> to sum up his understanding of the discussion of Section I.
+We started off according to our time table to give that fifteen minutes, but we have given it an hour.</span>
 
-MR. WATSON DAVIS: Mr. Chairman, at the risk of
+<span class="speaker" data-speaker="WATSON DAVIS">MR. WATSON DAVIS</span>: <span class="speech" data-speaker="WATSON DAVIS">Mr. Chairman, at the risk of
 prolonging this slightly, I would like to put into the record
 the existence of a continuing project, the Auxiliary Publication
 Service of the American Documentation Institute, which performs
@@ -1548,38 +1548,38 @@ the unique service of getting into circulation material that
 cannot otherwise be published. There exists the unique copy
 in the files, and I would like just to bring that into the
 discussion because it is a rather new category that should be
-given consideration.
+given consideration.</span>
 
-CO-CHAIRMAN LELAND: It is understood that Mr. Davis
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">It is understood that Mr. Davis
 reports the work of the Documentation Institute in providing
 a publication service for materials for which there is
-unique copy.
+unique copy.</span>
 
-MR. CARRUTHERS: I can't say very much about it now
+<span class="speaker" data-speaker="CARRUTHERS">MR. CARRUTHERS</span>: <span class="speech" data-speaker="CARRUTHERS">I can't say very much about it now
 but I would like to say the New York Public Library will
-presently announce a project a few months hence.
+presently announce a project a few months hence.</span>
 
-CO-CHAIRMAN LELAND: You arouse our apprehension.
-(Laughter)
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">You arouse our apprehension.
+(Laughter)</span>
 
-MR. WILLIAMS: Mr. Chairman, I would like to know if
-we are going to have the Reporter read the summary of all <span style="page" id="page57">[p.57]</span> of this, including the third subdivision under I, or have
-we finished with all the discussion under 3?
+<span class="speaker" data-speaker="WILLIAMS">MR. WILLIAMS</span>: <span class="speech" data-speaker="WILLIAMS">Mr. Chairman, I would like to know if
+we are going to have the Reporter read the summary of all <span class="page" id="page57">[p.57]</span> of this, including the third subdivision under I, or have
+we finished with all the discussion under 3?</span>
 
-CO-CHAIRMAN LELAND: I was going to say while we
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I was going to say while we
 haven't really formally taken up No. 3, I think as a matter
 of fact all of our discussion of No. 2 has been rather from
-the point of view of No. 3.
+the point of view of No. 3.</span>
 
-MR. WILLIAMS: They got crossed up so I wasn't sure
-we were on No. 3.
+<span class="speaker" data-speaker="WILLIAMS">MR. WILLIAMS</span>: <span class="speech" data-speaker="WILLIAMS">They got crossed up so I wasn't sure
+we were on No. 3.</span>
 
-CO-CHAIRMAN LELAND: I am inclined to think that
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I am inclined to think that
 we are. Let's say we have been discussing No. 3 for some
 time without realizing it, and if there is any further discussion of No. 3 before we ask the Reporter to summarize our
-conclusions, let's have that now.
+conclusions, let's have that now.</span>
 
-MR. WILLIAMS: I am not prepared to make any
+<span class="speaker" data-speaker="WILLIAMS">MR. WILLIAMS</span>: <span class="speech" data-speaker="WILLIAMS">I am not prepared to make any
 recommendation about the proper solution of the problem but
 the discussion has brought out the problem under the
 heading of existing agencies and facilities and plans that it
@@ -1588,7 +1588,7 @@ or another, and that of course will be resolved in one way
 or another by the Continuation Committee, but I should like to
 take this occasion to emphasize the fact that the existing
 facilities need help or need something, because the process
-is too slow. We are doing what we can, it may be just a <span style="page" id="page58">[p.58]</span> trickle in comparison to the larger projects but it seems to
+is too slow. We are doing what we can, it may be just a <span class="page" id="page58">[p.58]</span> trickle in comparison to the larger projects but it seems to
 me of the utmost importance to keep that going. I deplore
 any move that might cause a famine in order to enjoy a plenty
 later on, so far as facilities are concerned, and I would
@@ -1598,49 +1598,49 @@ going on. Sometimes scholars with these specific projects
 wait for months before any result is attained, and I have
 observed certain private libraries get results on their own
 more rapidly than some organizations do. That is just one
-aspect of it that I would like to emphasize here.
+aspect of it that I would like to emphasize here.</span>
 
-CO-CHAIRMAN LELAND: You are referring to your
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">You are referring to your
 experience in the Modern Language Association Retograph Service,
 which is a service for receiving orders or requests from individual scholars and having those requests filled through the
 services of the Library of Congress, and that has been supported by contributions from universities, from university
-libraries, hasn't it?
+libraries, hasn't it?</span>
 
-MR. WILLIAMS: Yes, sir. The funds are always
+<span class="speaker" data-speaker="WILLIAMS">MR. WILLIAMS</span>: <span class="speech" data-speaker="WILLIAMS">Yes, sir. The funds are always
 available, but the expert supervision that may come out of
 this conference should help; that is to say, knowing where
 these things may be had, what facilities are available, and
-so on. <span style="page" id="page59">[p.59]</span> CO-CHAIRMAN LELAND: One of the difficulties you have
+so on. <span class="page" id="page59">[p.59]</span> CO-CHAIRMAN LELAND: One of the difficulties you have
 found is to know how to secure them, where they are to be
-secured from.
+secured from.</span>
 
-MR. WILLIAMS: I found one private library may know
+<span class="speaker" data-speaker="WILLIAMS">MR. WILLIAMS</span>: <span class="speech" data-speaker="WILLIAMS">I found one private library may know
 much more than all of our organizations, just through trial and
-error.
+error.</span>
 
-MR. TILLEUX: Mr. Chairman, I am afraid that perhaps
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">Mr. Chairman, I am afraid that perhaps
 the reason we don't know more about the microfilm holdings of
 early books in America is because there is that continuing
 prejudice on the part of some libraries against anything that
 isn't actually in book form. If I am not mistaken,
-Mr. Power's University Microfilm Service already supplies libraries cards of the books you have microfilmed. Isn't that true?
+Mr. Power's University Microfilm Service already supplies libraries cards of the books you have microfilmed. Isn't that true?</span>
 
-MR. POWER: That is right.
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">That is right.</span>
 
-MR. TILLEUX: That would apply to titles that you
-filmed in England, for example, everything in the Short Title Catalog?
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">That would apply to titles that you
+filmed in England, for example, everything in the Short Title Catalog?</span>
 
-MR. POWER: Yes.
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">Yes.</span>
 
-MR. TILLEUX: Immediately that disposes of the
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">Immediately that disposes of the
 question of whether all of the books in Pollard and Redgrave
 are available in the United States. That great mass of data is
-already available to us.
+already available to us.</span>
 
-MR. POWER: That is also true with any manuscript
-we may publish, or any dissertation, any doctoral dissertation, <span style="page" id="page60">[p.60]</span> and the cards are furnished for that, too.
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">That is also true with any manuscript
+we may publish, or any dissertation, any doctoral dissertation, <span class="page" id="page60">[p.60]</span> and the cards are furnished for that, too.</span>
 
-MR. TILLEUX: Mr. Schwegmann has told us about the
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">Mr. Schwegmann has told us about the
 list dating from 1928 which is probably confined to the
 photostatic copies, but if a union check list of materials
 now on microfilm and available in the United States could be
@@ -1662,32 +1662,32 @@ Then we have a similar project in the University of
 Omaha, in Omaha, Nebraska; we have a city-wide project there. We
 haven't actually started operating a microfilming project yet
 in the State of Tennessee. We have a state-wide project in
-Ohio, headed, as you know, by the late Dr. Robert C. Binkley, <span style="page" id="page61">[p.61]</span> which is really our proving ground for that type of work. We
+Ohio, headed, as you know, by the late Dr. Robert C. Binkley, <span class="page" id="page61">[p.61]</span> which is really our proving ground for that type of work. We
 have them suggested all over the country, and whenever project
 applications come in for the indexing of newspapers, one consideration which determines whether or not the project shall
 be approved is whether or not they are microfilming the newspaper, because in a few years the woodpulp on which the paper
 is printed will be destroyed and they will be left with an index that is of no particular service, and if they are not
-microfilming, the project application usually gets thumbs down.
+microfilming, the project application usually gets thumbs down.</span>
 
-CO-CHAIRMAN LELAND: That gives us a list of a good
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">That gives us a list of a good
 many more projects that are going on. The world is certainly
-full of a number of things.
+full of a number of things.</span>
 
-MR. SIOUSSAT: There are a great many projects of
+<span class="speaker" data-speaker="SIOUSSAT">MR. SIOUSSAT</span>: <span class="speech" data-speaker="SIOUSSAT">There are a great many projects of
 reproductions of reproductions that we might put in. WPA is
 copying a good many in Louisiana and other states, that is
 material in the Library of Congress that came from Europe,
-doing secondary reproductions on a large scale.
+doing secondary reproductions on a large scale.</span>
 
-MR. TILLEUX: And your office has also lent to
-Florida a number of manuscripts copied abroad.
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">And your office has also lent to
+Florida a number of manuscripts copied abroad.</span>
 
-CO-CHAIRMAN LELAND: Are we ready to have Mr. Tate
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Are we ready to have Mr. Tate
 summarize the discussion so far? If so, we will ask him to do
 that and then we will pass the program over to the Co-Chairman
-to deal with No. II. Mr. Reporter, will you summarize your <span style="page" id="page62">[p.62]</span> understanding of the discussion?
+to deal with No. II. Mr. Reporter, will you summarize your <span class="page" id="page62">[p.62]</span> understanding of the discussion?</span>
 
-MR. TATE: I have here about eight points which seem
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">I have here about eight points which seem
 to summarize the discussion thus far.
 
 1. It is suggested that lists of sources for obtaining microfilm should be published and made available.
@@ -1713,13 +1713,13 @@ avoid duplication wherever new projects were being considered.
 7. It was resolved to refer to the Continuation
 Committee the statement that when librarians secure full-scale
 or microphotographic reproductions of important printed texts,
-a proper catalogue card should be made out and sent to the <span style="page" id="page63">[p.63]</span> Library of Congress. This was subsequently extended to include
+a proper catalogue card should be made out and sent to the <span class="page" id="page63">[p.63]</span> Library of Congress. This was subsequently extended to include
 copies made in the past.
 
 8. The last point was that of the need to expedite
-the process of getting material on film.
+the process of getting material on film.</span>
 
-CO-CHAIRMAN LELAND: That is intended simply to remind us of the things that we have gone over in our discussion.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">That is intended simply to remind us of the things that we have gone over in our discussion.
 Of course, the Committee will have at its disposal the complete
 text of the discussion and will be able to suplement it from
 other suggestions that have been made that might not have been
@@ -1727,9 +1727,9 @@ noted by the Reporter.
 
 If there is no objection, and I am sure there will be
 no objection to that, I am going to ask my colleague to
-assume the responsibility for the next subject.
+assume the responsibility for the next subject.</span>
 
-MR. SCHWEGMANN: I have been going through the
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">I have been going through the
 balance of the agenda and I see no other reference to what I
 want to bring up under No. 3: What are the chief results of
 the experience thus far acquired, and what are the principal
@@ -1738,7 +1738,7 @@ experience we have had with microfilming, end right now is the
 time to register a rather vigorous protest against the conduct
 of microfilming in the past. For instance, a great deal of
 the European archive material in the Manuscript Division of
-the Library of Congress is on microfilm. Recently one of the <span style="page" id="page64">[p.64]</span> southwestern universities wanted a positive copy that amounted
+the Library of Congress is on microfilm. Recently one of the <span class="page" id="page64">[p.64]</span> southwestern universities wanted a positive copy that amounted
 to something like 6,000 feet. It was practically impossible to
 make a positive copy of that film, for two reasons: first, because it was exposed so poorly that you would have to change
 your printing speed I suppose every six inches. Fortunately,
@@ -1751,49 +1751,49 @@ a decent copy of it.
 I think that situation should at least be brought to
 our attention and that very rigid specifications should be adhered to. Specifications themselves are easily enough made,
 they are agreed to by everyone, and the thing is to get people
-to adhere to the specifications that are recommended.
+to adhere to the specifications that are recommended.</span>
 
-CO-CHAIRMAN LELAND: I imagine we will come to that
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I imagine we will come to that
 in this next section where we deal with technical problems,
 but with regard to the problem you suggested, if they are from
 the Foreign office archives in Paris, I saw a good deal of that
 being done, it had to be done in daylight, in varying conditions of light, somewhat near a window, and you couldn't
-standardize the conditions, you didn't have standard conditions. <span style="page" id="page65">[p.65]</span> That of course must be true of a good deal of photography that
+standardize the conditions, you didn't have standard conditions. <span class="page" id="page65">[p.65]</span> That of course must be true of a good deal of photography that
 has been done up to the most recent times, that it had to be
 done under very unfavorable conditions with varying conditions
-of light.
+of light.</span>
 
-MR. BEMIS: And the character of the documents,
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">And the character of the documents,
 sometimes light or dark, needs a different exposure and it is
 a very difficult problem and you shouldn't expect you can give
-the same exposure to every cliche on a film.
+the same exposure to every cliche on a film.</span>
 
-MR. SCHWEGMANN: Local conditions might differ but
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">Local conditions might differ but
 with reasonably adequate equipment, with the $1,000 camera that
-is available, better work could be done.
+is available, better work could be done.</span>
 
-MR. BEMIS: And the use of electricity, and a filter
-if necessary---but if they don't have electricity, then what?
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">And the use of electricity, and a filter
+if necessary---but if they don't have electricity, then what?</span>
 
-MR. SCHWEGMANN: Nine-tenths of the microfilms are
-being made where there is electricity.
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">Nine-tenths of the microfilms are
+being made where there is electricity.</span>
 
-CO-CHAIRMAN LELAND: This really comes under No. II
-and I will turn the meeting over to my colleague, Mr. Lydenberg.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">This really comes under No. II
+and I will turn the meeting over to my colleague, Mr. Lydenberg.</span>
 
-CO-CHAIRMAN LYDENBERG: As usual with anything that
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">As usual with anything that
 Mr. Leland prepares, the rest of the team merely follow the
 path he has indicated.
 
 Our first question is as to the agencies engaged in
 continuous study of technical problems. I assume that we
-can say that every agency active in microfilm work is engaged <span style="page" id="page66">[p.66]</span> in the continuous study of its technical problems; otherwise
+can say that every agency active in microfilm work is engaged <span class="page" id="page66">[p.66]</span> in the continuous study of its technical problems; otherwise
 it won't go on. I think that there is no question that every
 step you take brings up a new problem as was indicated by
 what Mr. Schwegmann brought up, but the Chairman's position is
-to preside and not to talk.
+to preside and not to talk.</span>
 
-MR. POWER: Mr. Chairman, I wanted to talk on
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">Mr. Chairman, I wanted to talk on
 Mr. Schwegmann's point in that we have had considerable difficulty in securing microfilm from Europe that meets with American
 standards, but the reason for that is not necessarily due to
 the inadequacy of the equipment or the inexperience or inefficiency of the operator. Mr. Leland mentioned one point, the
@@ -1807,10 +1807,10 @@ and fine enough grain, you can get a satisfactory microfilm.
 However, in Italy there is a strict control of film and it is
 impossible to secure the best film. The Italian film is not
 color sensitive and therefore it does not give satisfactory
-results. A similar condition, although not so much, is the case <span style="page" id="page67">[p.67]</span> in Germany where Agfa produced a documentary film, but it
-doesn't compare with ours.
+results. A similar condition, although not so much, is the case <span class="page" id="page67">[p.67]</span> in Germany where Agfa produced a documentary film, but it
+doesn't compare with ours.</span>
 
-MR. BEMIS: I would like to make a point on
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">I would like to make a point on
 that, that the work which the Library of Congress did beginning
 eleven years ago has to bear the imperfections of work that
 was simply in infancy, and I suggest it is a little bit severe
@@ -1820,72 +1820,72 @@ which is possible today.
 In addition to that, there are a great many other
 practical difficulties which only one who has worked in the
 field in different foreign countries, in very differing
-conditions, can realize.
+conditions, can realize.</span>
 
-MR. VANDERBILT: Mr. Chairman, I suggest some of this
+<span class="speaker" data-speaker="VANDERBILT">MR. VANDERBILT</span>: <span class="speech" data-speaker="VANDERBILT">Mr. Chairman, I suggest some of this
 technical data may form a part of the catalogue of the microfilm. It may be necessary that it appear on such cards as
 it has been suggested be submitted to the Library of Congress;
 I mean that those cards shall bear such information as the
-condition of the film from the point of view of future reproduction.
+condition of the film from the point of view of future reproduction.</span>
 
-MR. TILLEUX: I should like to ask Mr. Schwegmann if
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">I should like to ask Mr. Schwegmann if
 the old films to which he refers weren't produced with
 Rockefeller funds in the various archives of Seville, and so
-forth. <span style="page" id="page68">[p.68]</span> MR. SCHWEGMANN: I am sorry if my expression gave
+forth. <span class="page" id="page68">[p.68]</span> MR. SCHWEGMANN: I am sorry if my expression gave
 rise to a misinterpretation. I was referring mainly to the
 production of microfilms today, that is to guide our production
-on the basis of what we have learned.
+on the basis of what we have learned.</span>
 
-MR. TILLEUX: I know that Dr. Binkley would send you
-samples of film from time to time and you had a testing laboratory of some kind here in which those were tested, for permanency, and so forth.
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">I know that Dr. Binkley would send you
+samples of film from time to time and you had a testing laboratory of some kind here in which those were tested, for permanency, and so forth.</span>
 
-MR. SCHWEGMANN: The Bureau of Standards is most
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">The Bureau of Standards is most
 qualified to do that type of thing. But specifically the
 type of thing I meant to refer to is this: Just within the
 matter of a year the Library of Congress acquired quite a bit
-of music from abroad.
+of music from abroad.</span>
 
-MR. TILLEUX: Where was it developed? Was it developed abroad?
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">Where was it developed? Was it developed abroad?</span>
 
-MR. SCHWEGMANN: It was developed abroad and the
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">It was developed abroad and the
 evenness of exposure is beyond question, but in this case
 they photographed all the versos next to each other, and you
-have to skip from the back to read the continuity.
+have to skip from the back to read the continuity.</span>
 
-MR. TILLEUX: The idea of economy creeps in there.
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">The idea of economy creeps in there.</span>
 
-MR. SCHWEGMANN: I am speaking not only of the
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">I am speaking not only of the
 selection of material and of film, but the manner in which it
-is going to be filmed. <span style="page" id="page69">[p.69]</span>
+is going to be filmed. <span class="page" id="page69">[p.69]</span></span>
 
-MR. TILLEUX: It points again to the need for
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">It points again to the need for
 standards, whether it is cellulose nitrate or cellulose acetate
-stock.
+stock.</span>
 
-MR. SCHWEGMANN: I think this was acetate stock. It
-was done in Germany.
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">I think this was acetate stock. It
+was done in Germany.</span>
 
-MR. TILLEUX: If it isn't sufficiently rigid, you
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">If it isn't sufficiently rigid, you
 have residual hypo which darkens the film and makes it of no
-use for printing purposes.
+use for printing purposes.</span>
 
-MR. SCHWEGMANN: I wasn't criticizing what has been
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">I wasn't criticizing what has been
 done in the past but simply mentioning this as a guide for the
-future.
+future.</span>
 
-MR. TILLEUX: May I suggest Mr. Irvin Stewart
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">May I suggest Mr. Irvin Stewart
 on the Committee on Scientific Aids to Learning has been doing
 research into various organizations in the country for doing
 microfilming and meeting technical problems. He might be
-able to give us some help.
+able to give us some help.</span>
 
-CO-CHAIRMAN LYDENBERG: Mr. Stewart, what can you
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Mr. Stewart, what can you
 tell us about what agencies are engaged in a study of the
-technical problems connected with microfilming?
+technical problems connected with microfilming?</span>
 
-MR. STEWART: The best thing I can do is tell you
+<span class="speaker" data-speaker="STEWART">MR. STEWART</span>: <span class="speech" data-speaker="STEWART">The best thing I can do is tell you
 what we are doing, and probably all the other agencies here can
-tell their own stories better than I can. The particular survey that has been mentioned is one we are making for the <span style="page" id="page70">[p.70]</span> Carnegie Corporation. I hope to get a report to that organization by the end of the present month. Some of the information
+tell their own stories better than I can. The particular survey that has been mentioned is one we are making for the <span class="page" id="page70">[p.70]</span> Carnegie Corporation. I hope to get a report to that organization by the end of the present month. Some of the information
 that came in is confidential in nature but such of it as is not
 confidential I should be glad to make available in the raw to
 your Continuation Committee if it wants to make an analysis
@@ -1908,7 +1908,7 @@ necessity of purchasing equipment, of using equipment for
 making photographic reproductions, explicit instructions as to
 just how to handle all embarrassing questions.
 
-Mr. Metcalf's_committee is going to bring out a <span style="page" id="page71">[p.71]</span> similar report on all other photographic processes, so that
+Mr. Metcalf's_committee is going to bring out a <span class="page" id="page71">[p.71]</span> similar report on all other photographic processes, so that
 will be disposed of.
 
 We are pursuing a little further the question of
@@ -1919,23 +1919,23 @@ We expect there will be on the market by fall a rather simple reading machine th
 
 ... The reporter was asked to add to the list of
 agencies engaged in study of technical problems, the following:
-Record Registry Corporation, 912 E. Washington, St., Indianapolis, Indiana, J. Q. Kerrins, President ...
+Record Registry Corporation, 912 E. Washington, St., Indianapolis, Indiana, J. Q. Kerrins, President ...</span>
 
-MR. WILLIAMS: Mr. Chairman, I can't refrain from
+<span class="speaker" data-speaker="WILLIAMS">MR. WILLIAMS</span>: <span class="speech" data-speaker="WILLIAMS">Mr. Chairman, I can't refrain from
 making another observation here. Of course the European
 libraries are behind in the experimental phase of this, I
 should say about ten years behind. We know that various up-to-date libraries are establishing laboratory methods of gauging
 results, and recently a course in photography was instituted
 as an asset to librarianship, and I understand a foundation
 in this country invited two European countries to send representatives over here to take the course and provided all expenses to the biggest libraries to send their representatives.
-When they were confronted with the proposal that they put on <span style="page" id="page72">[p.72]</span> aprons and go in the laboratory and watch the film go through
+When they were confronted with the proposal that they put on <span class="page" id="page72">[p.72]</span> aprons and go in the laboratory and watch the film go through
 the whole process, they disdained the whole thing and refused
 to have anything to do with it, and consequently they went back
 no better informed on technicalities than when they came. That
 is a psychological problem but I think it has to be taken
-into account.
+into account.</span>
 
-MR. KELLAR: One of the questions which I think
+<span class="speaker" data-speaker="KELLAR">MR. KELLAR</span>: <span class="speech" data-speaker="KELLAR">One of the questions which I think
 should be considered in connection with the technical aspects
 of microfilming is the question of proper editing. You look
 at the film from the point of view of the consumer. The
@@ -1948,13 +1948,13 @@ filming, because that sort of work has to be done by an expert.
 
 I also wish to say I am in agreement with what Dr.
 Schwegmann said about the necessity of keeping very high standards of the technical part of the filming, and I know of many
-films in which that has not been done.
+films in which that has not been done.</span>
 
-CO-CHAIRMAN LYDENBERG: By "editing" you mean undoubtedly a word about the physical condition of the original.
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">By "editing" you mean undoubtedly a word about the physical condition of the original.
 You are not speaking of any editorial changes or comments in
-the text. <span style="page" id="page73">[p.73]</span>
+the text. <span class="page" id="page73">[p.73]</span></span>
 
-MR. KELLAR: Yes, that is exactly what I am referring
+<span class="speaker" data-speaker="KELLAR">MR. KELLAR</span>: <span class="speech" data-speaker="KELLAR">Yes, that is exactly what I am referring
 to. If you have a newspaper film, I think there should be
 sort of preface or short history of the newspaper. You have
 changes of editors, changes of titles, matters in connection
@@ -1967,18 +1967,18 @@ is what happened and that there just aren't some copies missing.
 Naturally, there is a physical reason for that, and that sort
 of data should be included with all filming, so that when the
 scholar uses it he has all the data as when he has an edited
-document.
+document.</span>
 
-MR. BOYD: Mr. Chairman, I merely want to say that is
+<span class="speaker" data-speaker="BOYD">MR. BOYD</span>: <span class="speech" data-speaker="BOYD">Mr. Chairman, I merely want to say that is
 the process of editing that we followed in the new project for
 the filming of the Pennsylvania Gazette from 1728 to 1790. We
 wrote a short history of the newspaper, indicating also where
 the various copies came from, to fill in the gaps in our file,
-set that up in type and filmed it at the beginning of the film.
+set that up in type and filmed it at the beginning of the film.</span>
 
-MR. HILL: I would like to speak to Mr. Schwegmann's
+<span class="speaker" data-speaker="HILL">MR. HILL</span>: <span class="speech" data-speaker="HILL">I would like to speak to Mr. Schwegmann's
 remarks because I had something to do with some of the film
-he is talking about, and I realize of course the deficiency in <span style="page" id="page74">[p.74]</span> it.
+he is talking about, and I realize of course the deficiency in <span class="page" id="page74">[p.74]</span> it.
 
 He mentioned a camera worth $1,000. That is pretty expensive equipment. Mr. Kellar speaks about the editing of
 the film, that is, the mechanics that go around it to make the
@@ -1987,11 +1987,11 @@ that, and especially with documents you must do it. That
 eliminates a good deal of the speed with which you can work,
 but the mechanical work which has rather been indicated by the
 gentlemen here I think will probably have to be done by photographers that are not Americans. You are not going to send an
-expert over there to run this machine.
+expert over there to run this machine.</span>
 
-MR. BEMIS: They won't accept him.
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">They won't accept him.</span>
 
-MR. HILL: That is the point, so you have got to consider this from many angles, and you have the difficulty of
+<span class="speaker" data-speaker="HILL">MR. HILL</span>: <span class="speech" data-speaker="HILL">That is the point, so you have got to consider this from many angles, and you have the difficulty of
 the mechanic who is going to use the machine. You can set up
 the standard and then put that mechanic on it and he may follow
 it, but with documents you have a tremendous variation in
@@ -2002,7 +2002,7 @@ is a great deal of variation. So you would have difficulty
 I think almost eternally with reproducing the film.
 
 With enlargements, which I favor very greatly, you
-can turn around and refilm the enlargement and perhaps get <span style="page" id="page75">[p.75]</span> better results that way than by direct reproduction, but there
+can turn around and refilm the enlargement and perhaps get <span class="page" id="page75">[p.75]</span> better results that way than by direct reproduction, but there
 are a lot of very difficult problems, I can assure you, that
 have not been solved simply by perfecting the machinery.
 
@@ -2011,9 +2011,9 @@ Leica camera, the simplest type of apparatus, what the amateur
 works with today, but to put in this very expensive apparatus
 in some of the countries where they are not only ten years
 behind, but a good many more years behind, presents some very
-difficult problems that need to be looked into.
+difficult problems that need to be looked into.</span>
 
-MR. SCHWEGMANN: I hate to monopolize the conference
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">I hate to monopolize the conference
 but I seem to have stirred up a hornets' nest. I think the
 Rockefeller Foundation got their money's worth when they subsidized the copying of European archives. Fortunately, most of
 the film copies have been made into enlargement prints by the
@@ -2025,7 +2025,7 @@ One thousand dollars is not much to pay for a camera
 if you are going to do a lot of work. I think any of us
 who are using equipment daily are convinced that a thousand-dollar camera is what we need. I notice Eugene Power has two 
 of them. That is a commercial enterprise. He buys a
-thousand-dollar camera because he can make more money with it. <span style="page" id="page76">[p.76]</span> It all depends on how many photographs you take. If it is
+thousand-dollar camera because he can make more money with it. <span class="page" id="page76">[p.76]</span> It all depends on how many photographs you take. If it is
 only a few, by all means the Leica is all right, but if you
 have production to get out, the thousand-dollar camera is not
 too expensive. So far as the change in color of manuscripts
@@ -2042,14 +2042,14 @@ conversation here. Are we going to get what we know to be
 good microfilm today, or are we going to revert back to ten
 years ago simply because some European power won't permit an
 American technician to enter the country or will not permit
-their technicians to be trained to our standards? That training can be had in a very short time, a matter of days or a week.
+their technicians to be trained to our standards? That training can be had in a very short time, a matter of days or a week.</span>
 
-MR. BEMIS: But where the copy is loaned, you have
-to put up with some conditions that I assure you are very trying.
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">But where the copy is loaned, you have
+to put up with some conditions that I assure you are very trying.</span>
 
-MR. SCHWEGMANN: I don't doubt it, and then you <span style="page" id="page77">[p.77]</span> must expect an imperfect result.
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">I don't doubt it, and then you <span class="page" id="page77">[p.77]</span> must expect an imperfect result.</span>
 
-MR. POWER: Mr. Chairman, in that connection Mr.
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">Mr. Chairman, in that connection Mr.
 Schwegmann mentioned that I had two cameras which cost $1000,
 which is true, and I also own several of the cheaper cameras
 which sell for $300, and it is a better investment for me or
@@ -2058,9 +2058,9 @@ in operation and which is more certain of results, whether it
 is operated by a native operator or by an American sent there;
 it will produce more uniform, better results in the end than
 if you take the cheaper equipment, equipment which seems simpler
-but which is more complicated in operation.
+but which is more complicated in operation.</span>
 
-MR. LAWRENCE MARTIN: I would like to venture this
+<span class="speaker" data-speaker="LAWRENCE MARTIN">MR. LAWRENCE MARTIN</span>: <span class="speech" data-speaker="LAWRENCE MARTIN">I would like to venture this
 suggestion to this group. I have the feeling that there are
 times when manuscripts are being microfilmed in common with
 maps when the microfilming ought to be interrupted, and with a
@@ -2068,24 +2068,24 @@ proper arrangement made, a return to that point should give
 us photostating of the maps, because we recognize the very
 complicated color combinations are very difficult to get and
 we do want enlargements, and I don't see in the present situation a chance of doing anything adequate unless we make provision to have photostats substituted for microfilm on maps at
-certain stages.
+certain stages.</span>
 
-MR. BEMIS: Suppose there aren't any photostat <span style="page" id="page78">[p.78]</span> machines in the city or the country.
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">Suppose there aren't any photostat <span class="page" id="page78">[p.78]</span> machines in the city or the country.</span>
 
-MR. MARTIN: Then we would wait until we could
-photograph it.
+<span class="speaker" data-speaker="MARTIN">MR. MARTIN</span>: <span class="speech" data-speaker="MARTIN">Then we would wait until we could
+photograph it.</span>
 
-MR. WATSON DAVIS: I believe microfilm can do anything you need to have done photographically. It is true on
+<span class="speaker" data-speaker="WATSON DAVIS">MR. WATSON DAVIS</span>: <span class="speech" data-speaker="WATSON DAVIS">I believe microfilm can do anything you need to have done photographically. It is true on
 the photographing of long runs it may be necessary to change
 film, substitute a color sensitive film, or in the case of
 maps where color is a predominant factor it may be necessary to
-use color films, which can be done.
+use color films, which can be done.</span>
 
-MR. MARTIN: Will that stand enlargement?
+<span class="speaker" data-speaker="MARTIN">MR. MARTIN</span>: <span class="speech" data-speaker="MARTIN">Will that stand enlargement?</span>
 
-MR. DAVIS: Oh, yes.
+<span class="speaker" data-speaker="DAVIS">MR. DAVIS</span>: <span class="speech" data-speaker="DAVIS">Oh, yes.</span>
 
-MR. BEMIS: I would like to make one remark here that
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">I would like to make one remark here that
 I am afraid is all too obvious. No library ought to accept
 any collection of films which are inflammable, at least
 explosive. There are films that are practically non-inflammable.
@@ -2094,34 +2094,34 @@ when sending abroad for films or sending to agencies and institutions, there is 
 institutions to provide you with ordinary explosive film,
 and I am afraid if some of that comes into the best conducted
 libraries where the custodians aren't aware of the substitution
-it will be fatal, and no more important factor, in my opinion, <span style="page" id="page79">[p.79]</span> can be considered than an insistence upon non-inflammable
-film.
+it will be fatal, and no more important factor, in my opinion, <span class="page" id="page79">[p.79]</span> can be considered than an insistence upon non-inflammable
+film.</span>
 
-CO-CHAIRMAN LYDENBERG: There is no question the
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">There is no question the
 Reporter will take note of that, and as a matter of fact, it
 is illegal to store cellulose nitrate except under proper
 precaution. How some of us are to distinguish by observation
-whether it is cellulose nitrate or acetate is another question.
+whether it is cellulose nitrate or acetate is another question.</span>
 
-MR. TATE: Nitrate film has a very distinctive odor.
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">Nitrate film has a very distinctive odor.
 Once identified, it is very easy. You can just take a few
-sniffs and identify it.
+sniffs and identify it.</span>
 
-MR. WILLIAMS: Mr. Chairman, the Library at Columbia
+<span class="speaker" data-speaker="WILLIAMS">MR. WILLIAMS</span>: <span class="speech" data-speaker="WILLIAMS">Mr. Chairman, the Library at Columbia
 University tell me in some cases they can get the material
 only on the inflammable film but they immediately transfer
-it to the other kind and throw away the original.
+it to the other kind and throw away the original.</span>
 
-CO-CHAIRMAN LYDENBERG: Mr. Fussler, may I ask if
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Mr. Fussler, may I ask if
 at the film laboratory at the University of Chicago you have
 made any record of the results of your study and observations
 as technical problems have been faced, solved or recognized
-as insoluble?
+as insoluble?</span>
 
-MR. FUSSLER: I don't think we have made any record
+<span class="speaker" data-speaker="FUSSLER">MR. FUSSLER</span>: <span class="speech" data-speaker="FUSSLER">I don't think we have made any record
 other than miscellaneous publications that come from the
 University from time to time that have mentioned problems that
-we have encountered that certainly have been met in other <span style="page" id="page80">[p.80]</span> laboratories as well.
+we have encountered that certainly have been met in other <span class="page" id="page80">[p.80]</span> laboratories as well.
 
 In connection with this general discussion of the
 standard involved in film production, I should like to make
@@ -2139,15 +2139,15 @@ The cost of doing the work in those two different
 ways is again not comparable. An individual can set up a
 small camera and copy and make what he feels may be quite
 suitable reproductions at extremely low cost which any institution would reject, and make copies from similar originals at
-perhaps somewhat higher costs.
+perhaps somewhat higher costs.</span>
 
-CO-CHAIRMAN LYDENBERG: I wonder if any of the
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">I wonder if any of the
 operating courses have at any time made notes of the technical
 problems that they were faced with, and their solution. If
-they have, are those results published? If they are not, is it <span style="page" id="page81">[p.81]</span> worthy of suggestion from us that for the future, for our
-followers, some such effort as that be made?
+they have, are those results published? If they are not, is it <span class="page" id="page81">[p.81]</span> worthy of suggestion from us that for the future, for our
+followers, some such effort as that be made?</span>
 
-MR. TATE: Mr. Chairman, we at the National Archives
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">Mr. Chairman, we at the National Archives
 make out for each job that goes through a job sheet which not
 only lists the material to be copied, but notes any special
 problems encountered, and notes, among other things, the various
@@ -2167,13 +2167,13 @@ last week. The matter of a check-sheet on quality of microfilm I think is essent
 check-sheet and its universal application is very difficult.
 Somewhere there should be a simplified list of tests which
 anyone can apply, or at least any reasonably well equipped
-establishment can apply, for microfilm, and even further than <span style="page" id="page82">[p.82]</span> that, there should be some basic standards on the production
+establishment can apply, for microfilm, and even further than <span class="page" id="page82">[p.82]</span> that, there should be some basic standards on the production
 of film from which positives are to be made which will enable
 those tests to be conducted ten years from now if we choose.
 I think that is a point that should appear in our notes,
-rather as an elaboration of your own.
+rather as an elaboration of your own.</span>
 
-MR. TILLEUX: Mr. Chairman, with regard to the
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">Mr. Chairman, with regard to the
 standards, the discoveries in the past on the standardization
 of various films, I would call your attention to the various
 published reports, and probably many that are not published,
@@ -2190,7 +2190,7 @@ dealing with motion picture film which is flammable, but it
 may be, for all we know, that because of the fire hazards and
 insurance rates, the motion picture firms of Hollywood may
 have made experiments on making motion pictures on cellulose
-acetate. It is thought it cannot be used for motion pictures <span style="page" id="page83">[p.83]</span> because of its physical qualities, for example its extreme
+acetate. It is thought it cannot be used for motion pictures <span class="page" id="page83">[p.83]</span> because of its physical qualities, for example its extreme
 brittleness, but that is a possibility.
 
 I would like to say this about the remarks of Mr.
@@ -2212,7 +2212,7 @@ machine which you can place in Czechoslovakia and train a native
 to use and go away and leave it in his hands, but if you want
 something you can carry over a few mountains, and if the owner
 of manuscripts won't bring them to the camera, it's nice to
-have a Photorecord, or similar device; you can take apart and lug <span style="page" id="page84">[p.84]</span> to that particular retreat, and you can't do that very well
+have a Photorecord, or similar device; you can take apart and lug <span class="page" id="page84">[p.84]</span> to that particular retreat, and you can't do that very well
 with one of the heavier machines such as the Eastman newspaper
 camera.
 
@@ -2236,7 +2236,7 @@ from the Library of Congress, I have had to make out an order
 blank expressing exactly what pages I wanted films of, from
 exactly what books, the library call number and other information which would more positively identify it, and sign it,
 and when I get the film that order blank constitutes the
-first frame of the film. <span style="page" id="page85">[p.85]</span>
+first frame of the film. <span class="page" id="page85">[p.85]</span>
 
 I have ordered film from a microfilm service in
 Philadelphia which made a neat typewritten title page and
@@ -2261,7 +2261,7 @@ familiar. In that pattern Mr. Brigham set for himself, the
 exact first date of publication is given, any editorial changes
 are indicated, and so on.
 
-The problem also comes up with microfilming newspapers  <span style="page" id="page86">[p.86]</span> as to where certain issues are available. While I am
+The problem also comes up with microfilming newspapers  <span class="page" id="page86">[p.86]</span> as to where certain issues are available. While I am
 speaking primarily of American newspapers, the same thing
 would present itself if you wanted to photograph European
 newspapers. Mr. Metcalf has spoken of the work they are doing
@@ -2280,21 +2280,21 @@ file and substitute the auxiliary file which does contain the
 missing issues, and then perhaps our prefatory notes would
 indicate that the file as filmed was taken from the British
 Museum with the exception of the issue for July 27 which was
-obtained at such and such a location. <span style="page" id="page87">[p.87]</span>
+obtained at such and such a location. <span class="page" id="page87">[p.87]</span>
 
 We might also indicate there the present state of
 the file, because some of them have to be microfilmed now
 or never.
 
 These are just a few points which probably would be
-of interest to the persons using the film.
+of interest to the persons using the film.</span>
 
-CO-CHAIRMAN LYDENBERG: Are we ready to go on with
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Are we ready to go on with
 No. 5 as to what apparatus, materials and processes have
 proved to be most satisfactory, the question of improvements,
-final limitations of speed, etc.?
+final limitations of speed, etc.?</span>
 
-MR. TATE: Mr. Chairman, before we leave No. 4 I
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">Mr. Chairman, before we leave No. 4 I
 think probably it might be of some help to list a few specific
 agencies, without discussing them, conducting research on the
 technical problems. In the first place, it has been mentioned
@@ -2306,7 +2306,7 @@ problems. Then the American Library Association Committee on
 Photographic Reproduction of Library Materials has been active.
 That is the parent body of the Journal of Documentary Reproduction which has served as a means of communication.
 Mention should be made of the American Documentation
-Institute and the Bibliofilm Service. Again, the National <span style="page" id="page88">[p.88]</span> Bureau of Standards is now working on a rather extensive
+Institute and the Bibliofilm Service. Again, the National <span class="page" id="page88">[p.88]</span> Bureau of Standards is now working on a rather extensive
 program in connection with the technical phases of activity
 which are important, I think, in establishing our own
 basic standards.
@@ -2321,22 +2321,22 @@ of sensitive material, others on the application. I think if
 there is to be a list of facilities compiled, it might be
 very usefully supplemented by a similar list of agencies conducting research work and agencies which might logically be
 expected to have available the results of such research work
-for more or less general distribution.
+for more or less general distribution.</span>
 
-CO-CHAIRMAN LYDENBERG: Thank you. I am sure that is
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Thank you. I am sure that is
 admirably stated and I certainly hope it will be included
-in the minutes of the conference.
+in the minutes of the conference.</span>
 
-MR. BEMIS: Mr. Chairman, in connection with this
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">Mr. Chairman, in connection with this
 next point to which you were proceeding, I would like to
-suggest that that is a very technical subject and a great deal <span style="page" id="page89">[p.89]</span> of testimony might be brought out on that which would consume
+suggest that that is a very technical subject and a great deal <span class="page" id="page89">[p.89]</span> of testimony might be brought out on that which would consume
 a lot of time, and perhaps we might hasten matters by asking
 Mr. Tate to give us within five or ten minutes a statement of
-the major things that he could call to our attention. Otherwise, we will get lost in a maze of technicalities.
+the major things that he could call to our attention. Otherwise, we will get lost in a maze of technicalities.</span>
 
-CO-CHAIRMAN LYDENBERG: Mr. Tate, we salute you!
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Mr. Tate, we salute you!</span>
 
-MR. TATE: I can perhaps give you a few points. I
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">I can perhaps give you a few points. I
 think in brief we can say that equipment exists which is suitable for the production of microfilm of any type, whether it
 be in color or in monochrome, in large quantities or in small, of
 bound volumes, of printed material, of manuscript, or of any
@@ -2352,7 +2352,7 @@ that will lead us into a dead-end street. I think the improvements now in prospe
 any program which we might adopt.
 
 There have been final limitations on speed. I
-shouldn't say "limitations." There is testimony on speed of <span style="page" id="page90">[p.90]</span> production. "Speed" is rather an ambiguous term. We know
+shouldn't say "limitations." There is testimony on speed of <span class="page" id="page90">[p.90]</span> production. "Speed" is rather an ambiguous term. We know
 pretty well that we can photograph certain types of originals
 at certain rates of speed with certain types of equipment.
 
@@ -2376,18 +2376,18 @@ All in all, I can merely repeat that we have the
 apparatus, the sensitive material, enough technical knowledge
 to produce microfilm which is usable and is being used.
 
-Is that brief enough?
+Is that brief enough?</span>
 
-CO-CHAIRMAN LYDENBERG: Thank you, that is admirable
-and complete. <span style="page" id="page91">[p.91]</span>
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Thank you, that is admirable
+and complete. <span class="page" id="page91">[p.91]</span></span>
 
-CO-CHAIRMAN LELAND: I wonder, Mr. Chairman, if there
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I wonder, Mr. Chairman, if there
 are investigations under way which might change considerably
 the nature of processes or at least change the character of the
 product. For example, mention has been made of flat film;
-mention has been made of microprints.
+mention has been made of microprints.</span>
 
-MR. TATE: If I might speak to that, Mr. Chairman, I
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">If I might speak to that, Mr. Chairman, I
 would state that flat filming, as has been stated already, is
 a year or two away. We don't know yet whether there is anything
 in it, or whether there is not. The chances are it will fill
@@ -2395,29 +2395,29 @@ certain applications, but one thing might be basic, and this
 will hold for microprint as well. They are both essentially
 edition processes and any microfilm made now in accordance
 with the standards which we know can be adapted either to flat
-film or to microprint within certain limitations.
+film or to microprint within certain limitations.</span>
 
-CO-CHAIRMAN LELAND: I think the important thing to
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I think the important thing to
 consider is whether if any large-scale project should be undertaken now, the results would be inferior to what might be
 secured if undertaken a year or two later, whether there are
 any sensational or revolutionary changes or improvements likely
 to be effected within a short time that would make it wise
 to postpone any very large operations requiring the investment
 of a considerable amount of money. That is something of course
-that only the technicians can give us guidance about. <span style="page" id="page92">[p.92]</span>
+that only the technicians can give us guidance about. <span class="page" id="page92">[p.92]</span></span>
 
-CO-CHAIRMAN LYDENBERG: I gather so far as you know,
-there is nothing radical.
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">I gather so far as you know,
+there is nothing radical.</span>
 
-MR. TATE: There are two or three things, and of
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">There are two or three things, and of
 course we never know absolutely. I wouldn't like to say that
 there is nothing that is not revolutionary in the immediate
 offing. Yet it seems to me, I don't know, this is my personal
 opinion only, that there is nothing close enough now that would
 in any way interfere with anything which this group might choose
-to do.
+to do.</span>
 
-MR. SCHWEGMANN: Mr. Lydenberg, I would like to
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">Mr. Lydenberg, I would like to
 express my opinion in regard to this question of what apparatus
 materials and processes have proved to be satisfactory. The
 new Recordak line of cameras I suppose are able to produce
@@ -2431,17 +2431,17 @@ The point I want to bring out is this: Those cameras
 also are able to use 16 mm. film, which is rather a departure.
 So far microfilming has been thought of in terms of 35 mm.
 film, even for eight diameter reduction, simply because the
-cameras used heretofore were not able to use anything else. A <span style="page" id="page93">[p.93]</span> great amount of book material can be reproduced on 16 mm.
+cameras used heretofore were not able to use anything else. A <span class="page" id="page93">[p.93]</span> great amount of book material can be reproduced on 16 mm.
 film, the same identical quality of film as would be used
 for 35, and especially if multiple copies, that is two or
 three copies, are to be made, I think the economic feature of
 16 mm. film should be considered in a oroposal such as we are
-contemplating.
+contemplating.</span>
 
-MR. BEMIS: If you say you can take a picture of a
-document that size with 16 mm., would it enlarge ud sharply?
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">If you say you can take a picture of a
+document that size with 16 mm., would it enlarge ud sharply?</span>
 
-MR. SCHWEGMANN: Yes. You have very definite
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">Yes. You have very definite
 limits; with the present equipment thirty is as high as the camera will take, but we pretty definitely know we can get perfect
 enlargements from twenty diameters. It all depends on the
 technician, and the size of the material itself, but for ordinary books printed in 10 or 12 point type, I am sure we can
@@ -2454,19 +2454,19 @@ appreciably less.
 
 One other factor must be considered. Since you
 concentrate the image four to one, that is you get four times as
-many images on 16 as on 35, the processing costs would be <span style="page" id="page94">[p.94]</span> materially less. In other words, you would process only one
-roll as against four of the 35.
+many images on 16 as on 35, the processing costs would be <span class="page" id="page94">[p.94]</span> materially less. In other words, you would process only one
+roll as against four of the 35.</span>
 
-MR. VANDERBILT: I realize you are talking primarily
+<span class="speaker" data-speaker="VANDERBILT">MR. VANDERBILT</span>: <span class="speech" data-speaker="VANDERBILT">I realize you are talking primarily
 about microfilming equipment, but later on there is a good
 deal about photographic apparatus. I wish Mr. Schwegmann would
 report on card copying apparatus. In the kind of work I
 have been connected with, one of the chief needs is efficient
 card copying machinery which renders a full scale copy automatically. Is there any further development by Balsley of the
 new transcription machine over the old film automatic enlarger?
-What is the latest development on that?
+What is the latest development on that?</span>
 
-MR. SCHWEGMANN: Nothing can be reported, although
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">Nothing can be reported, although
 there are many prospects just around the corner. I will
 summarize the whole matter briefly. We became interested in
 card copying at the Union Catalogue several years ago. We
@@ -2477,7 +2477,7 @@ you would have three elements that negate the usefulness of the
 card: the emulsion, photographic paper, and worst of all, the
 inability to typewrite or write, especially typewrite, on the
 photographic image, that is the film on top of the paper. So
-we dropped that phase of the investigation and got into what <span style="page" id="page95">[p.95]</span> I choose to call electrocopying technic. Mr. Balsley, to whom
+we dropped that phase of the investigation and got into what <span class="page" id="page95">[p.95]</span> I choose to call electrocopying technic. Mr. Balsley, to whom
 Mr. Vanderbilt referred, had a diazo process which seemed to
 have great promise, and after a year or so of writing back and
 forth, he told me that the New York E.R.P.I. people were contemplating the development of his machine because it required
@@ -2498,36 +2498,36 @@ unable to sell the idea that such a machine would be in large
 demand, especially when he asked me to name the price and I
 said $300 each. Of course if we could name a price of $5,000
 each and could be assured of a dozen sales, the whole thing
-would be assured. <span style="page" id="page96">[p.96]</span>
+would be assured. <span class="page" id="page96">[p.96]</span>
 
 So really, the only answer to your question, Paul,
 is that if we could assure the E.R.P.I. people that we could
 sell enough machines, or if someone could subsidize the
-development cost, the thing could be gotten out very quickly.
+development cost, the thing could be gotten out very quickly.</span>
 
-MR. VANDERBILT: We are talking about a big project.
+<span class="speaker" data-speaker="VANDERBILT">MR. VANDERBILT</span>: <span class="speech" data-speaker="VANDERBILT">We are talking about a big project.
 Is that a technical possibility to which we ought to pay a lot
 of attention? Is the technical development done so he is ready
-to go ahead? I think it is very important.
+to go ahead? I think it is very important.</span>
 
-MR. TILLEUX: What is the speed of the diazo process
-as compared to putting them through on a belt on a card copying device using 16 mm.?
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">What is the speed of the diazo process
+as compared to putting them through on a belt on a card copying device using 16 mm.?</span>
 
-MR. SCHWEGMANN: I think it is much faster because
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">I think it is much faster because
 the minimum speed would be four or five cards per minute and
-the developing is absolutely like that (snapping fingers).
+the developing is absolutely like that (snapping fingers).</span>
 
-MR. VANDERBILT: I thought he had a self-feeder.
+<span class="speaker" data-speaker="VANDERBILT">MR. VANDERBILT</span>: <span class="speech" data-speaker="VANDERBILT">I thought he had a self-feeder.</span>
 
-MR. SCHWEGMANN: Maybe so.
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">Maybe so.</span>
 
-MR. THOMAS MARTIN: I wasn't here at the first part of
+<span class="speaker" data-speaker="THOMAS MARTIN">MR. THOMAS MARTIN</span>: <span class="speech" data-speaker="THOMAS MARTIN">I wasn't here at the first part of
 the meeting and I don't know whether the Draeger camera geared
 to handle 70 mm. has been mentioned. Near the beginning of
 this development of cameras, the Library of Congress had
 Lieutenant Draeger construct a camera capable of using
 70 mm. film. I understand that the mechanism is not perfected
-so that the thing isn't usable just now, but it might be <span style="page" id="page97">[p.97]</span> possible to get an engineer to correct some of the faults in it
+so that the thing isn't usable just now, but it might be <span class="page" id="page97">[p.97]</span> possible to get an engineer to correct some of the faults in it
 so that the 70 mm film could be used.
 
 It is conceivable that this project might want to
@@ -2542,24 +2542,24 @@ be desirable to get it all on one film for the sake of enlarging
 it again on a very large piece of paper or enlarging it in
 sections as one sees fit. So far as I know that is the only
 camera in the country now available to anyone that uses the
-70 mm. film.
+70 mm. film.</span>
 
-MR. TILLEUX: Would that use cut film or rolled film?
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">Would that use cut film or rolled film?</span>
 
-MR. MARTIN: Rolled.
+<span class="speaker" data-speaker="MARTIN">MR. MARTIN</span>: <span class="speech" data-speaker="MARTIN">Rolled.</span>
 
-MR. TILLEUX: Wouldn't that have to be placed on
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">Wouldn't that have to be placed on
 separate order? Wouldn't the film itself be relatively much
-more expensive than the standard dimensions of 16 and 35?
+more expensive than the standard dimensions of 16 and 35?</span>
 
-MR. MARTIN: Perhaps Mr. Schwegmann can answer that
+<span class="speaker" data-speaker="MARTIN">MR. MARTIN</span>: <span class="speech" data-speaker="MARTIN">Perhaps Mr. Schwegmann can answer that
 better than I can. I haven't been keeping up with the film
-costs and that sort of thing. <span style="page" id="page98">[p.98]</span>
+costs and that sort of thing. <span class="page" id="page98">[p.98]</span></span>
 
-MR. TATE: No, it is available on government schedule
-in several emulsions.
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">No, it is available on government schedule
+in several emulsions.</span>
 
-MR. HILL: On this matter of speed, I don't want to
+<span class="speaker" data-speaker="HILL">MR. HILL</span>: <span class="speech" data-speaker="HILL">On this matter of speed, I don't want to
 speak about the technical development of that. Undoubtedly
 the speed has been developed to an extent where I think a
 warning on the other side might be made at this point. When
@@ -2574,41 +2574,41 @@ be handled well, can be turned over at the rate of 500 sheets
 or 1000 pages per hour, but I doubt if you can handle loose
 manuscript material anything like that, so the speed of the
 machine would be far beyond the possibility of the project
-in handling the actual material.
+in handling the actual material.</span>
 
-MR. BEMIS: Mr. Chairman, I would like to put in a
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">Mr. Chairman, I would like to put in a
 word there. Speed isn't any factor at all, as Mr. Hill said.
 We can get cameras that will take pictures fast enough, and as
 fast as you can put the paper before them, but from a great
-deal of experience in archives, along with Mr. Hill and other <span style="page" id="page99">[p.99]</span> people here, it is my opinion, all factors considered, that you
+deal of experience in archives, along with Mr. Hill and other <span class="page" id="page99">[p.99]</span> people here, it is my opinion, all factors considered, that you
 are lucky if you can take 200 photographs a day of manuscript
 material. It is a very good record if you keep that up, and
-you will frequently come down to 50.
+you will frequently come down to 50.</span>
 
-MR. TATE: Mr. Chairman, I am afraid I will have to
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">Mr. Chairman, I am afraid I will have to
 rise to that one, because I have had some experience with manuscript material. As a matter of fact, I think I worked with
 Mr. Bemis at one time. I don't know whether he knows it, but
 I was also on Project "A". No, I think we can materially raise
-that estimate now.
+that estimate now.</span>
 
-MR. BENIS: In the National Archives perhaps.
+<span class="speaker" data-speaker="BENIS">MR. BENIS</span>: <span class="speech" data-speaker="BENIS">In the National Archives perhaps.</span>
 
-MR. TATE: No, I am thinking of copying in the
-Mexican National Archives or foreign depositories.
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">No, I am thinking of copying in the
+Mexican National Archives or foreign depositories.</span>
 
-MR. BEMIS: I say if you rise it to 10,000 it doesn't
-make any difference.
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">I say if you rise it to 10,000 it doesn't
+make any difference.</span>
 
-MR. TATE: I will agree to that, but I don't like
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">I will agree to that, but I don't like
 that 200. I think that is too far down. I don't think any
-estimate could be made on that basis, or should be made.
+estimate could be made on that basis, or should be made.</span>
 
-MR. KELLAR: May I ask that Hr. Fussler tell us about
-the new RCA process.
+<span class="speaker" data-speaker="KELLAR">MR. KELLAR</span>: <span class="speech" data-speaker="KELLAR">May I ask that Hr. Fussler tell us about
+the new RCA process.</span>
 
-MR. FUSSLER: I think there are several people in the
+<span class="speaker" data-speaker="FUSSLER">MR. FUSSLER</span>: <span class="speech" data-speaker="FUSSLER">I think there are several people in the
 room who know more about the RCA process than I do. I met
-it for the first time last week and I am not sure of its <span style="page" id="page100">[p.100]</span> relevance to this discussion. It is essentially a facsimile
+it for the first time last week and I am not sure of its <span class="page" id="page100">[p.100]</span> relevance to this discussion. It is essentially a facsimile
 method of producing 10 to 1 copies of, at present, single
 sheets, although it may be adapted to book work later, by
 an electrochemical method, not dissimilar from present systems
@@ -2621,18 +2621,18 @@ promise. There are problems in the way of its full adoption
 for library or scholarly reproductive problems but the system
 is there, but again I would like to repeat I think there is
 rather serious question whether it concerns us, at least for
-the moment, for the general problem we are talking about today.
+the moment, for the general problem we are talking about today.</span>
 
-CO-CHAIRMAN LYDENBERG: Passing from the future to the
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Passing from the future to the
 past, have any of us had the statisticians and arithmeticians
 at us to work out the elements of cost and these other figures
 that go into it? We have had the chemical people, the
 mechanical people, and I don't see Stuart Rice here but I
 am surprised that none of our statisticians have made a study
-of this. I know of none. Do any of you?
+of this. I know of none. Do any of you?</span>
 
-MR. SEIDELL: May I be permitted to say a word on
-the question of cost? The experience I have had in Bibliofilm <span style="page" id="page101">[p.101]</span> Service is that the keeping of records, the making out of
+<span class="speaker" data-speaker="SEIDELL">MR. SEIDELL</span>: <span class="speech" data-speaker="SEIDELL">May I be permitted to say a word on
+the question of cost? The experience I have had in Bibliofilm <span class="page" id="page101">[p.101]</span> Service is that the keeping of records, the making out of
 bills, the answering of letters, filling the orders in which
 mistakes have been made, have cost a great deal more than all
 the mechanical processes involved. I think in organizing all
@@ -2653,22 +2653,22 @@ at the lowest possible cost, and to do that, the mechanical
 side of the operation is of a great deal less importance
 than the organization of the production of the copies that
 are to be distributed. So although that is of great interest
-from my particular side of the question, I am not sure that <span style="page" id="page102">[p.102]</span> it really ought to be discussed by those of us who are interested solely in obtaining acquisitions for libraries. Perhaps
-that side of it may not be of interest for discussion here.
+from my particular side of the question, I am not sure that <span class="page" id="page102">[p.102]</span> it really ought to be discussed by those of us who are interested solely in obtaining acquisitions for libraries. Perhaps
+that side of it may not be of interest for discussion here.</span>
 
-CO-CHAIRMAN LYDENBERG: You can never get away from
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">You can never get away from
 the element of cost. You can't pay too much for whatever you
-get; otherwise you become bankrupt.
+get; otherwise you become bankrupt.</span>
 
-CO-CHAIRMAN LELAND: Mr. Chairman, I think we are
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Mr. Chairman, I think we are
 interested in that other problem, too. We have discussed it
 some already, that is the executing of short orders for individuals, and it is on the agenda a little later as to whether
 emphasis should be given to these large projects for library
 use or to orders for individual use, and the implication of
 the agenda rather is that both of those activities are of
-great deal of importance and must be considered.
+great deal of importance and must be considered.</span>
 
-MR. SEIDELL: If that is being considered, a great
+<span class="speaker" data-speaker="SEIDELL">MR. SEIDELL</span>: <span class="speech" data-speaker="SEIDELL">If that is being considered, a great
 deal of the discussion which is offered here on the perfection
 of the work doesn't really apply. For a film that is to be
 acquired by a library and to be used for making reproductions
@@ -2676,7 +2676,7 @@ for people who may desire it or for other libraries, it is
 tremendously important that every possible care be used to
 insure the perfection of that film, but for the individual who
 receives a film for a temporary use, as in the case of men
-engaged in scientific research, the man uses that as a part of <span style="page" id="page103">[p.103]</span> his own private collection of literature; he looks up a subject
+engaged in scientific research, the man uses that as a part of <span class="page" id="page103">[p.103]</span> his own private collection of literature; he looks up a subject
 and he gathers all of the references he can and makes copies
 of them in one way or another; he obtains reprints when
 possible, and if not, he obtains film copies and they are for
@@ -2689,16 +2689,16 @@ on perfecting such films as that, and to do so would increase
 his cost unnecessarily. So I think we must also take into consideration the point of view that every microfilm that is made
 does not necessarily have to be made perfectly. If it is made
 well enough, carefully enough for this man to read and use
-and learn what there is in the article, that will be sufficient
+and learn what there is in the article, that will be sufficient</span>
 
-MR. BEMIS: Mr. Chairman, as to the element of cost,
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">Mr. Chairman, as to the element of cost,
 I think a great deal of information can be had from the study
 of the cost of Project "A" in the Library of Congress. I can
 at this date recall only in a general way those costs, but
 taking the first two years of the project in which several
 hundred thousand facsimiles were made, I once made a calculation that those facsimiles cost about 24¢ apiece. I don't
 mean enlarged. I have to say that subject to some confusion
-because it included every facsimile: some of them were <span style="page" id="page104">[p.104]</span> photostats, some of them films, some of them were films that
+because it included every facsimile: some of them were <span class="page" id="page104">[p.104]</span> photostats, some of them films, some of them were films that
 were enlarged at the same time, but the mixture of results
 in those first two experimental years, including the slow
 production as the project got under way, boiled down to about
@@ -2717,29 +2717,29 @@ scale, including I believe a little money on this side for
 indexing and filing, about 50¢ a copy. If you go into this on
 a big scale and use only microfilming, a really big scale,
 say bigger than Project "A", I think you could get microfilming
-costs down to five or six cents.
+costs down to five or six cents.</span>
 
-MR. SCHWEGMANN: I just happened to analyze the WPA
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">I just happened to analyze the WPA
 costs of filming newspapers in Cleveland. Their cost is 4¢
 per page. The Library of Congress cost is approximately 2 1/2¢.
-On large runs I think it comes down to about two. I think the <span style="page" id="page105">[p.105]</span> University of Chicago is perhaps even under that.
+On large runs I think it comes down to about two. I think the <span class="page" id="page105">[p.105]</span> University of Chicago is perhaps even under that.</span>
 
-MR. BEMIS: That is newspaper. Manuscripts of course
-are far more expensive.
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">That is newspaper. Manuscripts of course
+are far more expensive.</span>
 
-MR. SCHWEGMANN: They are more difficult to handle.
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">They are more difficult to handle.</span>
 
-CO-CHAIRMAN LYDENBERG: You say newspapers, and I
-assume that means nothing but the straight run.
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">You say newspapers, and I
+assume that means nothing but the straight run.</span>
 
-MR. SCHWEGMANN: Yes, so the price of 6¢ would
-probably be cheap.
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">Yes, so the price of 6¢ would
+probably be cheap.</span>
 
-CO-CHAIRMAN LYDENBERG: It does bring into the case
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">It does bring into the case
 the combining of the two files, when you need two to make one
-perfect.
+perfect.</span>
 
-MR. VANDERBILT: I had a number of very interesting
+<span class="speaker" data-speaker="VANDERBILT">MR. VANDERBILT</span>: <span class="speech" data-speaker="VANDERBILT">I had a number of very interesting
 conversations with Mr. Schwegmann a while ago on the relation
 of photostat to microfilm, and I have often wondered what the
 general consensus of opinion was. Is it safe to generalize,
@@ -2749,15 +2749,15 @@ use microfilming, and if we look into the future, probably the
 most likely method for reduction of cost of full-scale copying
 for the individual's use and for the small order would be the
 photostat diazo processes, with lower costs for enlargement
-than microfilm? Is that any consensus of opinion? Do you <span style="page" id="page106">[p.106]</span> still feel the same way, that the small microfilm order is
-nuisance?
+than microfilm? Is that any consensus of opinion? Do you <span class="page" id="page106">[p.106]</span> still feel the same way, that the small microfilm order is
+nuisance?</span>
 
-MR. SCHWEGMANN: It certainly costs more. At the
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">It certainly costs more. At the
 Library of Congress we feel that if five exposures need to be
 made, it is cheaper to do it on photostat. After you leave
-five, the price differential is very much in favor of microfilm.
+five, the price differential is very much in favor of microfilm.</span>
 
-MR. DANTON: Mr. Chairman, I am not speaking on these
+<span class="speaker" data-speaker="DANTON">MR. DANTON</span>: <span class="speech" data-speaker="DANTON">Mr. Chairman, I am not speaking on these
 two points but I would like to come back if I may to something
 Mr. Seidell said and make two comments on the excellence of
 microfilm. One is that at least my individual experience has
@@ -2774,7 +2774,7 @@ have the job of preserving films, keeping them and making
 them available, is this: that a bad piece of filming may not
 at the moment have any effect upon the person for whom the
 film is in the first instance made but we never know when such
-a film may come to a library. Indeed, most of us are very <span style="page" id="page107">[p.107]</span> glad to receive film copies that have been made even though
+a film may come to a library. Indeed, most of us are very <span class="page" id="page107">[p.107]</span> glad to receive film copies that have been made even though
 we may not have been the one that originally sought them out.
 Therefore, if bad film is made, it is going to defeat its
 own purpose in the end very often and there will simply be the
@@ -2793,10 +2793,10 @@ adverse circumstances, the film isn't worth very much, and although it is being 
 will be of very, very little use to us and if anybody wants
 that again five to ten years from now, it is going to have
 to be redone, and that is certainly a great waste of thousands
-of dollars of time and money.
+of dollars of time and money.</span>
 
-MR. TILLEUX: Mr. Chairman, I think possibly the
-best criterion is what commercial firms are actually able <span style="page" id="page108">[p.108]</span> to turn out microfilm at, and if I am not mistaken, the
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">Mr. Chairman, I think possibly the
+best criterion is what commercial firms are actually able <span class="page" id="page108">[p.108]</span> to turn out microfilm at, and if I am not mistaken, the
 University Microfilms has a standard rate of 3 1/2¢ per
 image, but I can order them from certain libraries in Germany
 for 10 pfennig for five exposures and 5 pfenning for each
@@ -2807,23 +2807,23 @@ There is of course a minimum charge; that is, if I wanted
 just a page of something I would have to pay $2.50 to get it
 but if I wanted 500 pages or 10,000 pages, I would come under
 that rate of 75 centimes. Perhaps Mr. Power could speak to us
-more authoritatively on that from the commercial angle of it.
+more authoritatively on that from the commercial angle of it.</span>
 
-MR. HILL: Is that the price for printed books?
+<span class="speaker" data-speaker="HILL">MR. HILL</span>: <span class="speech" data-speaker="HILL">Is that the price for printed books?</span>
 
-MR. TILLEUX: I believe it is---periodicals and
-printed books.
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">I believe it is---periodicals and
+printed books.</span>
 
-MR. BEMIS: I would like to make this point. That
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">I would like to make this point. That
 is just the cost of photography and film but we have to add
 to that, and I was including in the calculations I made,
 the overhead of scholars, vigilators,
-and so forth.
+and so forth.</span>
 
-MR. TILLEUX: When I spoke a few moments ago about
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">When I spoke a few moments ago about
 the high speed camera, what I had in mind was the high speed
 reproduction of the card catalogues in various European archival
-institutions. They may have two and a half million cards there. <span style="page" id="page109">[p.109]</span> What we want to know is what is on those cards. We want to know
+institutions. They may have two and a half million cards there. <span class="page" id="page109">[p.109]</span> What we want to know is what is on those cards. We want to know
 it quickly and we want to know it on 16 mm. film. We want to
 take the tray of cards, dump it in the machine and have
 them go through clippety-clip and there we have the reproductions. They are very cheap but once we have them and we
@@ -2835,18 +2835,18 @@ A.D.I. or University Microfilms for such and such a book in
 Berlin or in Bonn or Essen, or wherever we wish to go, and from
 the card catalogue we know exactly the shelf number where the
 book is to be found, and if we wish, we can send the microprint
-of that particular frame and get it.
+of that particular frame and get it.</span>
 
-CO-CHAIRMAN LYDENBERG: Mr. Power, have you anything
-to tell us about your experience, practical and theoretical?
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Mr. Power, have you anything
+to tell us about your experience, practical and theoretical?</span>
 
-MR. POWER: It is true, as you just said, that if
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">It is true, as you just said, that if
 you know the exact reference and if you know exactly where the
 book is, or just where it is located, and the call number,
 you do reduce the cost, there is no question about that. And
 that cost, naturally, is below the 3 1/2¢ rate or I wouldn't
 be able to charge it. In any large-scale project such as
-might be considered here it is necessary either to pay some <span style="page" id="page110">[p.110]</span> member of the library staff to get those books out of the stacks
+might be considered here it is necessary either to pay some <span class="page" id="page110">[p.110]</span> member of the library staff to get those books out of the stacks
 and look them up and locate them and bring them to the camera,
 or the library has to charge you for it. Obviously, I can't
 impose that burden on the library; I don't, because I arrange
@@ -2860,19 +2860,19 @@ film and the cost of processing divided by the number of pages
 that he will produce in a day, you have a very low figure. I
 don't think anybody yet has hit a figure that is as low as
 can be secured or can be attained if the work is properly
-organized and properly collected.
+organized and properly collected.</span>
 
-CO-CHAIRMAN LYDENBERG: If conditions are ideal.
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">If conditions are ideal.</span>
 
-MR. POWER: In a large-scale project they can be ideal.
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">In a large-scale project they can be ideal.</span>
 
-MR. HILL: I wou'd like to ask Mr. Danton with
+<span class="speaker" data-speaker="HILL">MR. HILL</span>: <span class="speech" data-speaker="HILL">I wou'd like to ask Mr. Danton with
 respect to the objection to this film, is it because it is
 not adequately labeled, and that sort of difficulty, or is it
 the mechanical difficulty of bad exposure that you were talking
-about? <span style="page" id="page111">[p.111]</span>
+about? <span class="page" id="page111">[p.111]</span></span>
 
-MR. DANTON: I would suppose the mechanical difficulty
+<span class="speaker" data-speaker="DANTON">MR. DANTON</span>: <span class="speech" data-speaker="DANTON">I would suppose the mechanical difficulty
 of bad exposure, and I understand some of it had to be done in
 barns by candlelight. The gentleman in question isn't to
 blame but the conditions are bad, and perhaps under an ideal
@@ -2880,9 +2880,9 @@ set-up we wouldn't have that situation. Already two other
 men in the history department have been anxious, for example,
 to get prints of certain sections for certain years of this
 material, and it is almost impossible to make satisfactory
-prints for them.
+prints for them.</span>
 
-MR. THOMAS MARTIN: Any manuscripts photographed in a
+<span class="speaker" data-speaker="THOMAS MARTIN">MR. THOMAS MARTIN</span>: <span class="speech" data-speaker="THOMAS MARTIN">Any manuscripts photographed in a
 barn or haymow with candlelight are in imminent danger of destruction. I should think we would be very grateful for any
 copy of it, and if that copy is poor, it ought to be reproduced
 immediately on good film which will be preserved.
@@ -2892,11 +2892,11 @@ and what we are continually experiencing in this country with
 respect to the destruction of manuscripts, that we ought in
 all of these operations to keep in mind the fact that the copy
 may sometime become the unique copy in place of the manuscript
-itself.
+itself.</span>
 
-MR. WATSON DAVIS: Mr. Chairman, I would like to
+<span class="speaker" data-speaker="WATSON DAVIS">MR. WATSON DAVIS</span>: <span class="speech" data-speaker="WATSON DAVIS">Mr. Chairman, I would like to
 suggest that serious consideration be given to the use of
-35 mm. film on account of the uniformity and the international <span style="page" id="page112">[p.112]</span> interchange of film. As a matter of fact, in answer to the
+35 mm. film on account of the uniformity and the international <span class="page" id="page112">[p.112]</span> interchange of film. As a matter of fact, in answer to the
 suggestion that we go into 16 mm. film, I think on two grounds
 a plea can be made that it shall not be used. One is that
 area for area it is a more expensive form of sensitized surface
@@ -2916,9 +2916,9 @@ the development of the microfilm apparatus was the very interest
 ing observation I found in an early trip to Europe, that the
 Prussian State Library was making use of the enlargements from
 microfilm in preference to photostats, not because they had any
-fondness or love for film for such, but because it was distinctly a cheaper process than the photostat process.
+fondness or love for film for such, but because it was distinctly a cheaper process than the photostat process.</span>
 
-MR. TILLEUX: Mr. Chairman, as Mr. Davis already knows <span style="page" id="page113">[p.113]</span> full well and could have told you, the question isn't as
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">Mr. Chairman, as Mr. Davis already knows <span class="page" id="page113">[p.113]</span> full well and could have told you, the question isn't as
 simple as deciding to use 35 mm. film. There immediately enter
 other angles: Are we going to use lavender 35 mm.? Are we
 going to use double perforate, single perforate or imperforate
@@ -2930,16 +2930,16 @@ you should use imperforate film and carry your image to the
 edge and you will have a larger image which will yield better
 reproduction, but if you send that to Germany they will tear
 their hair out because their cameras are geared to take perforated film, and if we are going to deal with European repositories I think we have got to follow their standards largely.
-My understanding is that they want double perforate film.
+My understanding is that they want double perforate film.</span>
 
-CO-CHAIRMAN LYDENBERG: Are we prepared to go on to
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Are we prepared to go on to
 No. 7 to find out what special training of operating and supervisory personnel is necessary and what facilities exist for
 such training, to get rid of the method of trial and error that
 has governed most of us and pass on to the next generation the
-benefit of our experience?
+benefit of our experience?</span>
 
-MR. POWER: I am sorry to revert back to the question
-before that, but as regards the matter of cost, in the reply <span style="page" id="page114">[p.114]</span> to the preliminary memorandum, under suggestions, I quoted
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">I am sorry to revert back to the question
+before that, but as regards the matter of cost, in the reply <span class="page" id="page114">[p.114]</span> to the preliminary memorandum, under suggestions, I quoted
 from a letter of mine regarding the photographing of the
 Public Record Office index, some 15,000 volumes. That might
 be a typical case in point and give some idea of cost. That
@@ -2952,62 +2952,62 @@ photograph approximately 2,000,000 pages for approximately
 $7,000, including the cost of equipment and an operator, and
 that gives some idea of what can be done so far as cost goes,
 providing the work is sufficiently organized and carried out
-with the proper sort of equipment.
+with the proper sort of equipment.</span>
 
-CO-CHAIRMAN LYDENBERG: You say it can be done for
-$7,000 including the cost of equipment and an operator?
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">You say it can be done for
+$7,000 including the cost of equipment and an operator?</span>
 
-MR. POWER: That includes processing, salary to the
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">That includes processing, salary to the
 operator, transportation to the United States, and a certain
-amount for inspection.
+amount for inspection.</span>
 
-CO-CHAIRMAN LYDENBERG: And a reasonable profit.
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">And a reasonable profit.</span>
 
-MR. POWER: No, that is only cost.
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">No, that is only cost.</span>
 
-MR. BEMIS: He is talking about books. Manuscripts
-are entirely different.
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">He is talking about books. Manuscripts
+are entirely different.</span>
 
-MR. TATE: Mr. Chairman, I would like to add one
-point. Would it be advisable to refer to the Continuation <span style="page" id="page115">[p.115]</span> Committee the recommendation that a very careful survey of
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">Mr. Chairman, I would like to add one
+point. Would it be advisable to refer to the Continuation <span class="page" id="page115">[p.115]</span> Committee the recommendation that a very careful survey of
 exactly what constitutes cost of microfilm, based on the various
 points that have been brought uŋ in this discussion, be made?
 In other words, we haven't really discussed cost and its elements. We have talked around the subject a good deal, but no
 one has analyzed cost in terms of materials, labor, camera
 time; no one has expressed the intangible costs that do come
 in now. I don't think there would be any profit in doing so
-now.
+now.</span>
 
-CO-CHAIRMAN LYDENBERG: No, we don't know enough about
-it.
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">No, we don't know enough about
+it.</span>
 
-MR. TATE: I do think it should be referred to the
-Continuation Committee.
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">I do think it should be referred to the
+Continuation Committee.</span>
 
-CO-CHAIRMAN LYDENBERG: In this democratic town-meeting fashion, I will declare the motion made, seconded and
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">In this democratic town-meeting fashion, I will declare the motion made, seconded and
 carried.
 
 Now may we go on to the question of training? Where
 can a man learn about this? Who is passing on to the next
 generation the experience that we have developed? How is
-that tradition to be passed on?
+that tradition to be passed on?</span>
 
-MR. DOWNS: There are courses set up in two universities, Columbia and Chicago, for teaching microphotography.
+<span class="speaker" data-speaker="DOWNS">MR. DOWNS</span>: <span class="speech" data-speaker="DOWNS">There are courses set up in two universities, Columbia and Chicago, for teaching microphotography.</span>
 
-CO-CHAIRMAN LYDENBERG: Are they both in connection <span style="page" id="page116">[p.116]</span> with library school work?
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Are they both in connection <span class="page" id="page116">[p.116]</span> with library school work?</span>
 
-MR. DOWNS: That is right.
+<span class="speaker" data-speaker="DOWNS">MR. DOWNS</span>: <span class="speech" data-speaker="DOWNS">That is right.</span>
 
-CO-CHAIRMAN LYDENBERG: How do they differ? Does
-Chicago try to put it in the realm of graduate work?
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">How do they differ? Does
+Chicago try to put it in the realm of graduate work?</span>
 
-MR. DOWNS: Mr. Fussler teaches one of the courses.
-He might tell us.
+<span class="speaker" data-speaker="DOWNS">MR. DOWNS</span>: <span class="speech" data-speaker="DOWNS">Mr. Fussler teaches one of the courses.
+He might tell us.</span>
 
-CO-CHAIRMAN LYDENBERG: Is there any essential difference, Mr. Fussler, do you know, between the two as to ideals
-or details?
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Is there any essential difference, Mr. Fussler, do you know, between the two as to ideals
+or details?</span>
 
-MR. FUSSLER: I can only speak on the basis of second-hand information with regard to the course at Columbia University. So far as that second-hand information goes, I think
+<span class="speaker" data-speaker="FUSSLER">MR. FUSSLER</span>: <span class="speech" data-speaker="FUSSLER">I can only speak on the basis of second-hand information with regard to the course at Columbia University. So far as that second-hand information goes, I think
 there is a difference in the approach to the problem at the
 two schools. The Columbia course is given in the first year,
 or can be given to a first-year student at Columbia Library
@@ -3018,20 +3018,20 @@ problems in libraries.
 At Chicago we are dealing with students who are
 graduate students, that is they have completed a first year
 of graduate study in library schools and for that reason
-presumably will become administrators or go into administrative <span style="page" id="page117">[p.117]</span> positions in libraries and will not, it is presumed, be
+presumably will become administrators or go into administrative <span class="page" id="page117">[p.117]</span> positions in libraries and will not, it is presumed, be
 operating photographic equipment themselves. For that reason,
 our approach has been from the administrative aspect of the
 problems involved and we do not attempt to give any basic
 laboratory instruction which is given at Columbia. The students, however, are sent at several intervals throughout the
 course to study operations and procedures in a working laboratory, but they, themselves, thus far have not done any of that
-type of work.
+type of work.</span>
 
-MR. TILLEUX: Mr. Fussler, is it not merely to
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">Mr. Fussler, is it not merely to
 visit the projects and sit and watch the men at work, and
 then return to their classroom? I don't believe they are given
-the laboratory training.
+the laboratory training.</span>
 
-MR. FUSSLER: Yes, they are not given laboratory
+<span class="speaker" data-speaker="FUSSLER">MR. FUSSLER</span>: <span class="speech" data-speaker="FUSSLER">Yes, they are not given laboratory
 training. I would not say it is limited to that because I
 am running the laboratory and teaching the course at the same
 time, so we are able to go into it from a considerably more
@@ -3039,15 +3039,15 @@ detailed viewpoint than observation. That is, the situation
 which the students will see in that particular laboratory is
 known to them before they see it and is then discussed afterwards, but it certainly is not an attempt to turn out students
 who would be operators of pieces of equipment when they finish
-the course, though the assumption is made if they should desire <span style="page" id="page118">[p.118]</span> to go into it, they could without very much additional expenditure of time become operators.
+the course, though the assumption is made if they should desire <span class="page" id="page118">[p.118]</span> to go into it, they could without very much additional expenditure of time become operators.</span>
 
-MR. VANDERBILT: There might be some parallel in the
+<span class="speaker" data-speaker="VANDERBILT">MR. VANDERBILT</span>: <span class="speech" data-speaker="VANDERBILT">There might be some parallel in the
 kinds of instruction which are given in other kinds of photography. I am under the impression the best photographic course
 is in the Signal Corps where they are engaged in training
 photographers for aerial work. I know photographers who consider the Signal Corps Manual the best textbook there is. Is
-there anything microphotography can gain from them?
+there anything microphotography can gain from them?</span>
 
-MR. TATE: Mr. Chairman, there are really three
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">Mr. Chairman, there are really three
 problems in training personnel. The first one is the training
 of the personnel to do the actual photography and laboratory
 work and that personnel is of two grades: first, the low-cost,
@@ -3058,7 +3058,7 @@ requires that a man know not only microphotography but
 know photography and have as much advanced training in physics
 and chemistry as he can possibly get. Those men are almost impossible to find, and I speak from sad experience. Usually you
 have to pick up either a chemist or physicist, or in some
-cases someone who isn't a photographer, and give him specialized <span style="page" id="page119">[p.119]</span> training and urge him to develop himself into a man capable of
+cases someone who isn't a photographer, and give him specialized <span class="page" id="page119">[p.119]</span> training and urge him to develop himself into a man capable of
 handling a job of that type.
 
 Then there are the men who set out the work, those
@@ -3070,22 +3070,22 @@ know of no place outside of the two courses, and outside of the
 various operating laboratories, where a personnel can be recruited. I have been told that it is sometimes even rather
 difficult to get a good laboratory man without swiping him
 from someone else, and I have been looking around to do a little
-swiping, incidentally, without any luck.
+swiping, incidentally, without any luck.</span>
 
-MR. BEMIS: Mr. Chairman, I might ask Mr. Tate this:
-I understood somebody to say that you are preparing a manual.
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">Mr. Chairman, I might ask Mr. Tate this:
+I understood somebody to say that you are preparing a manual.</span>
 
-MR. TATE: Yes, sir.
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">Yes, sir.</span>
 
-MR. BEMIS: The fact that you are preparing a manual
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">The fact that you are preparing a manual
 and that you are doing this work in the National Archives
 suggests that it might be expedient and practical to admit as
 interns, to use a word we often employ now, a sufficient number
 of persons to get training for this type of work in case
-project were devised.
+project were devised.</span>
 
-MR. TATE: That has been considered. The manual
-itself is not intended for precisely this sort of thing. It is <span style="page" id="page120">[p.120]</span> intended to acquaint the individual scholar or scientist with
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">That has been considered. The manual
+itself is not intended for precisely this sort of thing. It is <span class="page" id="page120">[p.120]</span> intended to acquaint the individual scholar or scientist with
 microphotography and its uses, and to acquaint him with the
 operation of the simpler types of equipment, the simpler proces
 ing procedures, utilization of filing media, and so on, so that
@@ -3094,12 +3094,12 @@ he can use microphotography in his own work.
 As to the interns, we could perhaps take some interns
 in the National Archives but it would make rather heavy inroads
 on my own time---if you will excuse me for speaking selfishly---in trying to train those men to handle the type of work they
-would come up against in a oroject of this type.
+would come up against in a oroject of this type.</span>
 
-MR. BEMIS: But that is just the type of training
-they ought to get.
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">But that is just the type of training
+they ought to get.</span>
 
-MR. TATE: It could be done. Perhaps it may be
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">It could be done. Perhaps it may be
 possible. I would suggest also that such interns be placed
 in units doing more work than we, such as the Library of
 Congress, or the University of Chicago, or Columbia or some of
@@ -3108,13 +3108,13 @@ no place now where we can recruit the technical personnel of a
 chief operator's grade. Men just have to be taken and trained,
 and there is no place they can go outside of one of these
 operating units to be trained, and we haven't got time to train
-them.
+them.</span>
 
-MR. BEMIS: In Germany they have such schools. <span style="page" id="page121">[p.121]</span>
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">In Germany they have such schools. <span class="page" id="page121">[p.121]</span></span>
 
-MR. TATE: I understand they do.
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">I understand they do.</span>
 
-MR. TILLEUX: Mr. Chairman, someone this afternoon
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">Mr. Chairman, someone this afternoon
 mentioned that in one foreign country where they attempted to
 make a study of technical considerations, that had to be
 tabled because the persons delegated to make the study were unwilling to put on aprons and go into the laboratory, they
@@ -3132,7 +3132,7 @@ microfilming. He argued that he had seen the material, the
 processes, in operation, had handled the materials and felt
 perfectly qualified. We don't like to get into arguments of
 that kind. What we have to do, therefore, whenever microfilming
-is proposed under a WPA project, is to require that a full <span style="page" id="page122">[p.122]</span> statement of the work, the schedule of all the operations, the
+is proposed under a WPA project, is to require that a full <span class="page" id="page122">[p.122]</span> statement of the work, the schedule of all the operations, the
 footage of film which would be required, the number of pages
 or units to be filmed, be sent to our procurement office
 and opened for bids, and then University Microfilms or Holbrook
@@ -3142,9 +3142,9 @@ to take over complete preparation of that microfilm, including
 the laboratory processing, the preparation of the positive
 prints. That guarantees us that we will get acceptable quality
 material, but that still doesn't solve the big problem of
-training new people to carry on the work.
+training new people to carry on the work.</span>
 
-MR. THOMAS MARTIN: Mr. Chairman, it strikes me that
+<span class="speaker" data-speaker="THOMAS MARTIN">MR. THOMAS MARTIN</span>: <span class="speech" data-speaker="THOMAS MARTIN">Mr. Chairman, it strikes me that
 we have to consider the preservation of material being photographed as well as the actual processed photograph. I once saw
 some volumes from the State Department going under a microfilm
 camera in such fashion that I am quite sure the manuscripts
@@ -3154,7 +3154,7 @@ personnel, that a little schooling in library care of books
 and in what we might call the diplomatics in the start of
 training, such as the first-year graduate student gets in a
 course in medieval, or the labeling of medieval manuscripts,
-where care has to be used, certainly ought to be taken into <span style="page" id="page123">[p.123]</span> consideration. If we are going to turn loose a blitzkrieg
+where care has to be used, certainly ought to be taken into <span class="page" id="page123">[p.123]</span> consideration. If we are going to turn loose a blitzkrieg
 on historical material, that is manuscript material particularly,
 we ought to look particularly and especially to getting people
 trained in handling historical material.
@@ -3164,9 +3164,9 @@ Division that we know from an initial glance at them it won't
 do to let the manuscripts pass through their fingers; we had
 better use photostat copies and let them take the risk. Such
 people ought not to be let in the operating or supervising
-personnel.
+personnel.</span>
 
-MR. TATE: There has come up two or three times the
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">There has come up two or three times the
 question of two or three men who came from Europe to study
 microphotography and didn't wish to get their hands dirty.
 Without going into the details of the matter, I would like to
@@ -3177,9 +3177,9 @@ certain things and they believed from the general purpose of
 their visit that there were other things that were of more
 immediate importance than working in the laboratory, and that
 in particular was the reason why they did not spend all of
-their time in that particular course. <span style="page" id="page124">[p.124]</span>
+their time in that particular course. <span class="page" id="page124">[p.124]</span></span>
 
-MR. HILL: Mr. Chairman, we have been talking here
+<span class="speaker" data-speaker="HILL">MR. HILL</span>: <span class="speech" data-speaker="HILL">Mr. Chairman, we have been talking here
 I think more directly to the matter of personnel in this country
 and training personnel in this country. It ought to go in
 the record here again, I think, that a good deal of the mechanical force that would go into this large project abroad will be
@@ -3188,13 +3188,13 @@ the position of having to teach the supervisor all
 these technics so he can see that the other people can carry
 on, because it will be the training of the individual on the
 specific job very largely that will be important if you
-went to apply the standards set up here.
+went to apply the standards set up here.</span>
 
-CO-CHAIRMAN LYDENBERG: Mr. Co-Chairman, may I ask
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Mr. Co-Chairman, may I ask
 if you think the time is approaching when we ought to prepare
-for the ordeal of leaving?
+for the ordeal of leaving?</span>
 
-CO-CHAIRMAN LELAND: I think the time has come, Mr.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I think the time has come, Mr.
 Chairman, when we could recess for a short time, to meet again
 for dinner at the Cosmos Club. Perhaps we might dispense
 with the reading of the minutes for this session and give
@@ -3202,23 +3202,23 @@ the Reporter a chance to compose them, and if he wishes to
 present them at the opening of the evening session he can do
 so, of course. We will begin this evening with Section III,
 the consideration of the general problem in the light of
-present circumstances, in which we have got to discuss problems <span style="page" id="page125">[p.125]</span> of general policy, and perhaps we can get into Section IV,
+present circumstances, in which we have got to discuss problems <span class="page" id="page125">[p.125]</span> of general policy, and perhaps we can get into Section IV,
 the discussion of methods of selection, although that is going
 to be a difficult section to discuss and we may have to put
 that over until tomorrow.
 
 ... The meeting adjourned at five-thirty o'clock ...
 
-<span style="page" id="page126">[p.126]</span>
+<span class="page" id="page126">[p.126]</span>
 
 WEDNESDAY EVENING SESSION
 
 June 5, 1940
 
 The meeting was called to order at eight o'clock by
-Dr. Waldo G. Leland, Co-Chairman of the Conference.
+Dr. Waldo G. Leland, Co-Chairman of the Conference.</span>
 
-CO-CHAIRMAN LELAND: We come now to Section III,
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">We come now to Section III,
 which is entitled, "Consideration of General Problem in Light of
 Present Circumstances," and we have two general questions.
 The first is, "Is it desirable to organize large-scale projects:
@@ -3240,9 +3240,9 @@ circumstances we ought to try to organize them in certain parts
 of the world and not try to organize them in others, let us
 have those opinions. The collective wisdom of this group with
 regard to that will be very helpful to the Continuation
-Committee, I am sure. And so I should like first to have <span style="page" id="page127">[p.127]</span> remarks to that question: Is it desirable to organize large-scale projects, and if so, where?
+Committee, I am sure. And so I should like first to have <span class="page" id="page127">[p.127]</span> remarks to that question: Is it desirable to organize large-scale projects, and if so, where?</span>
 
-MR. LUNT: Mr. Chairman, in view of your opening
+<span class="speaker" data-speaker="LUNT">MR. LUNT</span>: <span class="speech" data-speaker="LUNT">Mr. Chairman, in view of your opening
 remarks and some of the letters which were distributed to us,
 it seems to me that at the present time it would be unwise to
 plan immediately to begin such operations in Europe, and that
@@ -3263,7 +3263,7 @@ projects projected within a limited number of years?
 
 My own opinion would be that the latter course would
 be desirable. If one tries to start the process of saving
-documents from destruction, the number of documents is so overwhelming that it seems to me an impossibility unless you have <span style="page" id="page128">[p.128]</span> limitless amounts of money. If one thinks of attempting to
+documents from destruction, the number of documents is so overwhelming that it seems to me an impossibility unless you have <span class="page" id="page128">[p.128]</span> limitless amounts of money. If one thinks of attempting to
 make microfilms of all the manuscripts in the Public Record
 Office, in the Vatican archives, for example, and realize that
 he has only made the first faint beginning of photostating
@@ -3271,28 +3271,28 @@ all the manuscripts, that sort of thing seems to me at the
 moment out of the question.
 
 But the second procedure would be very desirable and
-would greatly facilitate research in this country.
+would greatly facilitate research in this country.</span>
 
-CO-CHAIRMAN LELAND: You have heard Mr. Lunt's
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">You have heard Mr. Lunt's
 observations on that in which he draws a distinction between
 photographing for the principal purpose of preservation and
 microfilming for purposes of immediate or future estimated
-needs. Are there any other observations on this point?
+needs. Are there any other observations on this point?</span>
 
-MR. LONG: Mr. Chairman, precisely for the reasons
+<span class="speaker" data-speaker="LONG">MR. LONG</span>: <span class="speech" data-speaker="LONG">Mr. Chairman, precisely for the reasons
 that the gentleman has urged I advocate we undertake at least
 one large-scale project now for the purpose of experimentation
-looking toward the later large-scale operations.
+looking toward the later large-scale operations.</span>
 
-CO-CHAIRMAN LELAND: Are you thinking of copying
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Are you thinking of copying
 everything in a certain category of materials or certain
 depository, or are you thinking of copying everything relating
-to a possible project of research?
+to a possible project of research?</span>
 
-MR. LONG: I am thinking of it primarily as a method
-of training and preparation for a major later action. <span style="page" id="page129">[p.129]</span>
+<span class="speaker" data-speaker="LONG">MR. LONG</span>: <span class="speech" data-speaker="LONG">I am thinking of it primarily as a method
+of training and preparation for a major later action. <span class="page" id="page129">[p.129]</span></span>
 
-MR. POWER: I was going to suggest, as I did in the
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">I was going to suggest, as I did in the
 reply that I wrote to you, that assuming---and this is merely
 an assumption---that Italy does not come into the war, and that
 may not be a very good assumption, it would be a good place to
@@ -3306,15 +3306,15 @@ of the work of photographing manuscripts has already been done
 by the Institut d'Histoire des Textes, I believe an arrangement
 could be made to exchange with them those manuscripts that they
 have already filmed. The estimated cost of the whole job is
-about $26,000.
+about $26,000.</span>
 
-MR. VANDERBILT: This may not be the time to undertake large-scale operations in the collection of materials
+<span class="speaker" data-speaker="VANDERBILT">MR. VANDERBILT</span>: <span class="speech" data-speaker="VANDERBILT">This may not be the time to undertake large-scale operations in the collection of materials
 themselves, but it seems to me imminently the time to do
 large-scale bibliographical operations, to do the survey of
 desiderata which can be done in this country, which would be
 an exceedingly valuable thing to do if no filming were done
 for the present at all. Regardless of the war situation, it
-seems to me an admirable time to begin acquiring bibliographies <span style="page" id="page130">[p.130]</span> and particularly filming library catalogues which exist in
+seems to me an admirable time to begin acquiring bibliographies <span class="page" id="page130">[p.130]</span> and particularly filming library catalogues which exist in
 manuscript form only.
 Those propositions which appeal to me most among the
 preliminary statements were proposal to film such things as
@@ -3324,23 +3324,23 @@ bibliographical development which is a necessary initial step
 to allowing a sound formulation of work for any future filming
 that may be done. Of course, in any case, a plan to get into
 the United States all material that is necessary to scholars 18
-going to take years and years and years.
+going to take years and years and years.</span>
 
-CO-CHAIRMAN LELAND: That in itself would be
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">That in itself would be
 large-scale project, wouldn't it; I mean the photographing
 of all possible catalogues, or all useful catalogues. And
 at the same time it would lay the foundation for other projects
 that might be developed afterwards on the basis of the information that would be available by the possession of those
-catalogues.
+catalogues.</span>
 
-MR. LUNT: Mr. Chairman, this subject index of the
+<span class="speaker" data-speaker="LUNT">MR. LUNT</span>: <span class="speech" data-speaker="LUNT">Mr. Chairman, this subject index of the
 Record Office is something that I heard of first in the preliminary statement. I have worked in the Record Office off and on
 all my life. There is a similar subject index in the Vatican
-archives, the well-known Garanti index. I question the <span style="page" id="page131">[p.131]</span> value of getting an index to manuscripts---inventories and catalogues, well and good, but indexes---why get indexes, when
+archives, the well-known Garanti index. I question the <span class="page" id="page131">[p.131]</span> value of getting an index to manuscripts---inventories and catalogues, well and good, but indexes---why get indexes, when
 after all, you would still have to go through the manuscript
-itself to make sure that nothing has been omitted.
+itself to make sure that nothing has been omitted.</span>
 
-MR. BUCK: Mr. Chairman, it occurs to me that the
+<span class="speaker" data-speaker="BUCK">MR. BUCK</span>: <span class="speech" data-speaker="BUCK">Mr. Chairman, it occurs to me that the
 suggestion that has just been made about microfilming what
 we might call lists or finding mediums ties in with the
 remark that Mr. Bemis made this afternoon about the fundamental
@@ -3357,7 +3357,7 @@ cases in these inventories and catalogues, many of which are
 available only in manuscript. You asked for opinions. I am,
 therefore, strongly of the opinion that the first and fundamental step for any project of this sort is the obtaining and
 making available for further study in connection with possible
-future projects, and also in connection with research activities <span style="page" id="page132">[p.132]</span> under way, of the various guides, inventories and catalogues
+future projects, and also in connection with research activities <span class="page" id="page132">[p.132]</span> under way, of the various guides, inventories and catalogues
 that may be available. I am inclined to agree with Mr. Lunt,
 however, that the so-called subject catalogues and subject
 indexes would probably be of much less value than the lists.
@@ -3373,18 +3373,18 @@ It seems to me such a project would have the further
 advantage that it would give experience in technics and ways
 of organizing projects and carrying them through that could be
 applied later when perhaps conditions would make it more
-feasible to carry on extensive library projects of the reproduction of books, maps, manuscripts and things of that sort.
+feasible to carry on extensive library projects of the reproduction of books, maps, manuscripts and things of that sort.</span>
 
-MR. NICHOLS: Mr. Leland, in the absence of Mr. Bemis
+<span class="speaker" data-speaker="NICHOLS">MR. NICHOLS</span>: <span class="speech" data-speaker="NICHOLS">Mr. Leland, in the absence of Mr. Bemis
 I would like to say a word or two in support of his idea of
 using South America as an experimental ground for developing
 technics and making preparations for the peace assault upon
-Europe. I doubt whether we can get very far in Europe at this <span style="page" id="page133">[p.133]</span> time, even in Italy, and it would seem in spite of the
+Europe. I doubt whether we can get very far in Europe at this <span class="page" id="page133">[p.133]</span> time, even in Italy, and it would seem in spite of the
 difficulties which are enormous, we might be working along the
 lines of developing our interest in Latin American cooperation
-through means of this sort.
+through means of this sort.</span>
 
-MR. THOMAS MARTIN: I think we might look forward
+<span class="speaker" data-speaker="THOMAS MARTIN">MR. THOMAS MARTIN</span>: <span class="speech" data-speaker="THOMAS MARTIN">I think we might look forward
 to something that happened in Napoleon's time. Perhaps the
 same sort of thing happened earlier than that. When Napoleon
 conquered some of these countries of Europe, he raided the
@@ -3402,7 +3402,7 @@ British archives were moved out to Cambridge. It may be they
 will have to move them a great deal farther than Cambridge,
 perhaps over to Canada. We might even have some of these
 refugee archives, which of course are editorial selections
-by the officers in power, sent over to this country for safe <span style="page" id="page134">[p.134]</span> keeping until after the war, so it is just possible we might
+by the officers in power, sent over to this country for safe <span class="page" id="page134">[p.134]</span> keeping until after the war, so it is just possible we might
 foresee the necessity of organizing a project for copying
 refugee collections which are fleeing from Great Britain and
 France and Italy and Poland and other places, over to this
@@ -3414,9 +3414,9 @@ officials are making, in order to get the documents out of his
 way---those things are certain to be of very great interest to
 historians in the future, so I think it might be well just to
 keep in mind the fact that these editorial selections made officially at the present time might come our way and we might
-profit greatly by making copies of them.
+profit greatly by making copies of them.</span>
 
-CO-CHAIRMAN LELAND: Mr. Bemis, in your absence, Mr.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Mr. Bemis, in your absence, Mr.
 Nichols suggested the possibility of devoting attention very
 largely to copying in South America, and referred to the
 memorandum which you prepared and which was distributed to
@@ -3427,9 +3427,9 @@ might be useful to discuss that. Do you want to add anything
 
 ## p. 135 (#281) ############################################
 
-to your memorandum?
+to your memorandum?</span>
 
-MR. BEMIS: No, I don't think I need to repeat that.
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">No, I don't think I need to repeat that.
 The parts that occurred to me in that memorandum, which some of
 you may have glanced at, are that in view of the disturbed
 condition of Europe and the sympathetic attitude at present
@@ -3451,7 +3451,7 @@ on the line of Project "A."
 I suggest that the Library of Congress ought to be
 the one to undertake that as an expansion of project "A" or
 as a modification of Project "A" at this particular time. I
-think that if an experienced person could be sent down there to <span style="page" id="page136">[p.136]</span> set the work in motion, that it could be organized so
+think that if an experienced person could be sent down there to <span class="page" id="page136">[p.136]</span> set the work in motion, that it could be organized so
 carry on of itself, the way, for example, the work is now
 carrying on in England and was carrying on in France, that it
 is a project which could be wound up in a relatively short time
@@ -3459,12 +3459,12 @@ that is in a year or two years, and that is eminently practical,
 economical, and useful. The other details I have set forth in
 that memorandum indicate some specific documents that exist
 there which would be useful here and which could be copied,
-but I think the biggest field for work is in Rio de Janiero.
+but I think the biggest field for work is in Rio de Janiero.</span>
 
-CO-CHAIRMAN LELAND: Let's hear from some other
-experts on South America. Dr. Hill?
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Let's hear from some other
+experts on South America. Dr. Hill?</span>
 
-DR. HILL: First, I would like to speak to the
+<span class="speaker" data-speaker="HILL">DR. HILL</span>: <span class="speech" data-speaker="HILL">First, I would like to speak to the
 general question. It seems to me that there is not the time,
 perhaps, actually to undertake a complete major project,
 but certainly it is a time to look ahead toward that major
@@ -3473,7 +3473,7 @@ because if you began figuring how long it would take to reproduce the archives o
 there is going to be one, would be upon us long ere the project
 has finished. So I am for the line Mr. Lunt has suggested of
 working along the line of projects, either under way, or
-that are somewhat in the immediate future. <span style="page" id="page137">[p.137]</span>
+that are somewhat in the immediate future. <span class="page" id="page137">[p.137]</span>
 
 Then that brings us to the Latin American angle. I
 quite agree with Mr. Bemis that it is a field that ought to be
@@ -3490,17 +3490,17 @@ a time; I am rather inclined to disagree with Mr. Bemis about
 the length of time. I think it may be longer than that, but
 I think it is a very nice project and one that is practicable
 and one that ought to be put foremost in the schedule of the
-Continuation Committee.
+Continuation Committee.</span>
 
-CO-CHAIRMAN LELAND: Mr. Scholes, you have much
-experience in organizing copy in Mexico.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Mr. Scholes, you have much
+experience in organizing copy in Mexico.</span>
 
-MR. SCHOLES: I know nothing about South American
+<span class="speaker" data-speaker="SCHOLES">MR. SCHOLES</span>: <span class="speech" data-speaker="SCHOLES">I know nothing about South American
 archives, however. In the case of Mexico and Guatemala the
 one thing that bothers me would be the matter of what to get.
 In the Mexican archives there is an enormous collection. On
 the other hand, any basic body of materials that you would
-want, at least for the colonial period, for Mexico should come <span style="page" id="page138">[p.138]</span> from Seville and not from Mexico itself. There are certain
+want, at least for the colonial period, for Mexico should come <span class="page" id="page138">[p.138]</span> from Seville and not from Mexico itself. There are certain
 parts of the Mexican archives that could be reproduced very
 quickly, certain fundamental series, but the bulk of that
 archive certainly is not of the character that you would want
@@ -3523,22 +3523,22 @@ be to develop some sort of clearing agency in this country for
 the materials that we already have, some information service
 with regard to materials out of Seville, out of Mexico, or any
 other discipline---I am speaking now only for history---partly to
-avoid duplication if you do embark upon any large-scale program, <span style="page" id="page139">[p.139]</span> and second to make known to us what is already here in this
+avoid duplication if you do embark upon any large-scale program, <span class="page" id="page139">[p.139]</span> and second to make known to us what is already here in this
 country. In the case of South America, I think there are
 certain groups of papers, such as Dr. Bemis has suggested, that
 could be reproduced in a comparatively short time, although
 some of the major archives, such as the Peruvian archives, are
 in such chaos, apparently, that it would be pretty difficult
-to operate.
+to operate.</span>
 
-CO-CHAIRMAN LELAND: Is that because the archivist
-is the dean of the University?
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Is that because the archivist
+is the dean of the University?</span>
 
-MR. SCHOLES: Who knows?
+<span class="speaker" data-speaker="SCHOLES">MR. SCHOLES</span>: <span class="speech" data-speaker="SCHOLES">Who knows?</span>
 
-MR. NICHOLS: Obviously!
+<span class="speaker" data-speaker="NICHOLS">MR. NICHOLS</span>: <span class="speech" data-speaker="NICHOLS">Obviously!</span>
 
-MR. SCHOLES: More than that, you are trying to
+<span class="speaker" data-speaker="SCHOLES">MR. SCHOLES</span>: <span class="speech" data-speaker="SCHOLES">More than that, you are trying to
 decide whether you are going to anticipate needs or operate
 on the basis of particular projects, which are two sub-headings
 under this section. It seems to me that there the fundamental
@@ -3549,9 +3549,9 @@ economical procedure. Whether you try to anticipate needs or
 try to take materials that scholars in this country want,
 they should be taken in large blocks, in large groups, and not
 with any extensive selective process within certain categories
-of materials themselves. <span style="page" id="page140">[p.140]</span>
+of materials themselves. <span class="page" id="page140">[p.140]</span></span>
 
-MR. SIOUSSAT: Mr. Chairman, may I add to what you
+<span class="speaker" data-speaker="SIOUSSAT">MR. SIOUSSAT</span>: <span class="speech" data-speaker="SIOUSSAT">Mr. Chairman, may I add to what you
 started to say in the first section? When we were talking about
 1, 2, and 3, I made the point this afternoon that some
 things came up there which would seem to come up later in 2,
@@ -3574,7 +3574,7 @@ and find something exceedingly exasperating and difficult to
 administer.
 
 One of the things I remember very well, when my
-beloved and honored predecessor, Dr. Jameson came nearer to  <span style="page" id="page141">[p.141]</span> getting mad than I ever saw him, was when I asked him
+beloved and honored predecessor, Dr. Jameson came nearer to  <span class="page" id="page141">[p.141]</span> getting mad than I ever saw him, was when I asked him
 if he had thought of having a guide to the guides on materials
 in the Spanish archives and he said, "No, sir, somebody else
 can tackle that!" And that is something that is decidedly
@@ -3597,7 +3597,7 @@ selection at widely scattered times, by individuals, for
 different reasons and different motives, had produced a situation that was exceedingly unfortunate and caused a great deal
 of delay and a great deal of annoyance.
 
-So I want to reinforce as strongly as I can---I am <span style="page" id="page142">[p.142]</span> sorry to differ with Dr. Buck---the necessity of the preliminary
+So I want to reinforce as strongly as I can---I am <span class="page" id="page142">[p.142]</span> sorry to differ with Dr. Buck---the necessity of the preliminary
 work Dr. Bemis has spoken of. Without not merely the guides,
 but without the planning and the study that lies behind those
 and the concentration of that in the skilled hands and the
@@ -3620,35 +3620,35 @@ the things that they omitted, is going to think of that
 selection when he comes along and wants to examine into it.
 Forethought and planning is the major part of their proposition.
 
-With all due respect to the technic, the microfilming is only an incident. We have hand transcripts, we <span style="page" id="page143">[p.143]</span> have typewritten transcripts, we have photostatic,we have
+With all due respect to the technic, the microfilming is only an incident. We have hand transcripts, we <span class="page" id="page143">[p.143]</span> have typewritten transcripts, we have photostatic,we have
 microfilms and microfilm enlargements and there may be
 something else invented, but let's not forget in this whole
 situation that the microfilm is a means to an end, not an end
 in itself. In building up the approach to the end in view,
-scholarship, time and long planning is the fundamental requisite.
+scholarship, time and long planning is the fundamental requisite.</span>
 
-MR. BUCK: Mr. Chairman, I am somewhat puzzled to
+<span class="speaker" data-speaker="BUCK">MR. BUCK</span>: <span class="speech" data-speaker="BUCK">Mr. Chairman, I am somewhat puzzled to
 know just what is the conflict between what I said and what Dr.
 Sioussat said I said that he disagrees with, because I find
-myself in hearty agreement with everything he has said.
+myself in hearty agreement with everything he has said.</span>
 
-MR. SIOUSSAT: I understood you to say you thought
+<span class="speaker" data-speaker="SIOUSSAT">MR. SIOUSSAT</span>: <span class="speech" data-speaker="SIOUSSAT">I understood you to say you thought
 it was better to go ahead at once with large planning and not
-wait for guides.
+wait for guides.</span>
 
-MR. BUCK: No, no, no, what I said was the thing
+<span class="speaker" data-speaker="BUCK">MR. BUCK</span>: <span class="speech" data-speaker="BUCK">No, no, no, what I said was the thing
 to do now is to assemble by microphotography the existing
 guides in the shape of manuscript lists, catalogues and inventories, of European libraries and archives, and South American
 libraries and archives as the basis for just the comprehensive
-sort of planning that you have been speaking of.
+sort of planning that you have been speaking of.</span>
 
-CO-CHAIRMAN LELAND: The Chair rules that Mr. Buck
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">The Chair rules that Mr. Buck
 and Mr. Sioussat are in complete accord with each other, each
-more than the other. (Laughter) <span style="page" id="page144">[p.144]</span>
+more than the other. (Laughter) <span class="page" id="page144">[p.144]</span></span>
 
-MR. SIOUSSAT: That isn't what I mean by guides.
+<span class="speaker" data-speaker="SIOUSSAT">MR. SIOUSSAT</span>: <span class="speech" data-speaker="SIOUSSAT">That isn't what I mean by guides.</span>
 
-MR. BUCK: I have here in my hands a translation of
+<span class="speaker" data-speaker="BUCK">MR. BUCK</span>: <span class="speech" data-speaker="BUCK">I have here in my hands a translation of
 an article written by a member of the staff of the Bibliothèque
 Nationale entitled in translation, "Libraries and the War."
 Our Reporter obtained this article in French, and it has been
@@ -3669,7 +3669,7 @@ There is another feature of this paper that I think
 is pertinent in this connection, and that is the statement that
 the use of microphotography for the preservation of documentary
 material has also been undertaken in connection with the
-existing crisis, and I might read a sentence or two: "We have <span style="page" id="page145">[p.145]</span> used this method in reproducing the only catalogue in existence of the Library of the National Conservatory of Music.
+existing crisis, and I might read a sentence or two: "We have <span class="page" id="page145">[p.145]</span> used this method in reproducing the only catalogue in existence of the Library of the National Conservatory of Music.
 This reproduction appeared all the more necessary because
 certain parts of the catalogue, notably those concerning
 unique documents, ancient music, the music of King's Chapel
@@ -3681,9 +3681,9 @@ Thus we see that European scholars are interesting
 themselves in putting some of these catalogues and inventories
 and lists that exist only in manuscript form on microcopy,
 and consequently I think we can see the possibilities of
-obtaining their cooperation in projects of that sort.
+obtaining their cooperation in projects of that sort.</span>
 
-MR. BEMIS: Mr. Chairman, anent what Mr. Buck says,
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">Mr. Chairman, anent what Mr. Buck says,
 I think it takes something like this European war to persuade the average archivist of the desirability of doing that
 sort of thing, and while I am heartily in agreement with his
 proposal to photograph these manuscript inventories and guides,
@@ -3691,14 +3691,14 @@ I think that a great deal of blandishment, intimacy and
 diplomatic contrivance of one sort or another is necessary to
 get permission to do that in the average library of Latin
 America or the average archives there, first because these
-people are a little ashamed of the rather pitiful manuscript <span style="page" id="page146">[p.146]</span> inventories they have, and secondly because they represented
+people are a little ashamed of the rather pitiful manuscript <span class="page" id="page146">[p.146]</span> inventories they have, and secondly because they represented
 the very penetralia of these establishments that they
 preside over. They are very jealous about it. I think
 it is easy to talk about getting them photographed; it is
 a little more difficult to do it. If it can be done, however,
-I am all for it.
+I am all for it.</span>
 
-MR. POWER: Mr. Chairman, this past summer I arranged
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">Mr. Chairman, this past summer I arranged
 with the directors of the Laurentian Library in Florence to
 photograph the manuscript library of the manuscripts of the
 Convent of San Marco. That is the only catalogue in existence
@@ -3706,29 +3706,29 @@ of the manuscripts which that library took over from San Marco.
 I announced in the Journal of Documentary Reproduction that
 it was available at the nominal price of 70 cents, and so far I
 have received no requests for it. I did send ten copies around
-gratis.
+gratis.</span>
 
-CO-CHAIRMAN LELAND: Perhaps you will find some
-orders when you get back!
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Perhaps you will find some
+orders when you get back!</span>
 
-MR. POWER: My point is this:
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">My point is this:
 My point is this: If you can photograph
 those manuscript catalogues which exist in abundance, especially
 in Italian libraries, not only do you have a source of information or data over here which one can use to compile lists for
 ultimate photography, but those same catalogues could also be
-distributed to anyone who wished it and when combined with <span style="page" id="page147">[p.147]</span> photographic equipment in the country it means that the items
+distributed to anyone who wished it and when combined with <span class="page" id="page147">[p.147]</span> photographic equipment in the country it means that the items
 listed in that catalogue can then be secured upon individual
-order for any person who may want them before they are photographed on any large-scale project.
+order for any person who may want them before they are photographed on any large-scale project.</span>
 
-CO-CHAIRMAN LELAND: Before we get entirely away
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Before we get entirely away
 from the question of South America, I wish Mr. Leonard would
 give us his views about copying in South America. We have
 had it discussed chiefly from the viewpoint of the political
 and economic historian and the viewpoint of the archivist.
 Now, Mr. Leonard is especially interested in literary and cultural history and possibly would say something from the point
-of view of the possibilities of the library.
+of view of the possibilities of the library.</span>
 
-MR. LEONARD: From experience based on work in Lima
+<span class="speaker" data-speaker="LEONARD">MR. LEONARD</span>: <span class="speech" data-speaker="LEONARD">From experience based on work in Lima
 and Santiago and Buenos Aires, I am rather reluctantly brought
 around to agreeing with what has been said by several speakers.
 I am afraid that perhaps the best plan would be to take
@@ -3739,7 +3739,7 @@ the archives of Spanish America itself. I am speaking mainly
 of those on the west coast.
 
 We might hope that while these preliminary steps
-were being made, that the archives, for example, in Lima, <span style="page" id="page148">[p.148]</span> would make some progress on finding out what it has got itself.
+were being made, that the archives, for example, in Lima, <span class="page" id="page148">[p.148]</span> would make some progress on finding out what it has got itself.
 I think the archives in Lima are probably the richest, certainly for the colonial period, of any of the South American
 archives.
 Unfortunately, they are in an exceedingly chaotic
@@ -3755,25 +3755,25 @@ But before you can proceed to photographing material, especially
 if it is done on the project basis, that is a more or less
 limited project, the difficulties of locating the material,
 from the standpoint of time, would be enormous in a place like
-Lima.
+Lima.</span>
 
-CO-CHAIRMAN LELAND: How about photographing books
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">How about photographing books
 from the Medina collection in Santiago? Is there a great
 deal of material we haven't got that is unique and could be
-easily identified?
+easily identified?</span>
 
-MR. LEONARD: I think books offer a little different
-and simpler problem, especially in Santiago, because the <span style="page" id="page149">[p.149]</span> archive there is better organized than in Lima, and the
+<span class="speaker" data-speaker="LEONARD">MR. LEONARD</span>: <span class="speech" data-speaker="LEONARD">I think books offer a little different
+and simpler problem, especially in Santiago, because the <span class="page" id="page149">[p.149]</span> archive there is better organized than in Lima, and the
 library is relatively well organized and that Medina collection
 is set aside in a room of its own, a very large collection,
 so it is relatively easy to consult the books that are in that
 collection, which are rare imprints from the colonial period,
-from all the different countries of Latin America.
+from all the different countries of Latin America.</span>
 
-CO-CHAIRMAN LELAND: Would you find there is a great
-deal we haven't got?
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Would you find there is a great
+deal we haven't got?</span>
 
-MR. LEONARD: I would be inclined to think we would,
+<span class="speaker" data-speaker="LEONARD">MR. LEONARD</span>: <span class="speech" data-speaker="LEONARD">I would be inclined to think we would,
 yes, find a good many volumes we did not have, although there
 again it would probably be wise to take some sort of a census of
 what we have in this country here, consulting the Union
@@ -3781,14 +3781,14 @@ Catalogue at least. But I think that would be a very fruitful
 place to work from the point of view of getting imprints of
 the colonial period. Lima would also be useful, but it would
 be much more difficult to find your books. They are not all
-together in one room as they are in Santiago.
+together in one room as they are in Santiago.</span>
 
-MR. WATSON DAVIS: Mr. Chairman, I have here, with
+<span class="speaker" data-speaker="WATSON DAVIS">MR. WATSON DAVIS</span>: <span class="speech" data-speaker="WATSON DAVIS">Mr. Chairman, I have here, with
 the permission of the Department of State, a communication
 which has direct reference to the problem that Dr. Bemis and
 Dr. Leonard have mentioned; that is, in Guatemala, the
 Director of the National Archives, Senor Pardo, has made known
-to our mission there that he would welcome microfilming and <span style="page" id="page150">[p.150]</span> depositing in the appropriate agency in the United States a
+to our mission there that he would welcome microfilming and <span class="page" id="page150">[p.150]</span> depositing in the appropriate agency in the United States a
 considerable portion of the documents in his charge. The
 complete letter is here. He has no assistants, not even a
 typist. He is cataloguing more than 400,000 letters, royal
@@ -3798,32 +3798,32 @@ to buy his own film, and he is described in this as a gentleman of middle age wh
 an understanding of the requirements for its proper conduct,
 and so forth. It seems to me that this might be a practical
 point of departure, and I might add that this letter is confidential, but permission has been secured to present it to this
-conference.
+conference.</span>
 
-CO-CHAIRMAN LELAND: Thank you very much, Mr. Davis.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Thank you very much, Mr. Davis.
 
-Mr. Jameson, you were going to say something.
+Mr. Jameson, you were going to say something.</span>
 
-MR. JAMESON: I rise merely hoping the conference
+<span class="speaker" data-speaker="JAMESON">MR. JAMESON</span>: <span class="speech" data-speaker="JAMESON">I rise merely hoping the conference
 might get off South America for a moment. I have just returned
 from an extensive trip among the American colleges to find out
 in part, among other things, what was needed to stimulate
 research, and the call there is for microfilm copies of European periodicals of the seventeenth and eighteenth centuries.
 I was astonished at how unanimous the feeling was that those
-were needed. I consulted in three universities the directors <span style="page" id="page151">[p.151]</span> of the schools of literature, and they estimated 90 per cent
+were needed. I consulted in three universities the directors <span class="page" id="page151">[p.151]</span> of the schools of literature, and they estimated 90 per cent
 of the time of students is spent in reading
 periodicals,
 and if a selection of European periodicals could be produced
 in this country it would save an enormous amount of time, and
 prepare the students better for the European trip. I would
-like to have that discussed, if relevant.
+like to have that discussed, if relevant.</span>
 
-MR. BEMIS: That couldn't be done right now under
-the existing situation in Europe.
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">That couldn't be done right now under
+the existing situation in Europe.</span>
 
-MR. JAMESON: Quite a bit could be done.
+<span class="speaker" data-speaker="JAMESON">MR. JAMESON</span>: <span class="speech" data-speaker="JAMESON">Quite a bit could be done.</span>
 
-CO-CHAIRMAN LELAND: It could be done from provincial
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">It could be done from provincial
 collections where you will find periodicals that would also be
 in metropolitan collections.
 
@@ -3831,22 +3831,22 @@ One is rather impressed by examining the Union
 Catalogue of periodicals, I mean the Union list of serials,
 holdings of serials, to see how many gaps there are in our
 holdings. I mean how many European periodicals we haven't got
-at all or have only broken files of.
+at all or have only broken files of.</span>
 
-MR. JAMESON: I know half a dozen French and Italian
+<span class="speaker" data-speaker="JAMESON">MR. JAMESON</span>: <span class="speech" data-speaker="JAMESON">I know half a dozen French and Italian
 libraries fairly well, and I know many of the things we need
 can be gotten there. You don't have to go to Paris or London
-for them.
+for them.</span>
 
-MR. BEMIS: I am assuming that this catastrophe in
-Europe is going to be pretty wide-spread, and that librarians <span style="page" id="page152">[p.152]</span> will be closing up their libraries, sand-bagging them or what
-not, and won't want to be bothered during the present war.
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">I am assuming that this catastrophe in
+Europe is going to be pretty wide-spread, and that librarians <span class="page" id="page152">[p.152]</span> will be closing up their libraries, sand-bagging them or what
+not, and won't want to be bothered during the present war.</span>
 
-MR. JAMESON: It is an assumption we can't consider.
+<span class="speaker" data-speaker="JAMESON">MR. JAMESON</span>: <span class="speech" data-speaker="JAMESON">It is an assumption we can't consider.
 The provincial libraries are likely to stay open. Their
-collections are local and large.
+collections are local and large.</span>
 
-MR. DANTON: Mr. Jameson prompts me to ask a question
+<span class="speaker" data-speaker="DANTON">MR. DANTON</span>: <span class="speech" data-speaker="DANTON">Mr. Jameson prompts me to ask a question
 which I suspect represents or would represent something of the
 minority point of view, which has been turning over in my
 mind ever since the discussion started this evening, and that
@@ -3862,16 +3862,16 @@ and if we admit, as Mr. Jameson has pointed out and as many of
 us know, many of those materials are not represented in American
 libraries and are needed and would be used, then I come back
 to my original question, should we, simply because of the
-magnitude of the problem and the undoubted difficulties and <span style="page" id="page153">[p.153]</span> obstacles that would be placed in the way of a partial solution, give up all idea of trying to operate in Europe?
+magnitude of the problem and the undoubted difficulties and <span class="page" id="page153">[p.153]</span> obstacles that would be placed in the way of a partial solution, give up all idea of trying to operate in Europe?
 
 There are still countries more or less unaffected;
 there are still many libraries in which photographic operations
 could be carried on. Spain is one, of course; Sweden is
 probably another. Finland now is one. The situation, of course,
 will change probably from month to month, but I should be very
-sorry to rule out Europe entirely.
+sorry to rule out Europe entirely.</span>
 
-MR. BEMIS: I should like to say the answer, just
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">I should like to say the answer, just
 categorically and dogmatically from my own point of view, is,
 yes, we should rule out Europe. Granting the desirability of
 preservation of these copies, if there was ever a period in the
@@ -3886,7 +3886,7 @@ such favors now is nothing more than a nuisance, a first-class
 nuisance. I would never undertake to try to do it personally
 in such times.
 
-I dogmatically will say that no one would be welcome <span style="page" id="page154">[p.154]</span> in Europe who attempted to do this sort of thing, even in a
+I dogmatically will say that no one would be welcome <span class="page" id="page154">[p.154]</span> in Europe who attempted to do this sort of thing, even in a
 neutral country, so-called, now. It is all right to formulate
 this. If they aren't blown up or destroyed in the present
 war, then it would be all right later on to try to do something
@@ -3901,17 +3901,17 @@ we just keep along there with a trickle of work for the present
 it is about all that can be hoped for, so I answer that very
 pessimistically, I am afraid dogmatically, but I don't see
 any chance of doing it at all to any great extent, unless
-possibly in Spain.
+possibly in Spain.</span>
 
-MR. HILL: You can't get into Spain right now.
+<span class="speaker" data-speaker="HILL">MR. HILL</span>: <span class="speech" data-speaker="HILL">You can't get into Spain right now.</span>
 
-MR. TILLEUX: Dr. Leland, I think possibly in part
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">Dr. Leland, I think possibly in part
 of our discussion right now, the direction of it could be
 changed if we had a little bit more definite commitment as to
 what we can expect, whether it is South America or Europe.
 I would like to ask the question, to what extent have the
 various curators of archival institutions been approached, and
-to what extent have they indicated a willingness and agreeableness <span style="page" id="page155">[p.155]</span> to letting us come in? Dr. Watson Davis has read to us
+to what extent have they indicated a willingness and agreeableness <span class="page" id="page155">[p.155]</span> to letting us come in? Dr. Watson Davis has read to us
 a part of a communication which indicates this poor scholar
 working all alone would welcome a chance to have his materials
 permanently recorded. I suspect that may be a rather isolated
@@ -3922,11 +3922,11 @@ We are sitting here talking about what we would like
 to do in Europe or Central America. I am wondering whether
 the curators' attitude or the persons having the collections,
 would not operate against your getting them if you tried.
-I would like that brought out in the open.
+I would like that brought out in the open.</span>
 
-CO-CHAIRMAN LELAND: About that we can only speculate.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">About that we can only speculate.</span>
 
-MR. SCHOLES: I would like to at least record some
+<span class="speaker" data-speaker="SCHOLES">MR. SCHOLES</span>: <span class="speech" data-speaker="SCHOLES">I would like to at least record some
 information about Spain, in the first place. A year ago this
 spring at the end of the Civil War, the Carnegie Institution
 tried to get permission for a member of our staff to enter
@@ -3936,7 +3936,7 @@ of Trustees is Mr. Cameron Forbes, who is very close to the
 Franco government, but up to the present time we have not
 even had a reply from the Spanish Embassy to that application.
 The only person I know to be able to operate in Spain is Mr.
-Morrison, and I suspect he got in because he was captain of a <span style="page" id="page156">[p.156]</span> ship that sailed up a river.
+Morrison, and I suspect he got in because he was captain of a <span class="page" id="page156">[p.156]</span> ship that sailed up a river.
 
 We have had 2,000 feet of film in Seville for a year
 and a half and haven't had a single picture made yet.
@@ -3952,15 +3952,15 @@ had your choice you would go to Seville first. There are, however, certain class
 Mexico, in the archives I know best, that could be photographed
 without a great outlay in time or money, and certainly in the
 case of the Mexican archive, I know of no objection on the part
-of the staff that would prevent us from doing that.
+of the staff that would prevent us from doing that.</span>
 
-CO-CHAIRMAN LELAND: I saw Dr. Mayer trying to get
-the floor a minute or two ago.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I saw Dr. Mayer trying to get
+the floor a minute or two ago.</span>
 
-DR. MAYER: I believe we should not give up the large-scale idea because things have gone as they have in Europe or
+<span class="speaker" data-speaker="MAYER">DR. MAYER</span>: <span class="speech" data-speaker="MAYER">I believe we should not give up the large-scale idea because things have gone as they have in Europe or
 Asia, because I believe the aim of this conference is to save
 everything that is possible, not for the present but for the
-future generation. We cannot ourselves on selective basis <span style="page" id="page157">[p.157]</span> say that we want to microfilm certain definite portions of the
+future generation. We cannot ourselves on selective basis <span class="page" id="page157">[p.157]</span> say that we want to microfilm certain definite portions of the
 Public Record Office, or, for instance, an archive in Spain,
 or a certain class of books or a certain class of manuscripts.
 We should make our plan on a really wholesale basis. We are
@@ -3984,7 +3984,7 @@ same time a world list of all medical publications. Other
 libraries and other archives probably could take up some other
 part of the problem and establish some subject catalogues for
 their own field, and finally all these subject catalogues
-would be united in one large catalogue which maybe would form <span style="page" id="page158">[p.158]</span> the basis for the American Institute of Bibliography, or some
+would be united in one large catalogue which maybe would form <span class="page" id="page158">[p.158]</span> the basis for the American Institute of Bibliography, or some
 future institute which then could start microfilming expeditions to various countries.
 But even for the present time I
 believe it would be possible to send microfilming expeditions
@@ -3994,9 +3994,9 @@ not go into war, and there are many manuscripts there of historical interest or 
 Ages, and there are many rare prints and incunabula which this
 country does not have. But before deciding what to microfilm,
 we should have, first, a knowledge of what we really have at
-the present time in the country.
+the present time in the country.</span>
 
-MR. SWINGLE: I would like to say one word about
+<span class="speaker" data-speaker="SWINGLE">MR. SWINGLE</span>: <span class="speech" data-speaker="SWINGLE">I would like to say one word about
 South America. The Royal Library of Portugal is in Rio de
 Janeiro; when the royal family moved to Brazil in the Napoleonic
 War they moved the library with them and left on such short
@@ -4007,7 +4007,7 @@ man who would cooperate easily with us.
 
 Furthermore, I want to say we know next to nothing
 about the great exploring expeditions all through the Plateau
-of Brazil, that have been going on there for five centuries, <span style="page" id="page159">[p.159]</span> and those are of great interest to us, because from commercial standpoint our interest in South America is very, very
+of Brazil, that have been going on there for five centuries, <span class="page" id="page159">[p.159]</span> and those are of great interest to us, because from commercial standpoint our interest in South America is very, very
 great in that tropical plateau of Brazil where all the things
 we now buy from the East are available without difficulty. Those
 books can be obtained, and there are only two decent Portuguese
@@ -4027,7 +4027,7 @@ What I want to say is that the feeling of Brazilians
 toward the United States is different from any other country I
 ever traveled in, and I have lived for years in Europe. They
 are most remarkably friendly and they will go further than
-almost any other foreign country to cooperate with us. That I <span style="page" id="page160">[p.160]</span> know because I went there myself as a Brazilian official. I
+almost any other foreign country to cooperate with us. That I <span class="page" id="page160">[p.160]</span> know because I went there myself as a Brazilian official. I
 was hired by the Brazilian Government to advise them, I didn't
 go as an American at all, and I am in a position to speak from
 experience on this point. Everywhere I found the most extreme
@@ -4045,11 +4045,11 @@ to try to grow rubber in the New World. That is a sample of
 the thing this country is bound to do. We are interested in
 the tropical part of South America where we can hope to produce
 millions of dollars worth a year of tropical plants which we
-import from distant countries like the Dutch East Indies.
+import from distant countries like the Dutch East Indies.</span>
 
-MR. SCHWEGMANN: It seems likely we could crystallize
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">It seems likely we could crystallize
 into action some of the opinions that have been expressed if
-we knew just a little bit the answer to these questions. The <span style="page" id="page161">[p.161]</span> first one is: How much money is likely to be available for
+we knew just a little bit the answer to these questions. The <span class="page" id="page161">[p.161]</span> first one is: How much money is likely to be available for
 any copying project? The second one is: Can't we differentiate
 between the idea of copying archives and copying books? Archive
 apparently would have to be prepared before copying to make
@@ -4069,10 +4069,10 @@ to be found in the Union Catalogue, which apparently means that
 very few of those books are coming into the United States.
 So I submit if we know about how much money we have to spend and
 whether we want to spend it on manuscript reproduction or on
-book reproduction, we might formulate some program.
+book reproduction, we might formulate some program.</span>
 
-CO-CHAIRMAN LELAND: Those are problems of course
-for the Continuation Committee to look into. I have no idea <span style="page" id="page162">[p.162]</span> how much money might be available, whether any money will be
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Those are problems of course
+for the Continuation Committee to look into. I have no idea <span class="page" id="page162">[p.162]</span> how much money might be available, whether any money will be
 available, but if good projects are formulated I should
 imagine they would find support if circumstances permitted,
 and I think the point that we must think of books as well as of
@@ -4080,9 +4080,9 @@ archival materials of course is well made. We have been
 hearing a good deal from the historians and they think in terms
 very largely of archives, naturally, and there are one or two
 interests here that haven't been very vocal as yet. Mr. Post,
-you have come representing the interests of medievalists.
+you have come representing the interests of medievalists.</span>
 
-MR. POST: I simply want to say I am naturally in
+<span class="speaker" data-speaker="POST">MR. POST</span>: <span class="speech" data-speaker="POST">I simply want to say I am naturally in
 favor of preserving manuscripts that are unpublished, manuscripts which offer access only to new copies. As for books,
 except for certain incunabula and very rare books we can buy
 them in South America. I don't think we need to spend our
@@ -4093,7 +4093,7 @@ It is no simple problem to photograph a manuscript.
 It is not sufficient to photograph manuscript catalogues in
 European libraries. Where manuscript catalogues are published
 we can get copies. The manuscript catalogues are totally
-inadequate for the average scholar. The expert has to go <span style="page" id="page163">[p.163]</span> through the manuscripts themselves to know what kinds of
+inadequate for the average scholar. The expert has to go <span class="page" id="page163">[p.163]</span> through the manuscripts themselves to know what kinds of
 materials are in the manuscripts, and it is the scholars who
 have to do that, and really the discussion of that problem
 comes under Section IV and not Section III. Hence, I haven't
@@ -4102,12 +4102,12 @@ scholars, probably chosen from all fields, has to be done.
 
 As for Union lists, bibliographies of bibliographies
 of libraries, and bibliographies of bibliographies of bibliographies, I have used them enough to find I have very little
-faith in them.
+faith in them.</span>
 
-CO-CHAIRMAN LELAND: Mr. Davies, you have come from
-a distance and you represent an institution particularly interested in the study of the Renaissance.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Mr. Davies, you have come from
+a distance and you represent an institution particularly interested in the study of the Renaissance.</span>
 
-MR. GODFREY DAVIES: I would like to say in regard
+<span class="speaker" data-speaker="GODFREY DAVIES">MR. GODFREY DAVIES</span>: <span class="speech" data-speaker="GODFREY DAVIES">I would like to say in regard
 to the problem of photographing manuscript indexes, like Mr.
 Lunt, I have worked in the Record Office all my adult life, and
 they are useful but they are by no means indispensable. I find
@@ -4117,7 +4117,7 @@ was in the Record Office.
 
 The next point I would like to make is that people
 have been talking about the possibility of microfilming national
-archives. I would like to say a few words about that from the <span style="page" id="page164">[p.164]</span> English point of view. I don't know much about other archives.
+archives. I would like to say a few words about that from the <span class="page" id="page164">[p.164]</span> English point of view. I don't know much about other archives.
 If you photographed all that was in the Record Office, you
 would not have a very high percentage, not above I suppose
 perhaps 60 per cent, of what are, properly speaking, the national archives. Queen Elizabeth toward the end of her reign laid
@@ -4141,7 +4141,7 @@ Minister until his death in 1612.
 
 Take the case of Elizabeth's Lord Keeper of the Jails,
 Lord Ellesmere; many of his manuscripts are in Huntington Library
-some are still in the possession of his family and those are <span style="page" id="page165">[p.165]</span> legal manuscripts. The notes of his star chamber are full
+some are still in the possession of his family and those are <span class="page" id="page165">[p.165]</span> legal manuscripts. The notes of his star chamber are full
 of the drama as well as the economic and official political
 history. They are in the Huntington Library.
 
@@ -4165,13 +4165,13 @@ as nearly as we can where their papers and and to what extent
 they are in print, or where they are described, whether
 they are described by the Historical Manuscript Commission
 or elsewhere. That I think would be a real service to scholarship. Of course, if the British National Bibliography were up
-to date and if all the authors were conscientious, we would <span style="page" id="page166">[p.166]</span> have all the information I desire there, so far as it was
+to date and if all the authors were conscientious, we would <span class="page" id="page166">[p.166]</span> have all the information I desire there, so far as it was
 true fifty or sixty years ago, but even the more conscientious
 authors fifty or sixty years ago state where their manuscripts
 were then, which is very little use to us now. I would like
-very much to see some listing of that kind undertaken.
+very much to see some listing of that kind undertaken.</span>
 
-CO-CHAIRMAN LELAND:
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>:
 We have been discussing back and
 forth over III and IV. There is one point I think that we
 might discuss a little, which is given under No. 9 here, end
@@ -4190,13 +4190,13 @@ way with any large-scale projects that were being planned but
 that it is a service which has been inaugurated? This afternoon
 we found three such services in existence and I should suppose
 the opinion of this conference would be that such services
-should be maintained and improved so far as possible, so the <span style="page" id="page167">[p.167]</span> individual can secure what he needs as promptly and as inexpensively as possible. I don't know whether that calls for
+should be maintained and improved so far as possible, so the <span class="page" id="page167">[p.167]</span> individual can secure what he needs as promptly and as inexpensively as possible. I don't know whether that calls for
 much discussion, but if there is any discussion as to where
 emphasis should be placed, we would be glad to have it, but I
 think most of us would agree that the two ideas have got to go
-forward together.
+forward together.</span>
 
-MR. LUNT: Mr. Chairman, if I understand Project "A"---I am not sure that I do---it is photographing manuscripts in
+<span class="speaker" data-speaker="LUNT">MR. LUNT</span>: <span class="speech" data-speaker="LUNT">Mr. Chairman, if I understand Project "A"---I am not sure that I do---it is photographing manuscripts in
 advance of needs in somewhat the same manner as those who
 have to recommend the purchase of books for college or university libraries recommend the purchase of books which we ourselves
 wish to use, which our students wish to use, and a great many
@@ -4210,7 +4210,7 @@ to reach a system of selection in which we could get not only
 those things which are needed immediately by individual scholars
 who have projects planned and in hand and can send to a central
 committee or board just what they need, but that we should also
-plan for a more general future. <span style="page" id="page168">[p.168]</span>
+plan for a more general future. <span class="page" id="page168">[p.168]</span>
 
 I have in mind some such procedure as this, that
 a central committee or board should canvass various learned
@@ -4232,14 +4232,14 @@ committee then having this data at hand could compare
 these lists, consult scholars further if necessary, and reach
 working basis for a selective list which would be of practical
 value for a good many years to come, and yet would not be
-on such an expensive scale as to make it financially impossible.
+on such an expensive scale as to make it financially impossible.</span>
 
-MR. JAMESON: I merely wanted to point out and
-emphasize the difference which was made between archival material <span style="page" id="page169">[p.169]</span> and periodical material. The two are clearly different. In
+<span class="speaker" data-speaker="JAMESON">MR. JAMESON</span>: <span class="speech" data-speaker="JAMESON">I merely wanted to point out and
+emphasize the difference which was made between archival material <span class="page" id="page169">[p.169]</span> and periodical material. The two are clearly different. In
 the second place, I want again to insist there is a large body
-of scholars in America that need the periodical material.
+of scholars in America that need the periodical material.</span>
 
-MR. TILLEUX: Mr. Chairman, you mentioned the three
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">Mr. Chairman, you mentioned the three
 agencies in this country through which information could be
 secured regarding the microfilming of data. I have here something which I didn't mention this afternoon because I didn't
 know enough about it. It is possible some of the gentlemen
@@ -4255,7 +4255,7 @@ One of the gentlemen made the comment that it would
 be necessary first of all to arrange manuscripts for microfilming.
 Of course that is the logical thing to do if you could
 go about it deliberately, but when you are working against an
-advancing military frontier and you have only a few hours to <span style="page" id="page170">[p.170]</span> work, the thing to do is to film, get the film out of the
+advancing military frontier and you have only a few hours to <span class="page" id="page170">[p.170]</span> work, the thing to do is to film, get the film out of the
 country, and then let scholars go through the stuff and pick
 out those things which are significant and make indexes of them.
 Microfilm can be bought with numbering edge-fogged on it so
@@ -4279,22 +4279,22 @@ Mr. Jameson has mentioned twice the great desire of
 scholars in American universities to have readily accessible
 rather extensive runs of foreign periodicals, I don't know
 exactly what kind of periodicals but probably scientific, and
-I recall having read not long ago that an institute had been <span style="page" id="page171">[p.171]</span> planned for Oxford, England, whereby they would perform the
+I recall having read not long ago that an institute had been <span class="page" id="page171">[p.171]</span> planned for Oxford, England, whereby they would perform the
 same type of service for European and English scholars that
 Bibliofilm and Documentation Service does here, that is the
 provision of files for a great period of years of selected
 important scientific periodicals. As you probably know, an
 endowment has made it possible for libraries which wish those
 to get them at a very small cost per frame, a cent and a
-half or something of that sort.
+half or something of that sort.</span>
 
-CO-CHAIRMAN LELAND: I suspect, Mr. Tilleux, Mr.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I suspect, Mr. Tilleux, Mr.
 Vanderbilt or Mr. Boyd can answer your inquiry with regard to
 the service you have been describing in Philadelphia.
 
-Dr. Buck!
+Dr. Buck!</span>
 
-DR. BUCK: Mr. Chairman, I would like to underscore
+<span class="speaker" data-speaker="BUCK">DR. BUCK</span>: <span class="speech" data-speaker="BUCK">Mr. Chairman, I would like to underscore
 one of the remarks made by Mr. Lunt with reference to the
 process of selection, and that is that selection from archival
 or manuscript collections for reproduction should be by series
@@ -4304,32 +4304,32 @@ might of course be exceptions. One reason would be that it is
 a much simpler process to select the series than to arrange for
 a scholar to go through a series and pick out the significant
 documents, but the other and more important reason is that
-documents selected out of a series lose some of their value <span style="page" id="page172">[p.172]</span> because of the possible interrelations with other documents
+documents selected out of a series lose some of their value <span class="page" id="page172">[p.172]</span> because of the possible interrelations with other documents
 in the series. I think what Dr. Sioussat said about our
 series of transcripts in which the enclosures have been omitted
 is an illustration of that fact, and I should strongly advocate
 that selection, if applied to archival or manuscript materials,
 be on the basis of important series or groups rather than the
-selection of individual documents for reproduction.
+selection of individual documents for reproduction.</span>
 
-MR. WILLIAMS: I think it is pertinent to say that
+<span class="speaker" data-speaker="WILLIAMS">MR. WILLIAMS</span>: <span class="speech" data-speaker="WILLIAMS">I think it is pertinent to say that
 the American Library Association Committee on Photographs adopted the policy in the case of manuscripts of reproducing the
 whole manuscript, no matter what is in it, and the applicant
 must furnish us a statement of the various articles that
 may be in the manuscripts. We will furnish him the copy of
 what he wants but we also, while ordering, acquire the whole
-volume.
+volume.</span>
 
-MR. HILL: Mr. Chairman, just in connection with that
+<span class="speaker" data-speaker="HILL">MR. HILL</span>: <span class="speech" data-speaker="HILL">Mr. Chairman, just in connection with that
 and emphasizing some of this and going back to what Dr. Sioussat
 said, I want to advocate that it be done, not entirely by
 series, perhaps, but by unit. Whatever unit the archive has
 for its material, take the whole thing; if it is a bundle or
 if it is a volume or whatever it is, once you start in on
 thing, do it entirely. So far as the work that was done while
-I was in Spain, we did that, so we are not guilty of that part. <span style="page" id="page173">[p.173]</span>
+I was in Spain, we did that, so we are not guilty of that part. <span class="page" id="page173">[p.173]</span></span>
 
-MR. WATSON DAVIS: Mr. Chairman, with your permission
+<span class="speaker" data-speaker="WATSON DAVIS">MR. WATSON DAVIS</span>: <span class="speech" data-speaker="WATSON DAVIS">Mr. Chairman, with your permission
 I transmitted to the membership of the American Documentation
 Institute, approximately sixty members nominated by that number
 of scientific and scholarly agencies, your general summary
@@ -4352,7 +4352,7 @@ Pharmacology of the Food and Drug Administration, Department of
 Agriculture, says: "I am sure the societies which I represent
 will be very much interested in just what is available through
 the American Documentation Institute in the case of inaccessible
-foreign journals, and at what costs." <span style="page" id="page174">[p.174]</span>
+foreign journals, and at what costs." <span class="page" id="page174">[p.174]</span>
 
 Philip B. Bucky, the representative of the American
 Institute of Mining Engineers, recommends that efforts be
@@ -4374,16 +4374,16 @@ idea of filming all collections of manuscripts in such places.
 The representative of the Medieval Academy, Dr. C. W.
 David, feels that the membership of the Medieval Academy
 would be most interested in microcopying of selected manuscripts, although they have some interest in books.
-I would like to make these a part of the record.
+I would like to make these a part of the record.</span>
 
-CO-CHAIRMAN LELAND: Thank you very much, Dr. Davis.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Thank you very much, Dr. Davis.
 If you would at some suitable time hand them to the Reporter,
-they can be incorporated in the record, and we are grateful to <span style="page" id="page175">[p.175]</span> you for gathering that information.
+they can be incorporated in the record, and we are grateful to <span class="page" id="page175">[p.175]</span> you for gathering that information.
 
 We have heard nothing from Mr. Pettitt of the
-University of California.
+University of California.</span>
 
-MR. PETTITT: I have very little to contribute to the
+<span class="speaker" data-speaker="PETTITT">MR. PETTITT</span>: <span class="speech" data-speaker="PETTITT">I have very little to contribute to the
 conference here. In fact, I feel I am getting a great deal out
 of listening to the opinions and statements that are being
 made.
@@ -4393,16 +4393,16 @@ to get a first-hand account of what the men out here on the
 East Coast particularly think of the possibilities of this microfilm work so that we may take advantage of such information
 in the development of our library out there and also in cooperating with eastern groups. I don't know that I have enough
 first-hand information or experience in this work of microfilming of reference material at this time to make any constructive
-statement.
+statement.</span>
 
-CO-CHAIRMAN LELAND: We will be very glad to have any
-suggestions from you at this time, Mr. Pettitt.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">We will be very glad to have any
+suggestions from you at this time, Mr. Pettitt.</span>
 
-MR. KELLAR: Like Mr. Pettitt, I have listened with
+<span class="speaker" data-speaker="KELLAR">MR. KELLAR</span>: <span class="speech" data-speaker="KELLAR">Like Mr. Pettitt, I have listened with
 a great deal of interest to the different points of view
 that have been expressed. I would like to make three comments.
 I think it is entirely possible that the direction of events
-in Europe may mean that some original records may be sent over <span style="page" id="page176">[p.176]</span> here and if they come, it may be possible for us to copy them.
+in Europe may mean that some original records may be sent over <span class="page" id="page176">[p.176]</span> here and if they come, it may be possible for us to copy them.
 There will be many that will not come. I think that an attempt
 should be made to get what we can in Europe.
 
@@ -4416,17 +4416,17 @@ materials to us.
 
 I think, also, that if we cannot do very much in
 Europe---and I think we should try---then we should turn our
-attention to South America, but it seems to me under the conditions that Europe has the first call.
+attention to South America, but it seems to me under the conditions that Europe has the first call.</span>
 
-CO-CHAIRMAN LELAND: We have been talking largely
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">We have been talking largely
 about Europe and South America but nothing has been said about
 Asia this evening. We know of one or two enterprises that are
 going on there, and with Mr. Swingle and Mr. Hummel and Mr.
 Graves here, I think before we leave this subject of distribution of effort we ought to hear at least something of the
 possibilities of more intensive work in certain Asiatic cities.
-Mr. Hummel, suppose you speak to that.
+Mr. Hummel, suppose you speak to that.</span>
 
-MR. HUMMEL: Mr. Chairman, I was wondering if you <span style="page" id="page177">[p.177]</span> were going to leave Asia out. It is in here: Asia, Latin
+<span class="speaker" data-speaker="HUMMEL">MR. HUMMEL</span>: <span class="speech" data-speaker="HUMMEL">Mr. Chairman, I was wondering if you <span class="page" id="page177">[p.177]</span> were going to leave Asia out. It is in here: Asia, Latin
 America, Europe, Africa and Oceania.
 
 There is one thing to be said about the possibilities
@@ -4447,7 +4447,7 @@ have printed catalogues. We know where the books went from
 century to century and we know where the books are now. Furthermore, we know what books are rare and what books are unique.
 I could within two days with my staff in the Library of
 Congress compile a list of at least 200 unique items which I
-know are in only one library of China or Japan. It wouldn't <span style="page" id="page178">[p.178]</span> take us any time at all to list printed books and manuscripts
+know are in only one library of China or Japan. It wouldn't <span class="page" id="page178">[p.178]</span> take us any time at all to list printed books and manuscripts
 which we know to be unique. There would be no guesswork about
 it because the Chinese are, I suppose, the greatest bibliographers the world has ever seen. They have listed the descent,
 the migration, of all their books from library to library,
@@ -4469,7 +4469,7 @@ The Chinese libraries are waiting for the time when those books
 will be filmed or photostated or reproduced in some way and
 an exchange arrangement can take place simply with our library
 here in the Library of Congress, not to speak of the other
-large Chinese libraries in Cambridge and those which are <span style="page" id="page179">[p.179]</span> building up now at Chicago and Columbia. Many hundreds of
+large Chinese libraries in Cambridge and those which are <span class="page" id="page179">[p.179]</span> building up now at Chicago and Columbia. Many hundreds of
 rare items, unknown even to Chinese cataloguers, have slipped
 into this country in the last fifteen or twenty years and are
 coming in day by day, so starting an exchange arrangement
@@ -4489,13 +4489,13 @@ an indication that we would simply be interested in getting
 their material. It is important to get it because 100 or more
 libraries in China have moved bodily to West China, yet there
 are, I think, in Peiping and Tokyo and Kyoto enough rare books
-to begin on any such project any time you want to begin.
+to begin on any such project any time you want to begin.</span>
 
-CO-CHAIRMAN LELAND: We are very glad to have that
-clear and concise statement for the record. Thank you. Mr. <span style="page" id="page180">[p.180]</span> Pettitt, you are on your feet. Perhaps you want to speak to
-this subject.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">We are very glad to have that
+clear and concise statement for the record. Thank you. Mr. <span class="page" id="page180">[p.180]</span> Pettitt, you are on your feet. Perhaps you want to speak to
+this subject.</span>
 
-MR. PETTITT: I just wanted to answer the statement
+<span class="speaker" data-speaker="PETTITT">MR. PETTITT</span>: <span class="speech" data-speaker="PETTITT">I just wanted to answer the statement
 made by Dr. Hummel. So far as the interest in the Oriental,
 especially the Chinese, literature, we have been taking a great
 interest in that, and I heard earlier this evening, during the
@@ -4509,17 +4509,17 @@ think probably that reference was correct because ours is not
 growing as fast as it should be, but we are vitally interested
 in that particular question and I shall be glad to carry back
 information on that point to California of the availability of
-the microfilming project in Peiping.
+the microfilming project in Peiping.</span>
 
-CO-CHAIRMAN LELAND: I suggest maybe you can talk
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I suggest maybe you can talk
 with Mr. Graves about the work being done at Peiping Medical
 College through the Draeger apparatus which was made for this
 Council and has been set up there.
 
 Mr. Swingle, you started all this business about
-getting Chinese books. <span style="page" id="page181">[p.181]</span>
+getting Chinese books. <span class="page" id="page181">[p.181]</span></span>
 
-MR. SWINGLE: Mr. Hummel has expressed my ideas
+<span class="speaker" data-speaker="SWINGLE">MR. SWINGLE</span>: <span class="speech" data-speaker="SWINGLE">Mr. Hummel has expressed my ideas
 exactly. I can add only a few words to what he has said, that
 it seems as though China is the only foreign country that
 has a first-class photostat machine that we can operate at a
@@ -4542,7 +4542,7 @@ the new crops that we can get from China, and in the Soil
 Conservation Service concerned with the records of erosion in
 Northwest China, we have come across the very urgent need for
 additional literature of a kind that costs little but which is
-not on sale, so there is a continuation project. We have <span style="page" id="page182">[p.182]</span> already the second largest medical collection in the world of
+not on sale, so there is a continuation project. We have <span class="page" id="page182">[p.182]</span> already the second largest medical collection in the world of
 Chinese district records. They have roughly 2,000 districts
 with populations nearly as large as our Congressional districts
 and those districts have these local histories which are amazing manuals of topographic production, agriculture, forestry,
@@ -4562,7 +4562,7 @@ helpers and experts. They traveled one solid year and parts
 of two other years, and brought back 6,000 packages of soy-beans---2,000 varieties. Now we realize without that large collection we never could have made a start on the soy-bean
 industry. Last year it covered 9,000,000 acres, the largest of
 the new crops in the South. Only half the crop was harvested,
-half was fed to stock where it grew. The half that was <span style="page" id="page183">[p.183]</span> harvested sold for more than $80,000,000---a crop that didn't
+half was fed to stock where it grew. The half that was <span class="page" id="page183">[p.183]</span> harvested sold for more than $80,000,000---a crop that didn't
 exist in America a few years ago, and our exploration was aided
 by the books in the Library of Congress, the fact that we
 could give our explorers first-hand information as to where to
@@ -4571,36 +4571,36 @@ Southern China, but most of our interest in agriculture is in
 Northwest China. These district histories give us precise
 and definite information as to where these crops are grown.
 Since they cost little, since they have a high value, since
-they have a permanent interest, I think we should get them.
+they have a permanent interest, I think we should get them.</span>
 
-CO-CHAIRMAN LELAND: It seems to me we ought to make
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">It seems to me we ought to make
 this operation self-supporting out of the profits. I wonder if
-Mr. Graves has anything to add to this part of the discussion.
+Mr. Graves has anything to add to this part of the discussion.</span>
 
-MR. GRAVES: I have nothing to add to the two
+<span class="speaker" data-speaker="GRAVES">MR. GRAVES</span>: <span class="speech" data-speaker="GRAVES">I have nothing to add to the two
 statements about the Far East. Has anybody mentioned the Near
 East? I should think Istanbul and Cairo would be a place
-to start. There are 32,000 Arabic titles in Istanbul.
+to start. There are 32,000 Arabic titles in Istanbul.</span>
 
-MR. BEMIS: No one has said anything about Oceania
-yet.
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">No one has said anything about Oceania
+yet.</span>
 
-CO-CHAIRMAN LELAND: I was waiting for some representative of Oceania to sneak up.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I was waiting for some representative of Oceania to sneak up.</span>
 
-MR. POST: I think we are agreed, or at least we
-should be agreed by this time, that we shouldn't confine <span style="page" id="page184">[p.184]</span> ourselves to one country. Consequently, it seems all the more
+<span class="speaker" data-speaker="POST">MR. POST</span>: <span class="speech" data-speaker="POST">I think we are agreed, or at least we
+should be agreed by this time, that we shouldn't confine <span class="page" id="page184">[p.184]</span> ourselves to one country. Consequently, it seems all the more
 important that we should follow such a scheme as Mr. Lunt
 suggested, a highly selective scheme which would make up a
 start in unpublished materials in all of the important countries
-of the world, but *unpublished* materials.
+of the world, but *unpublished* materials.</span>
 
-CO-CHAIRMAN LELAND: Perhaps you would accept
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Perhaps you would accept
 published materials that are unique, like the Chinese books we
-have been hearing about.
+have been hearing about.</span>
 
-MR. POST: Yes, certainly.
+<span class="speaker" data-speaker="POST">MR. POST</span>: <span class="speech" data-speaker="POST">Yes, certainly.</span>
 
-CO-CHAIRMAN LELAND: I think we have really telescoped these two main sections, Section III on general
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I think we have really telescoped these two main sections, Section III on general
 considerations and Section IV, problems in selection. We
 haven't exhausted Section IV, however, and I think perhaps
 we have reached a good stopping place tonight. It is now a
@@ -4612,7 +4612,7 @@ Chairman, with the consent of the other Chairman, to bring
 this conference to a close for this evening.
 
 However, I think I can clean up No. 10 without any
-help from the audience. The question is, "How far can the <span style="page" id="page185">[p.185]</span> use of existing facilities and the development of exchanges
+help from the audience. The question is, "How far can the <span class="page" id="page185">[p.185]</span> use of existing facilities and the development of exchanges
 of material reduce the cost of projects?" I should certainly
 suppose every possible use of existing facilities, both in
 this country and in the foreign countries, would be resorted
@@ -4632,7 +4632,7 @@ selecting materials, and then go on to the last two main sections, the problems 
 copying operations, and the problem of receipt, storage and
 servicing of materials, that we can proceed that way. I think
 we might realize that in those last two sections we can only
-discuss rather general considerations; we can express general <span style="page" id="page186">[p.186]</span> views with regard to them. Any definite plans will have to
+discuss rather general considerations; we can express general <span class="page" id="page186">[p.186]</span> views with regard to them. Any definite plans will have to
 be drawn up by a committee which will be set up for that
 purpose, and that makes me think that this would be a proper
 time to announce a part at least of the composition of the
@@ -4653,7 +4653,7 @@ Societies, and we hope that Mr. Kellar who is at present
 Chairman of the American Historical Association's Committee
 on Research Materials, and also Chairman of the Advisory Committee of Historic Records Survey, will be willing to serve
 as a member of the Committee. Other members of the Committee
-will be announced after further consultation. <span style="page" id="page187">[p.187]</span>
+will be announced after further consultation. <span class="page" id="page187">[p.187]</span>
 
 It is understood that this Committee must in the
 beginning at least be a small committee.
@@ -4680,16 +4680,16 @@ close at twelve-thirty unless we meet as promptly as possible.
 
 ------------------------- 
 
-<span style="page" id="page188">[p.188]</span>
+<span class="page" id="page188">[p.188]</span>
 
 THURSDAY MORNING SESSION
 
 June 6, 1940
 
 The meeting was called to order at nine-thirty
-o'clock by Co-Chairman Leland.
+o'clock by Co-Chairman Leland.</span>
 
-CO-CHAIRMAN LELAND: I think we can complete the appointment of the Continuationg Committee by adding the names
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I think we can complete the appointment of the Continuationg Committee by adding the names
 of Mr. MacLeish and Mr. Schwegmann.
 That gives us a Continuation Committee for the time being of seven members: Mr. Metcalf,
 Chairman, Mr. Tate as Reporter, Mr. Stewart, Mr. Lydenberg,
@@ -4705,7 +4705,7 @@ largely to the great diversity of need that we feel. The
 persons who are interested in research which is based upon
 archives have of course one sort of need; persons who are interested in research based upon books have needs that will be met
 in quite a different way; and persons like the medievalists
-whose research work is dependent upon the use of manuscripts <span style="page" id="page189">[p.189]</span> have still another need, and there is another need we didn't
+whose research work is dependent upon the use of manuscripts <span class="page" id="page189">[p.189]</span> have still another need, and there is another need we didn't
 speak of last night and that is the people in the field of
 the arts, anthropology, archeology, ethnology, who used three-dimensional objects. We have been discussing so far only plane
 surfaces, the reproduction of plane surfaces, but there is
@@ -4726,7 +4726,7 @@ about equally divided between the objects of Section III and
 the objects of Section IV. But I think we concluded that we
 had about finished the discussion of Section III, as well as
 made good progress in Section IV, and the first thing we would
-do this morning would be to conclude our discussion of Section <span style="page" id="page190">[p.190]</span> IV. I think here we have to realize that about all we can do
+do this morning would be to conclude our discussion of Section <span class="page" id="page190">[p.190]</span> IV. I think here we have to realize that about all we can do
 is to suggest some of the various ways in which the needs of
 scholars in all the different fields can be formulated; in
 other words, the ways in which the program is to be organized.
@@ -4748,7 +4748,7 @@ problem of selection, and we shall realize as each one speaks
 that that one is speaking chiefly from the basis of his own
 field of interest and of the needs and the methods that are most
 likely to meet those needs in his own field. Therefore, there
-is not necessarily contradiction or opposition between quite <span style="page" id="page191">[p.191]</span> different views with regard to that that may be expressed. So
+is not necessarily contradiction or opposition between quite <span class="page" id="page191">[p.191]</span> different views with regard to that that may be expressed. So
 let us go on with that.
 
 Mr. Lydenberg and I have agreed that I shall preside
@@ -4756,9 +4756,9 @@ over the deliberations through the rest of IV, and then
 Mr. Lydenberg will kindly relieve me and preside over the final
 deliberations of V and VI, leaving the closing exercises to
 be conducted by the Chairmen in common accord. That then, is
-where we are this morning, as I see it.
+where we are this morning, as I see it.</span>
 
-MR. MILAM: Mr. Chairman, as I listened to the discussion last night I wasn't quite sure whether the specialists
+<span class="speaker" data-speaker="MILAM">MR. MILAM</span>: <span class="speech" data-speaker="MILAM">Mr. Chairman, as I listened to the discussion last night I wasn't quite sure whether the specialists
 in separate fields were assuming that librarians know what
 books and manuscripts we have in this country, and whether
 they know, themselves, in their own fields. There was no
@@ -4771,21 +4771,21 @@ I suspect that scholars know equally, that that is a very
 imperfect instrument; excellent as it is, that it includes
 only a fraction of the total materials which will eventually
 be listed in it, and that as a tool which seems to me to be
-basic for deciding what we need, it might very well, it seems <span style="page" id="page192">[p.192]</span> to me, have some consideration here, and I wonder whether you
+basic for deciding what we need, it might very well, it seems <span class="page" id="page192">[p.192]</span> to me, have some consideration here, and I wonder whether you
 would permit Mr. Schwegmann or somebody to speak briefly of
 its weaknesses and how they might be remedied, if that is to
 be taken into account. We don't want, presumably, to get
 materials that are already here until we have got materials that
-we do not have.
+we do not have.</span>
 
-CO-CHAIRMAN LELAND: I suppose the problem really is,
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I suppose the problem really is,
 what means have we at present for knowing what our possessions
 are before we proceed to organize large plans for securing new
-possessions on a large scale. That is the point, isn't it?
+possessions on a large scale. That is the point, isn't it?</span>
 
-MR. MILAM: Yes.
+<span class="speaker" data-speaker="MILAM">MR. MILAM</span>: <span class="speech" data-speaker="MILAM">Yes.</span>
 
-MR. MacLEISH: Mr. Chairman, I am very glad Mr. Milam
+<span class="speaker" data-speaker="MacLEISH">MR. MacLEISH</span>: <span class="speech" data-speaker="MacLEISH">Mr. Chairman, I am very glad Mr. Milam
 has made that suggestion. Unfortunately, I was unable to hear
 the discussion last night, but it was my feeling last fall when
 this matter first came up as a vague prospect that one of the
@@ -4796,15 +4796,15 @@ do not possess, and the Chairman will recall that there was
 some discussion at that time of the possibility of the various
 learned societies aiding in the building of American want lists
 in their fields. The reactions to that were of various kinds.
-They ran all the way from the suggestion that it was <span style="page" id="page193">[p.193]</span> inconceivable to the notion that it would be very easy indeed.
+They ran all the way from the suggestion that it was <span class="page" id="page193">[p.193]</span> inconceivable to the notion that it would be very easy indeed.
 But that seems to me to be a matter of the most vital importance, certainly so far as the Library of Congress is concerned
 and I dare say other librarians would speak with equal frankness
 so far as their libraries are concerned. We desperately
 need a list of what we have in terms of what others have.
 I should say that is a challenge librarians can lay on the doorstep of scholars because I don't believe we are capable of
-handling it ourselves.
+handling it ourselves.</span>
 
-CO-CHAIRMAN LELAND: The librarians can tell us
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">The librarians can tell us
 what we have, and Mr. Milam's suggestion was that we should
 learn something of that through hearing about the various union
 catalogues that we have, beginning with the Union Catalogue in
@@ -4814,24 +4814,24 @@ the auspices of the Library Association and other organizations, and we have in 
 information, but we perhaps are not as aware as we should be of
 the sort of information that we have, or how to use it. Mr.
 Milam suggested Mr. Schwegmann should say something about the
-Union Catalogue.
+Union Catalogue.</span>
 
-MR. MILAM: I suggested he say something about the
+<span class="speaker" data-speaker="MILAM">MR. MILAM</span>: <span class="speech" data-speaker="MILAM">I suggested he say something about the
 
 ## p. 194 (#399) ############################################
 
-weaknesses of the Union Catalogue.
+weaknesses of the Union Catalogue.</span>
 
-CO-CHAIRMAN LELAND: I don't think it is necessary
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I don't think it is necessary
 to discuss the Union Catalogue at great length here, but if we
 look at it from the point of view of trying to form an idea
 as to the sources of information we have with respect to
 American possessions, it would be a good idea to start with the
 Union Catalogue and then I should suppose Mr. Vanderbilt would
 say something about the union catalogue for which he is responsible, and others will say something about the other major
-bibliographies, and aspects of that sort.
+bibliographies, and aspects of that sort.</span>
 
-MR. SCHWEGMANN: No one knows the weaknesses of
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">No one knows the weaknesses of
 the Union Catalogue better than I do. The Union Catalogue is
 a selective catalogue. It has been designed that way from the
 very beginning.
@@ -4844,7 +4844,7 @@ the Union Catalogue. The system that I think would work very
 well would be to check the Bibliothèque Nationale, the British
 Museum and various bibliographies, usually arranged by author,
 against the Union Catalog, which immediately would give you
-a desideratum, and a tremendous one. <span style="page" id="page195">[p.195]</span>
+a desideratum, and a tremendous one. <span class="page" id="page195">[p.195]</span>
 
 There is another factor which might be considered.
 We already have better than a million cards or titles culled
@@ -4870,50 +4870,50 @@ Catalogue, I think it would be very acceptable.
 
 As to the building up of the Union Catalogue, it is
 my belief that if we could list completely the resources of the
-fifty largest reference libraries in the United States, our job <span style="page" id="page196">[p.196]</span> would probably be 99 per cent accomplished.
+fifty largest reference libraries in the United States, our job <span class="page" id="page196">[p.196]</span> would probably be 99 per cent accomplished.</span>
 
-MR. MILAM: I would like for you to indicate, if you
-can, for what libraries you have complete files now.
+<span class="speaker" data-speaker="MILAM">MR. MILAM</span>: <span class="speech" data-speaker="MILAM">I would like for you to indicate, if you
+can, for what libraries you have complete files now.</span>
 
-MR. SCHWEGMANN: The Library of Congress is about the
-only one that is complete.
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">The Library of Congress is about the
+only one that is complete.</span>
 
-MR. MILAM: What about New York Public?
+<span class="speaker" data-speaker="MILAM">MR. MILAM</span>: <span class="speech" data-speaker="MILAM">What about New York Public?</span>
 
-MR. SCHWEGMANN: New York Public to the extent that
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">New York Public to the extent that
 they have printed cards, since the day they commenced to print
-them.
+them.</span>
 
-MR. MILAM: What percentage is that, do you and Mr.
-Lydenberg know?
+<span class="speaker" data-speaker="MILAM">MR. MILAM</span>: <span class="speech" data-speaker="MILAM">What percentage is that, do you and Mr.
+Lydenberg know?</span>
 
-CO-CHAIRMAN LYDENBERG: At least 80 per cent in.
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">At least 80 per cent in.</span>
 
-MR. SCHWEGMANN: I would have said 70 or 80 per cent.
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">I would have said 70 or 80 per cent.</span>
 
-MR. MILAM: I asked you a question last night which
+<span class="speaker" data-speaker="MILAM">MR. MILAM</span>: <span class="speech" data-speaker="MILAM">I asked you a question last night which
 got a rather interesting answer: "Do you have duplications of
 the Philadelphia Union Catalogue?" and you said "No," and I
 asked you what percentage you thought would be added, how many
-cards would be new if you got all of the Philadelphia catalogue.
+cards would be new if you got all of the Philadelphia catalogue.</span>
 
-MR. SCHWEGMANN: We have checked and found that 34
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">We have checked and found that 34
 per cent of the cards from the Philadelphia catalogue added to
 our catalogue is new material. The same is true of the Cleveland
-catalogue. We checked only a few trays for that.
+catalogue. We checked only a few trays for that.</span>
 
-MR. MILAM: Mr. Chairman, I wanted to bring those <span style="page" id="page197">[p.197]</span> points out, because if there are 20 or 30 per cent of the
+<span class="speaker" data-speaker="MILAM">MR. MILAM</span>: <span class="speech" data-speaker="MILAM">Mr. Chairman, I wanted to bring those <span class="page" id="page197">[p.197]</span> points out, because if there are 20 or 30 per cent of the
 New York Public's titles that are not here, and 30 or 40 per
 cent of the titles in the Philadelphia Library are not contained in the Union Catalogue, we have no single book which is
 safe to use. After the scholars make up their want lists, there
 is no list you can check them against and say we do have this
 in the United States and we don't have that, and it seems to me
-one of the first tasks is to complete that catalogue.
+one of the first tasks is to complete that catalogue.</span>
 
-CO-CHAIRMAN LELAND: There is a very specific suggestion. I should like to hear some more discussion of that
-point.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">There is a very specific suggestion. I should like to hear some more discussion of that
+point.</span>
 
-MR. WILLIAMS: It just occurs to me there is a point
+<span class="speaker" data-speaker="WILLIAMS">MR. WILLIAMS</span>: <span class="speech" data-speaker="WILLIAMS">It just occurs to me there is a point
 worth mentioning from the experience of the Modern Language
 Association Committee. I am afraid we may forget that it
 isn't enough to tell the scholar who wants to use the text
@@ -4924,12 +4924,12 @@ isn't available to him. The mere fact that it is in the United
 States is not enough. I understand you are considering the
 idea of preserving unique things so far as possible, to make
 sure they are preserved, but I would like for us to keep in mind
-one of the chief functions of filming is to make texts available <span style="page" id="page198">[p.198]</span> for circulation, and they are not available in a great many
+one of the chief functions of filming is to make texts available <span class="page" id="page198">[p.198]</span> for circulation, and they are not available in a great many
 cases when in the United States, so our Committee has agreed
 when the text is very much needed, even when it is in the
-United States, we will reproduce it for a scholar who wants it.
+United States, we will reproduce it for a scholar who wants it.</span>
 
-CO-CHAIRMAN LELAND: That is a second step, but
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">That is a second step, but
 after all the first step is to know what there is and where it
 is, and the second step is to make it available. So perhaps
 we should stick to this first step because I see that point
@@ -4937,9 +4937,9 @@ Mr. Williams has made is of course exceedingly important and
 perhaps we ought to conclude this part of the discussion as to
 the best way of finding out what does exist and where it exists.
 
-Mr. Downs, I am very glad you are ready to speak.
+Mr. Downs, I am very glad you are ready to speak.</span>
 
-MR. DOWNS: There is another type of approach to this
+<span class="speaker" data-speaker="DOWNS">MR. DOWNS</span>: <span class="speech" data-speaker="DOWNS">There is another type of approach to this
 problem of finding out what we have available, and that is
 the guide book or handbook descriptive of broad classes of
 material, the type of publication, for example, which was done
@@ -4949,7 +4949,7 @@ for New York City and the Pacific Northwest and Pacific Southwest. It is probabl
 covered by the Board with guide books of that type.
 
 There are also available some very useful handbooks
-of individual libraries, for instance, Hutter's Handbook of <span style="page" id="page199">[p.199]</span> the Harvard College Library, Carol Brown's guide to the
+of individual libraries, for instance, Hutter's Handbook of <span class="page" id="page199">[p.199]</span> the Harvard College Library, Carol Brown's guide to the
 reference collections of the New York Public Library. There
 has recently been published a faculty survey of the University
 of Pennsylvania library collections. There is a very good book
@@ -4957,34 +4957,34 @@ available for the American Antiquarian Society, and a number
 of other institutions have issued these individual guides.
 Those of course generally do not list titles but they do describe by subject or by form of material the holdings of a region
 or of an individual institution. I think they are rather useful in indicating the types of material which you will find in
-any particular locality.
+any particular locality.</span>
 
-CO-CHAIRMAN LELAND: They constitute sort of a first
-aid, don't they?
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">They constitute sort of a first
+aid, don't they?</span>
 
-MR. DOWNS: They are rather complementary, I should
+<span class="speaker" data-speaker="DOWNS">MR. DOWNS</span>: <span class="speech" data-speaker="DOWNS">They are rather complementary, I should
 say, to the Union Catalogue. They do not replace the Union
-Catalogue.
+Catalogue.</span>
 
-CO-CHAIRMAN LELAND: No, but they represent a first
-exploration.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">No, but they represent a first
+exploration.</span>
 
-MR. DOWNS: Yes, exactly.
+<span class="speaker" data-speaker="DOWNS">MR. DOWNS</span>: <span class="speech" data-speaker="DOWNS">Yes, exactly.</span>
 
-CO-CHAIRMAN LELAND: Then we have two stages here.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Then we have two stages here.
 We have these original guides that Mr. Downs has described
-which constitute a preliminary exploration of groups of resources, and then we have the Union Catalogue which describes those <span style="page" id="page200">[p.200]</span> in detail by individual titles.
+which constitute a preliminary exploration of groups of resources, and then we have the Union Catalogue which describes those <span class="page" id="page200">[p.200]</span> in detail by individual titles.</span>
 
-MR. SCHWEGMANN: I had hoped it was common knowledge
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">I had hoped it was common knowledge
 that the Union Catalogue possessed an index to special collections in American libraries. I think we list every collection
 which has been described as a collection in any source that
 might reasonably be searched or thought to be searched, in the
 form of Library of Congress sub-headings. We indicate more
 than 6500 or 7000, as we call them, special collections. I
 make use of Mr. Downs' publication because I take everything
-from them and incorporate it in this list.
+from them and incorporate it in this list.</span>
 
-MR. MacLEISH: Mr. Chairman, I agree with Mr. Milam
+<span class="speaker" data-speaker="MacLEISH">MR. MacLEISH</span>: <span class="speech" data-speaker="MacLEISH">Mr. Chairman, I agree with Mr. Milam
 entirely that it would be a most desirable thing to complete
 the Union Catalogue. There is nothing we want to do more than
 that. If he has any notions of a practical nature, I would
@@ -4996,13 +4996,13 @@ Catalogue is completed before we begin trying to collect or
 establish want lists, because it would be quite possible to
 check want lists now with various kinds of lists that are
 available now, against the principal catalogues of principal
-libraries, and although it would be a more laborious proceeding <span style="page" id="page201">[p.201]</span> than the use of the Union Catalogue as a single check, it
-certainly isn't impossible and I think the two things must proceed together.
+libraries, and although it would be a more laborious proceeding <span class="page" id="page201">[p.201]</span> than the use of the Union Catalogue as a single check, it
+certainly isn't impossible and I think the two things must proceed together.</span>
 
-MR. MILAN: I don't disagree with that at all, Mr.
-Chairman.
+<span class="speaker" data-speaker="MILAN">MR. MILAN</span>: <span class="speech" data-speaker="MILAN">I don't disagree with that at all, Mr.
+Chairman.</span>
 
-MR. METCALF: I agree with everything that has been
+<span class="speaker" data-speaker="METCALF">MR. METCALF</span>: <span class="speech" data-speaker="METCALF">I agree with everything that has been
 said about the desirability of building up the Union Catalogue,
 of going on with handbooks showing the resources of libraries
 throughout the country, of resources of sections of the country
@@ -5018,7 +5018,7 @@ high for single items, and that we will duplicate when we film
 abroad or elsewhere material that is already in this country.
 It is too bad, but it is not terribly serious. Mr. Power has
 been copying English books before 1550 for seventeen or twenty
-libraries in the country. Harvard has been getting the films. <span style="page" id="page202">[p.202]</span> We already have some 9,000 English books before 1640, I don't
+libraries in the country. Harvard has been getting the films. <span class="page" id="page202">[p.202]</span> We already have some 9,000 English books before 1640, I don't
 know how many before 1550, but we are glad to have the film
 copies just the same to use instead of our originals in many
 cases.
@@ -5033,14 +5033,14 @@ cataloguing increases greatly when you select. If you film all
 the books listed in the short title list and can use the short
 title list as the catalogue, you save a good deal more than the
 cost of filming. Cataloguing alone costs more than the filming
-in many cases, and we need to keep those special costs in mind.
+in many cases, and we need to keep those special costs in mind.</span>
 
-CO-CHAIRMAN LELAND: I wonder if we haven't reached
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I wonder if we haven't reached
 the point where we agree we all desire that the Union Catalogue
 should be made as complete as possible, and that we don't need
 to wait for it but that in the present state of affairs it is
 cheaper actually to do copying than it is to be absolutely
-sure that the thing which is being copied doesn't exist somewhere in the United States. <span style="page" id="page203">[p.203]</span>
+sure that the thing which is being copied doesn't exist somewhere in the United States. <span class="page" id="page203">[p.203]</span>
 
 That brings us, it seems to me, to the point of
 establishing our needs of determining what we want; in other
@@ -5051,9 +5051,9 @@ secondly, you have better controls in some fields than in others.
 You know what you want better in some fields than in others.
 So I wonder if we could discuss that point: How is the best
 way to proceed to compile our want lists? Through what
-agencies can they best be compiled?
+agencies can they best be compiled?</span>
 
-MR. KELLAR: I think before we begin that discussion
+<span class="speaker" data-speaker="KELLAR">MR. KELLAR</span>: <span class="speech" data-speaker="KELLAR">I think before we begin that discussion
 this point ought to be brought out. In analyzing the ideas that
 have been advanced in the conference, it seems to me they
 fall into two categories which are not necessarily antagonistic.
@@ -5066,7 +5066,7 @@ It seems to me in considering the preparation of a
 want list in an emergency program that we should take advantage
 of the various suggestions that have been advanced; the Union
 Catalogue, the consultation immediately with scholars who
-know material that should be gotten, and that we should use <span style="page" id="page204">[p.204]</span> every possible means available to the profession. That is
+know material that should be gotten, and that we should use <span class="page" id="page204">[p.204]</span> every possible means available to the profession. That is
 with regard to the emergency program.
 
 With regard to the long-range program, personally I
@@ -5074,15 +5074,15 @@ think the preparation of subject bibliographies is the best
 and most fundamental approach, but I think in considering
 what we want to do we should keep in mind an emergency program
 is one thing and a long-range program is another. They are
-not antagonistic and can be dovetailed one into the other.
+not antagonistic and can be dovetailed one into the other.</span>
 
-CO-CHAIRMAN LELAND: Mr. Kellar has offered some
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Mr. Kellar has offered some
 preliminary considerations, pointing out that in the long run
 it would be desirable to have subject bibliographies but we
 don't need to wait for those to be made in order to establish
-emergency want lists.
+emergency want lists.</span>
 
-MR. GODFREY DAVIES: There is another approach to
+<span class="speaker" data-speaker="GODFREY DAVIES">MR. GODFREY DAVIES</span>: <span class="speech" data-speaker="GODFREY DAVIES">There is another approach to
 this question of need, I think. Two years ago in the
 Huntington Library we had a series of conferences in the
 summer on the English Renaissance. A number of scholars were
@@ -5091,7 +5091,7 @@ about ten fields and devote about a week to each, the purpose
 being, first of all, to find out what is, broadly speaking, the
 present state of scholarship in those different fields, and
 secondly, what was being done so far as we knew in those fields,
-and thirdly, what remained to be done and how far it was <span style="page" id="page205">[p.205]</span> possible to do it with existing facilities.
+and thirdly, what remained to be done and how far it was <span class="page" id="page205">[p.205]</span> possible to do it with existing facilities.
 The results were
 tabulated and still exist, and of course I can't promise, I
 am not the head of the Huntington Library, but I believe they
@@ -5113,7 +5113,7 @@ at least should be made in trying to microfilm some of the
 legal records. He pointed out to me that the history of inclosure can be very much broadened, made more decisive, if the
 legal proceedings which so often were the means of inclosures
 were studied in greater detail than they hitherto have been.
-He, himself, had some very interesting results from studying <span style="page" id="page206">[p.206]</span> the family papers of the Huntington Library where there are
+He, himself, had some very interesting results from studying <span class="page" id="page206">[p.206]</span> the family papers of the Huntington Library where there are
 legal documents. Copies of legal documents have yielded much
 more important results than boxes and boxes of ordinary family
 papers.
@@ -5135,13 +5135,13 @@ This summer we are going to have three days devoted
 to another Renaissance conference in August. I am quite sure
 if the results interest our Continuation Committee, again they
 will be available. I can't promise; I can only express my
-opinion that that would be the case.
+opinion that that would be the case.</span>
 
-CO-CHAIRMAN LELAND: You have given a very interesting picture of how a group of scholars in a certain field get <span style="page" id="page207">[p.207]</span> together to discover what they need in their field. In other
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">You have given a very interesting picture of how a group of scholars in a certain field get <span class="page" id="page207">[p.207]</span> together to discover what they need in their field. In other
 words, that is a part of the process of establishing these
-want lists that we are discussing.
+want lists that we are discussing.</span>
 
-MR. POST: I wanted if I could to supplement both
+<span class="speaker" data-speaker="POST">MR. POST</span>: <span class="speech" data-speaker="POST">I wanted if I could to supplement both
 what Mr. Davies has said and what Mr. Metcalf has said. As for
 what Mr. Metcalf has said, I quite agree with him that there
 is bound to be duplication and  that we shouldn't bother too
@@ -5161,18 +5161,18 @@ in manuscript books in libraries, who can choose those categories which we can p
 without waiting for the perfection of lists.
 
 The machinery for that seems to me to lie frequently
-in the learned societies that cover most of the broad fields, <span style="page" id="page208">[p.208]</span> and that committees on research on those learned societies,
+in the learned societies that cover most of the broad fields, <span class="page" id="page208">[p.208]</span> and that committees on research on those learned societies,
 as we have done in the Medieval Academy, can, I think, without
 too great a waste of effort, choose those important selections
-of sources we want copied.
+of sources we want copied.</span>
 
-CO-CHAIRMAN LELAND: I want to know what Mr. Long
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I want to know what Mr. Long
 would have to say about that. He represents a society of
 enormously broad interests and one which has an active committee on research activities, and which is organized in sections
 of specialists who are considering exactly this sort of thing---bibliographies and the needs of the different regions, the
-different areas in his field.
+different areas in his field.</span>
 
-MR. LONG: Our Society of Modern Language Literature
+<span class="speaker" data-speaker="LONG">MR. LONG</span>: <span class="speech" data-speaker="LONG">Our Society of Modern Language Literature
 is organized into about fifty groups which deal with different literatures in different periods. The majority of
 these have both a bibliographical committee and a research
 activities committee. Most of them have one or the other,
@@ -5181,7 +5181,7 @@ which happen not to possess them at present. They can give us
 information as to what the prominent scholars in their particular groups need, and the combined result of that would come
 before our Association Committee of Research Activity which
 passes upon propositions by these groups. The result is that
-through that machinery we should be able to present without too <span style="page" id="page209">[p.209]</span> great delay---of course this is the summer vacation---a fairly
+through that machinery we should be able to present without too <span class="page" id="page209">[p.209]</span> great delay---of course this is the summer vacation---a fairly
 complete prospectus of the things that are urgently needed,
 urgently wanted, by scholars in our limited fields.
 
@@ -5195,20 +5195,20 @@ while it has run up to one thousand a month, still hasn't reached
 the alarming proportions I should expect. That is, so far as
 the urgent need for immediate material is concerned, the emergency doesn't seem to have affected scholars in ordering
 through our agencies. They may, however, have been ordering
-quite widely individually through agencies abroad.
+quite widely individually through agencies abroad.</span>
 
-MR. POST: May I make another remark in that connection. I think it is quite true that many scholars haven't
+<span class="speaker" data-speaker="POST">MR. POST</span>: <span class="speech" data-speaker="POST">May I make another remark in that connection. I think it is quite true that many scholars haven't
 realized the importance of ordering microfilm, and on the
 other hand, a great many who have realized it have done it
 independently, as I have done in my own work; in fact, I have
-taken a vast amount of it myself. But our problem is to interest scholars in ordering not for their own needs but in choosing <span style="page" id="page210">[p.210]</span> from their own fields materials that will represent most
+taken a vast amount of it myself. But our problem is to interest scholars in ordering not for their own needs but in choosing <span class="page" id="page210">[p.210]</span> from their own fields materials that will represent most
 adequately those in European libraries and archives and which
-will be of future benefit in this country, not just for immediate needs.
+will be of future benefit in this country, not just for immediate needs.</span>
 
-MR. LONG: I can produce in the space of two weeks
-a pretty complete list of the things needed in Spanish. <span style="page" id="page211">[p.211]</span>
+<span class="speaker" data-speaker="LONG">MR. LONG</span>: <span class="speech" data-speaker="LONG">I can produce in the space of two weeks
+a pretty complete list of the things needed in Spanish. <span class="page" id="page211">[p.211]</span></span>
 
-MR. MCMANAWAY: Several of the points made this
+<span class="speaker" data-speaker="MCMANAWAY">MR. MCMANAWAY</span>: <span class="speech" data-speaker="MCMANAWAY">Several of the points made this
 morning have been of special interest to me. I say this morning because during the technical discussions of yesterday after
 noon, as a representative of the Folger Library I sat and
 listened, having nothing to contribute. We have continued
@@ -5227,7 +5227,7 @@ Huntington, Harvard and elsewhere, upwards of 90 per cent of
 the titles are already available, and these can be reproduced
 on call of the individual scholar at some future time as they
 may be needed. That statement may come as somewhat of a surprise to a few of the members of the conference because few
-people realize the extent of the Folger holdings in early <span style="page" id="page212">[p.212]</span> English books. According to Dr. Bliss of the Huntington (I
+people realize the extent of the Folger holdings in early <span class="page" id="page212">[p.212]</span> English books. According to Dr. Bliss of the Huntington (I
 say this subject to correction) our collection is more extensive than the Huntington, which means we push Bodley rather
 closely and they come just after the British Museum. So we are
 not particularly interested in securing microfilms of English
@@ -5246,7 +5246,7 @@ most of the conferees being interested chiefly in archives.
 We have very great interest in the archives, of
 course, for biographical material and historical background, but
 we should like to place special emphasis on the literary manuscripts, for instance, the Poetical Miscellanies of the sixteenth and seventeenth century which are such an excellent
-guide to the taste of the time. These in a very few cases have <span style="page" id="page213">[p.213]</span> been reproduced, but ordinarily the scholar looks through a
+guide to the taste of the time. These in a very few cases have <span class="page" id="page213">[p.213]</span> been reproduced, but ordinarily the scholar looks through a
 miscellany to find the works of a single author and when he has
 located those he closes the book and passes on, and the great
 bulk of the miscellanies in the British Museum and elsewhere
@@ -5270,7 +5270,7 @@ Union Catalogue. As rapidly as our early English books are
 catalogued, cards are deposited with the Union Catalogue, but
 as most of you probably know, we haven't catalogued as many as
 one-tenth, I should guess, of our pre-1640 English books.
-Continental books are untouched; eighteenth century books are <span style="page" id="page214">[p.214]</span> untouched, and when a record of those can be made available
+Continental books are untouched; eighteenth century books are <span class="page" id="page214">[p.214]</span> untouched, and when a record of those can be made available
 to scholars, we believe a great many of the gaps will have been
 filled in. It is necessary to offer an apology, I suppose,
 that we have not proceeded more rapidly, but with a small staff
@@ -5284,26 +5284,26 @@ sent copies of the S.T.C. to Folger so that our holdings might
 be checked therein; perhaps in future other institutions will
 find it profitable to do likewise. Meanwhile, if funds should
 be made available, clerks might be set to transcribing our
-records for immediate deposit in the Union Catalogue.
+records for immediate deposit in the Union Catalogue.</span>
 
-CO-CHAIRMAN LELAND: That gives us further illustration of how we will proceed in a specialized field such as
-the period of Elizabethan studies.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">That gives us further illustration of how we will proceed in a specialized field such as
+the period of Elizabethan studies.</span>
 
-MR. CASE: We have given some consideration at
+<span class="speaker" data-speaker="CASE">MR. CASE</span>: <span class="speech" data-speaker="CASE">We have given some consideration at
 Brown to microfilming the John Hay catalogue which has never
 been published. That will be for our own domestic uses up
 there, but it occurred to me that it would be worth asking
 whether such a device as that would assist in the Union Catalogue, and whether if it were found, as we expect, that it
-is a fairly speedy and not too expensive way of duplicating <span style="page" id="page215">[p.215]</span> library catalogues, submission of prints to the Library of
+is a fairly speedy and not too expensive way of duplicating <span class="page" id="page215">[p.215]</span> library catalogues, submission of prints to the Library of
 Congress would assist them or whether strip microfilm would be
 too difficult to handle in speedily integrating catalogues of
-many libraries into union list.
+many libraries into union list.</span>
 
-CO-CHAIRMAN LELAND: That is a technical question that
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">That is a technical question that
 Mr. Schwegmann has doubtless considered. I will ask Mr.
-Schwegmann to reply to that question by Mr. Case.
+Schwegmann to reply to that question by Mr. Case.</span>
 
-MR. SCHWEGMANN: I can give a specific example. We
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">I can give a specific example. We
 have on 16 mm. film the card shelf lists---some 600,000---of
 the various Washington libraries, mainly departmental libraries.
 For two years I have been trying to have the WPA devote a
@@ -5315,16 +5315,16 @@ if we can find a WPA project, or once having started one we
 hope to have started in a few weeks we can continue to feed
 such things into that project, of course the result would be
 very nice from our viewpoint and it would give us exactly
-what we want.
+what we want.</span>
 
-CO-CHAIRMAN LELAND: The answer is you can incorporate
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">The answer is you can incorporate
 a strip film copy of a large catalog if you can process it into
-the form of cards which can be integrated with your cards. <span style="page" id="page216">[p.216]</span> In other words, it can't be incorporated immediately, directly,
-it has to be processed into the form of cards.
+the form of cards which can be integrated with your cards. <span class="page" id="page216">[p.216]</span> In other words, it can't be incorporated immediately, directly,
+it has to be processed into the form of cards.</span>
 
-MR. SCHWEGMANN: That is right.
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">That is right.</span>
 
-MR. TILLEUX: Mr. Chairman, I am quite interested in
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">Mr. Chairman, I am quite interested in
 what Mr. Schwegmann just said because quite a number of WPA
 projects have for their objective the preparation of union
 catalogues. By "union" I mean union within the city, or possibly within a small part of the state. From that, by pulling
@@ -5340,7 +5340,7 @@ space for WPA workers to come in. We sometimes find librarians who frown when we
 preparation of the union catalogue. They say, "I don't know
 where I would put you," and so forth. When we tell them that
 we only need a day or two, that we are going to bring a
-Recordak machine in, pass those cards through the machine and <span style="page" id="page217">[p.217]</span> then get out of the way, that puts a different picture before
+Recordak machine in, pass those cards through the machine and <span class="page" id="page217">[p.217]</span> then get out of the way, that puts a different picture before
 them. We film those cards, take the film to a central headquarters, usually a large fireproof warehouse where we can
 get hundreds of WPA personnel busy at the job of transcription,
 and the 16 mm. film is put through reading machines and typists
@@ -5359,7 +5359,7 @@ was very modest a few moments ago when he referred to a publication by which he 
 which at least, as he said, points out the location of particular types of material. We want that stuff brought to publication just as his own findings were brought to publication, and
 we tell them that publication may be one of a number of kinds.
 
-It may be that they will have to prepare a short <span style="page" id="page218">[p.218]</span> title to the book and mimeograph that in rather large bulky
+It may be that they will have to prepare a short <span class="page" id="page218">[p.218]</span> title to the book and mimeograph that in rather large bulky
 volumes---they come out about the size of a Washington telephone
 directory, sometimes two or three in a series---and then mimeograph them in sufficient quantities to let every library in
 that area have a copy, and then send at least four copies to
@@ -5379,7 +5379,7 @@ wrong about it---is that the reason we don't have the complete
 Philadelphia union catalogue in the Library of Congress is
 that they have never been able to supply either the space or
 personnel, or possibly both, to complete the work. The last I
-heard about it was that they had done some trays but they <span style="page" id="page219">[p.219]</span> had had to tell them to hold off a little while until they got
+heard about it was that they had done some trays but they <span class="page" id="page219">[p.219]</span> had had to tell them to hold off a little while until they got
 more room or more people.
 
 In the City of Chicago the Chicago Public Library
@@ -5401,11 +5401,11 @@ or not we should do the European archives now or the South
 American archives now. Dr. Bemis says no, you can't do it.
 Dr. Kellar says it must be done and done immediately. Others
 have mentioned long-range planning as against emergency
-planning. But before we give up the idea that these union <span style="page" id="page220">[p.220]</span> catalogues must still be prepared, I would have you know that
+planning. But before we give up the idea that these union <span class="page" id="page220">[p.220]</span> catalogues must still be prepared, I would have you know that
 in some instances the material is available if it could be
-worked into the available cards.
+worked into the available cards.</span>
 
-CO-CHAIRMAN LELAND: That illustrates the need we
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">That illustrates the need we
 labor under of knowing a great deal more about what the
 possibilities are, what is actually being done or has been
 done, and brings us up, it seems to me, to the latter part
@@ -5423,7 +5423,7 @@ be useful to do so because we would probably be plowing over
 the same ground.
 
 Obviously it is very nice to hear about these enterprises, these undertakings, these possibilities, but how to
-cash in on this information that we are getting; I don't like <span style="page" id="page221">[p.221]</span> to use the word "coordination" but there is hardly a better
+cash in on this information that we are getting; I don't like <span class="page" id="page221">[p.221]</span> to use the word "coordination" but there is hardly a better
 word; how to assure that this work is utilized, that these
 possibilities are realized, that where selections are not being
 made people can be stimulated to make the selections, is the
@@ -5444,12 +5444,12 @@ preparation of want lists. Is that a function that could be
 assumed by this Continuation Committee when it becomes established, when it becomes fully organized, when it has surrounded
 itself with the necessary sub-committees? A committee of course
 can't operate without machinery. The best machinery is probably
-provided by institutions, institutions which function and <span style="page" id="page222">[p.222]</span> exist, like the Library of Congress, like the New York Public,
+provided by institutions, institutions which function and <span class="page" id="page222">[p.222]</span> exist, like the Library of Congress, like the New York Public,
 like other libraries. What are your views with regard to the
 agency of coordination and of direction and of planning for
-this work of selection?
+this work of selection?</span>
 
-MR. BEMIS: Mr. Chairman, I should like to say a word
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">Mr. Chairman, I should like to say a word
 on that point. I have been a little dismayed by the variegated
 character of our discussions and the use of the word "emergency"
 and the wants which so many people have and the vast fields in
@@ -5466,7 +5466,7 @@ that off. It is futile and Pickwickian to talk about it.
 One may simplify the process of selection to fit
 onto the work which has been done by established institutions
 of research, and I should very strongly urge that it be restricted to those institutions, to those fields of research
-which are most identified with the history of our nation, and <span style="page" id="page223">[p.223]</span> let the other fields be covered individually by the different
+which are most identified with the history of our nation, and <span class="page" id="page223">[p.223]</span> let the other fields be covered individually by the different
 societies which have already been created to cultivate them.
 I very much feel we will get into an impossible thicket of
 source materials and a plethora of wants and an impractical
@@ -5483,9 +5483,9 @@ and even if there were, it is impossible to do it now. It
 might be impossible anyway, even if there were no war. I
 think it is idle to talk about it. The most we can simplify
 our program and make it economical and supplement that by long-term plans, the more real actual results I would hope to get
-from it.
+from it.</span>
 
-MR. POST: At the risk of being a member of the
+<span class="speaker" data-speaker="POST">MR. POST</span>: <span class="speech" data-speaker="POST">At the risk of being a member of the
 "Fifth Column" I want to defend our laying the foundations
 right now for a plan to photograph materials in Europe. Not
 one of us interested in materials in Europe has dreamed of
@@ -5505,14 +5505,14 @@ this year, and it certainly will do no harm to have the various
 committees, learned societies or whatever you choose, be planning to photograph that material, shall we say next year, or at
 the very moment when conditions are such that they can in
 Europe. We have to do it in the truce that follows this war
-in order to have the material before the next war begins.
+in order to have the material before the next war begins.</span>
 
-MR. POWER: I think perhaps I can give a little
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">I think perhaps I can give a little
 information on that point. We are still and continually photographing materials in Cambridge, the British Museum and
 Bodleian, and I have on the way over 1,000 feet of negative
 from three libraries; I have received word it has been shipped
 and it is somewhere either in customs or on the way. I know
-the Bodleian, for example, is willing to unpack some of the <span style="page" id="page225">[p.225]</span> things they have put away and to photograph them. That is not
+the Bodleian, for example, is willing to unpack some of the <span class="page" id="page225">[p.225]</span> things they have put away and to photograph them. That is not
 necessarily any great inconvenience to them because I have
 stressed in my correspondence with them the necessity of not
 going to that inconvenience in view of the unsettled times
@@ -5521,21 +5521,21 @@ to, and very often the classifications which they have made
 up to evacuate in successive order, Classes A, B, and C, in
 view of the emergency, contain the very things you want and
 oftentimes I think would be easier to get then they might be
-under normal conditions.
+under normal conditions.</span>
 
-CO-CHAIRMAN LELAND: I think it is quite time we
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I think it is quite time we
 heard from someone who represents more particularly the needs
 of scientists. We have been discussing the needs of historians
-and scholars of literature this morning.
+and scholars of literature this morning.</span>
 
-MR. WATSON DAVIS: That is the point I wish to speak
+<span class="speaker" data-speaker="WATSON DAVIS">MR. WATSON DAVIS</span>: <span class="speech" data-speaker="WATSON DAVIS">That is the point I wish to speak
 to. It seems to me that one of the things we most urgently
 need are the scientific materials from Europe which may not
 be getting through to this country. Fortunately, in general
 the flow of scientific literature has been pretty well sustained one way or another, but there is the possibility of
 obtaining, if it is necessary to do so, through diplomatic
 pouch or otherwise, single copies of journals that do not other
-wise get through and reproducing them in microfilm form for the <span style="page" id="page226">[p.226]</span> use of those research workers in industry and government
+wise get through and reproducing them in microfilm form for the <span class="page" id="page226">[p.226]</span> use of those research workers in industry and government
 laboratories and elsewhere who do urgently need that information. It seems to me from the standpoint of need and usage,
 from the standpoint of our national defense program, from the
 standpoint of scientific advancement generally, we have got
@@ -5556,7 +5556,7 @@ his desk, the information, the actual materials held in American depositories, t
 The completion of the Union Catalogue certainly is a major
 desire for all of us. The Union Catalogue, as I understand it,
 extends only to those pieces of printed matter which have been
-given the honor of a binding; in other words, books. As a <span style="page" id="page227">[p.227]</span> matter of fact, in scientific work it is often the journal
+given the honor of a binding; in other words, books. As a <span class="page" id="page227">[p.227]</span> matter of fact, in scientific work it is often the journal
 article which is most important. The extension of the Union
 Catalogue to include all periodical literature is perhaps almost
 an unthinkable suggestion, and yet I do feel that with a
@@ -5573,20 +5573,20 @@ something that is in a library, will get it regardless of what
 library it is in. I think the major thing we have got to do in
 this whole essential aid to scholarship and scientific research
 is to give the scientific and scholarly material to the person
-who actually uses it when he wants it, as fast as we can, without essential reference to where it happens to be held.
+who actually uses it when he wants it, as fast as we can, without essential reference to where it happens to be held.</span>
 
-CO-CHAIRMAN LELAND: That of course involves the <span style="page" id="page228">[p.228]</span> possible organization of a very elaborate domestic service,
-doesn't it?
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">That of course involves the <span class="page" id="page228">[p.228]</span> possible organization of a very elaborate domestic service,
+doesn't it?</span>
 
-MR. DAVIS: The organization of a domestic service,
+<span class="speaker" data-speaker="DAVIS">MR. DAVIS</span>: <span class="speech" data-speaker="DAVIS">The organization of a domestic service,
 but I don't believe it would be elaborate.
 I think it would be
 extremely simple and it involves, as I see it, only three
 things: cooperation between the microfilming agencies, a relatively uniform order blank which would correspond to the order
 card that a library uses, and a relatively standard price for
-microfilming.
+microfilming.</span>
 
-MR. EVANS: I would just like to suggest the laying of
+<span class="speaker" data-speaker="EVANS">MR. EVANS</span>: <span class="speech" data-speaker="EVANS">I would just like to suggest the laying of
 one problem in the laps of the Continuation Committee. The WPA
 would welcome, I believe, a carefully considered recommendation
 from the Continuation Committee as to how the clerical labor resources of the WPA could be brought to bear to assist in the
@@ -5596,7 +5596,7 @@ the project here in Washington of the Historical Records Survey
 several years ago. That work went incomplete because of the
 fact that the program for the transcription of that microfilm
 onto cards and the filing of that in the Union Catalogue was not
-carried out. A national program was required in that case and <span style="page" id="page229">[p.229]</span> was not forthcoming because the labor resources of the WPA in
+carried out. A national program was required in that case and <span class="page" id="page229">[p.229]</span> was not forthcoming because the labor resources of the WPA in
 the District of Columbia were not adequate to handle that job.
 There is a serious shortage of typists; the government departments gobble them up as fast as we can train them and we have
 to go elsewhere in order to have that typing work done.
@@ -5618,10 +5618,10 @@ in your cards because the WPA workers are not uniformly
 capable of handling foreign languages, even in transcribing
 them with perfect results.
 
-I merely mention those two things to illustrate the <span style="page" id="page230">[p.230]</span> point that WPA can help in turning many of these corners if it
-is presented with a well thought-out program.
+I merely mention those two things to illustrate the <span class="page" id="page230">[p.230]</span> point that WPA can help in turning many of these corners if it
+is presented with a well thought-out program.</span>
 
-MR. BUCK: The section of our agenda that we are
+<span class="speaker" data-speaker="BUCK">MR. BUCK</span>: <span class="speech" data-speaker="BUCK">The section of our agenda that we are
 discussing now seems to me to be concerned with a determination
 of what we would like to add to the resources for research that
 are available in this country, and I should like to submit that
@@ -5640,9 +5640,9 @@ be greatly advantageous to the research interests of this
 country if when it appears that much material available in
 Europe can be acquired, not in microcopies but in books and
 pamphlets, and even in original manuscripts in many cases, we
-are prepared with inventories of our needs and know what we <span style="page" id="page231">[p.231]</span> want to get.
+are prepared with inventories of our needs and know what we <span class="page" id="page231">[p.231]</span> want to get.</span>
 
-MR. MacLEISH: I should like most earnestly to underline what Mr. Buck has said. It seems to me that is the heart
+<span class="speaker" data-speaker="MacLEISH">MR. MacLEISH</span>: <span class="speech" data-speaker="MacLEISH">I should like most earnestly to underline what Mr. Buck has said. It seems to me that is the heart
 of the whole problem.
 After all, one can go around from the
 hen to the egg indefinitely, but I think that is the place to
@@ -5662,7 +5662,7 @@ receive want lists, which would build up lists of things desired, plus the putti
 draw such lists from scholars in this country.
 
 The Library of Congress has recently had an experience which states dramatically what all of you know, which is
-that no two specialists in any field will agree about anything. <span style="page" id="page232">[p.232]</span> We have been trying to prepare for the State Department a list
+that no two specialists in any field will agree about anything. <span class="page" id="page232">[p.232]</span> We have been trying to prepare for the State Department a list
 of books to be offered to Latin American countries under the
 Buenos Aires Convention of 1936. In order to expedite the work,
 or so we thought, we prepared tentative lists in the various
@@ -5683,7 +5683,7 @@ point were manned to such an extent that it was a true way,
 center for the forwarding of requests, as Mr. Davis has suggested, if it were adequately manned for that purpose I think
 at least you would have an agency with which to begin. I
 can't help but feel that is the way to begin, and as I said
-before, although no one feels more strongly than I the <span style="page" id="page233">[p.233]</span> desirability of building up the Union Catalogue---I know I
+before, although no one feels more strongly than I the <span class="page" id="page233">[p.233]</span> desirability of building up the Union Catalogue---I know I
 feel it very strongly and want to do everything I can to do it---nevertheless that is in the future and it is a problem. We
 presented that case as well as I knew how to present it to the
 Appropriations Committee, and the one unit in the library as
@@ -5697,13 +5697,13 @@ possible, in view of the fact that the establishment of the
 Union Catalogue here would be of very great interest and very
 great importance to scholars, universities, colleges, libraries
 throughout the country, to establish some sort of reciprocal
-operation by which we got a little help.
+operation by which we got a little help.</span>
 
-CO-CHAIRMAN LELAND: I think that puts the point very
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I think that puts the point very
 clearly and we reach the point now at the close of this discussion where I think everybody is agreed that if these various
 plans can be realized, if the various needs are to be met, it
 has got to be done by some agency which is capable of instituting the deliberations that are necessary, receiving the results
-of those deliberations, acting upon them, and developing a <span style="page" id="page234">[p.234]</span> program of putting them into operation.
+of those deliberations, acting upon them, and developing a <span class="page" id="page234">[p.234]</span> program of putting them into operation.
 That I think is to be
 one of the principal jobs of the Continuation Committee, to
 consider how such an agency can be established and where it
@@ -5721,16 +5721,16 @@ agency. With your permission, then, we will conclude this discussion of Section 
 an hour and a half that remains to us, to the consideration of
 V and VI, although I suspect some of the things that weren't
 said under No. IV will be coming up under the discussion of
-V and VI.
+V and VI.</span>
 
-CO-CHAIRMAN LYDENBERG: The lead-up to this has been
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">The lead-up to this has been
 so beautiful that I think there is nothing more to do than to
 ask what your opinion is as to the question before us. We
-assume---I am sure it needs no demonstration---that there is a <span style="page" id="page235">[p.235]</span> necessity for some organization and direction, and likewise
+assume---I am sure it needs no demonstration---that there is a <span class="page" id="page235">[p.235]</span> necessity for some organization and direction, and likewise
 support, of these efforts. What is the obvious location for
-that organization, and the obvious form of the organization?
+that organization, and the obvious form of the organization?</span>
 
-MR. MacLEISH: I am willing to stick my neck out. I
+<span class="speaker" data-speaker="MacLEISH">MR. MacLEISH</span>: <span class="speech" data-speaker="MacLEISH">I am willing to stick my neck out. I
 suggest the form of the organization might very well be---and I
 am using powder that was put in my pocket a little while ago---a combination of Bibliofilm and the Union Catalogue, using such
 funds as are available outside the Library of Congress, such
@@ -5738,18 +5738,18 @@ funds as can be found inside the Library of Congress---and as
 to that I am not very sanguine---to build up in connection with
 our present incomplete Union Catalogue the necessary central
 agency. I don't mean to say that I ask for that. I suggest
-that that is a possible mechanism.
+that that is a possible mechanism.</span>
 
-CO-CHAIRMAN LYDENBERG: In a way it is forced on you.
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">In a way it is forced on you.
 As a matter of fact, it has the advantage of two continuing
 organizations with healthy records behind them. Can we develop
-team play, and granting that, how can we assure its support?
+team play, and granting that, how can we assure its support?</span>
 
-MR. TILLEUX: Mr. Chairman, Luther Evans a moment ago
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">Mr. Chairman, Luther Evans a moment ago
 blurted out what I had been trying to hint at, namely, that the
 Works Projects Administration might be used as a device for
 achieving some of the objectives you have in mind. The reason
-I didn't say so is because WPA is not supposed to make suggestions to you; you people are supposed to make suggestions to <span style="page" id="page236">[p.236]</span> it. We don't go out and drum up projects.
+I didn't say so is because WPA is not supposed to make suggestions to you; you people are supposed to make suggestions to <span class="page" id="page236">[p.236]</span> it. We don't go out and drum up projects.
 If you want something
 done you get a public sponsor, call in the state administrator
 or one of his assistants, tell him what you want done, he helps
@@ -5772,7 +5772,7 @@ we are inspired by them. They must be sound, but the job of
 supplying one hundred or one thousand or one million workers
 doesn't particularly "faze" us. You may not be altogether satisfied with the result. I have gone through card files, index
 slips prepared by WPA workers, and one drawer will be very much
-better than another drawer, which shows that the supervision <span style="page" id="page237">[p.237]</span> has not been adequate at that particular stage. It might be that
+better than another drawer, which shows that the supervision <span class="page" id="page237">[p.237]</span> has not been adequate at that particular stage. It might be that
 after those cards were checked by me, they were checked by
 someone else and those errors found, but we are not trying to
 set up perfection right now, but rather a type of progressive
@@ -5786,23 +5786,23 @@ that federal funds might very well, very profitably, very
 wisely for the sake of the American people, be expended in that
 way, because utility, the actual use to which the material will
 be put, is one of the things that we considered in judging
-the advisability of a project application.
+the advisability of a project application.</span>
 
-MR. WATSON DAVIS: Mr. Chairman, it seems to me the
+<span class="speaker" data-speaker="WATSON DAVIS">MR. WATSON DAVIS</span>: <span class="speech" data-speaker="WATSON DAVIS">Mr. Chairman, it seems to me the
 suggestion Mr. MacLeish has made is the happiest idea I have
 heard since the organization of the American Documentation
 Institute. It seems to me that it does provide a powerful
-mechanism for advancing scholarship in scientific research.
+mechanism for advancing scholarship in scientific research.</span>
 
-MR. BUCK: Mr. Chairman, I wonder if it wouldn't be
+<span class="speaker" data-speaker="BUCK">MR. BUCK</span>: <span class="speech" data-speaker="BUCK">Mr. Chairman, I wonder if it wouldn't be
 desirable for Mr. Davis to explain a little more the organization and set-up of the American Documentation Institute. I
-think most people understand Bibliofilm Service and how it <span style="page" id="page238">[p.238]</span> operates, but the charter of the Documentation Institute is a
+think most people understand Bibliofilm Service and how it <span class="page" id="page238">[p.238]</span> operates, but the charter of the Documentation Institute is a
 very much broader thing than Bibliofilm Service and I question
 whether many of those here understand the real nature of the
 Documentation Institute as it was set up under its original
-charter.
+charter.</span>
 
-MR. DAVIS: The American Documentation Institute is
+<span class="speaker" data-speaker="DAVIS">MR. DAVIS</span>: <span class="speech" data-speaker="DAVIS">The American Documentation Institute is
 a non-profit organization under the laws of Delaware following,
 I believe, the pattern of some of the agencies of the government
 formed in recent years. Its membership is made up of nominations from approximately sixty agencies, and I think it is rather
@@ -5818,7 +5818,7 @@ want done.
 Its activities consist in part in the operation 
 of Bibliofilm Service which is a microfilming agency serving
 four, and more, government libraries. One reason it is doing
-that actual microfilming operation is historical; another <span style="page" id="page239">[p.239]</span> reason is that some of the government departments  due to the
+that actual microfilming operation is historical; another <span class="page" id="page239">[p.239]</span> reason is that some of the government departments  due to the
 laws of the government find it difficult to operate and defray
 the expenses of operation of microfilming activities in their
 own libraries. In that sense, it is in those libraries serving
@@ -5840,7 +5840,7 @@ editor of a journal. The editor of the journal says, "I can
 print a short article"---or an article as long as the editor
 wishes to print. The editor will also print a note in connection with that article stating that the full paper---it may be
 thousands of pages long---can be obtained by sending a stated
-amount to the American Documentation Institute, who will then <span style="page" id="page240">[p.240]</span> in response to that order reproduce from the original paper
+amount to the American Documentation Institute, who will then <span class="page" id="page240">[p.240]</span> in response to that order reproduce from the original paper
 deposited with the American Documentation Institute the document
 in microfilm form and make it available to the worker. In
 that way we have effective distribution, effective publication
@@ -5855,24 +5855,24 @@ There are other activities in which the American
 Documentation Institute has engaged from time to time as the
 need seems to have arisen. There are other activities which
 it can do if organizations of scholars and research workers
-want them done.
+want them done.</span>
 
-MR. MILAM: Mr. Chairman, I would like to express the
+<span class="speaker" data-speaker="MILAM">MR. MILAM</span>: <span class="speech" data-speaker="MILAM">Mr. Chairman, I would like to express the
 hope that the Continuation Committee will bear in mind the
 unsurpassed standing of the American Council of Learned
 Societies with the scholars and scholarly institutions of this
 country. A very considerable part of the job for the first
 few years will apparently be in relations with the constituent
 organizations and others of the American Council, and I should
-like, therefore, to reiterate and to express the hope that the <span style="page" id="page241">[p.241]</span> Continuation Committee will find some way to involve the
-Council permanently in the set-up that may be established.
+like, therefore, to reiterate and to express the hope that the <span class="page" id="page241">[p.241]</span> Continuation Committee will find some way to involve the
+Council permanently in the set-up that may be established.</span>
 
-CO-CHAIRMAN LELAND: The Council gets very easily
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">The Council gets very easily
 involved. I think the S.S.R.C. is also interested, and we
 have a representative in the form of Mr. Nichols. I wish he
-would say something from that point of view.
+would say something from that point of view.</span>
 
-MR. NICHOLS: Dr. Leland, as you know, the Social
+<span class="speaker" data-speaker="NICHOLS">MR. NICHOLS</span>: <span class="speech" data-speaker="NICHOLS">Dr. Leland, as you know, the Social
 Science Research Council has been cooperating in the Joint
 Committee and gave its hearty support to Mr. Binkley's activities, and it has recently expanded its own work in that line
 through the appointment of a Committee on the Control of
@@ -5880,17 +5880,17 @@ Social Science Data. Naturally our interests are very much
 bound up with yours in the American Council, and if the way
 seems open, I am sure we will be glad to cooperate in any of
 these long-range plans. If you invite our cooperation I am
-sure you will receive it.
+sure you will receive it.</span>
 
-MR. MILAM: Mr. Chairman, I forgot to say the Council
+<span class="speaker" data-speaker="MILAM">MR. MILAM</span>: <span class="speech" data-speaker="MILAM">Mr. Chairman, I forgot to say the Council
 also has an unsurpassed standing, I am told, with the
-foundations. (Laughter)
+foundations. (Laughter)</span>
 
-CO-CHAIRMAN LELAND: That is a notion which is not
-only exaggerated but dangerous.
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">That is a notion which is not
+only exaggerated but dangerous.</span>
 
-CO-CHAIRMAN LYDENBERG: Mr. MacLeish, do you think it
-would be possible to ask the Librarian of Congress if he would <span style="page" id="page242">[p.242]</span> receive a hypothetical question put before him as the result of
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Mr. MacLeish, do you think it
+would be possible to ask the Librarian of Congress if he would <span class="page" id="page242">[p.242]</span> receive a hypothetical question put before him as the result of
 the discussion today, namely, whether he felt that the
 Library of Congress would be in a position, would welcome the
 opportunity of assuming the responsibility for the organization
@@ -5898,9 +5898,9 @@ direction, of a joint effort of the Documentation Institute and
 the various councils in an effort to coordinate these copying
 projects? Is there any way you feel that such a hypothetical
 question might be considered now for future translation from
-hypothesis to the direct form?
+hypothesis to the direct form?</span>
 
-MR. MacLEISH: Mr. Chairman, I could take the
+<span class="speaker" data-speaker="MacLEISH">MR. MacLEISH</span>: <span class="speech" data-speaker="MacLEISH">Mr. Chairman, I could take the
 Librarian of Congress off in a corner; but I can give a straight
 answer to the substance of your inquiry. The Librarian of
 Congress would be very proud indeed to be of this kind of service. This seems to me to be precisely the kind of service
@@ -5913,7 +5913,7 @@ which Mr. Milam has so delicately adverted. I hope he is right
 and I sincerely hope that that channel will be kept open and we
 will be able to retreat along it.
 
-There is, of course, the question of whether WPA <span style="page" id="page243">[p.243]</span> funds might not be made available in some manner not only to
+There is, of course, the question of whether WPA <span class="page" id="page243">[p.243]</span> funds might not be made available in some manner not only to
 build up the Union Catalogue but also to undertake this kind of
 work. As perhaps some of you gentlemen know, a project has
 been suggested to the WPA for the photographing of American
@@ -5934,12 +5934,12 @@ won't be if it depends simply upon our presentation of the case.
 In a matter of this kind we would be speaking for American
 scholarship and we ought to be able to speak for American
 scholarship with some assurance that our speaking would be
-backed up. That, however, is for the future. That looks toward fiscal '42 which begins a year from next July 1 and isn't <span style="page" id="page244">[p.244]</span> very helpful now. We will do whatever we can do within the
+backed up. That, however, is for the future. That looks toward fiscal '42 which begins a year from next July 1 and isn't <span class="page" id="page244">[p.244]</span> very helpful now. We will do whatever we can do within the
 limits of our appropriation and within the limits of aid that
 can be secured to carry on this kind of service if this is the
-kind of service American scholars want us to carry on.
+kind of service American scholars want us to carry on.</span>
 
-CO-CHAIRMAN LYDENBERG: Thank you. I am sure it is
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Thank you. I am sure it is
 the kind of service that American scholars want done, and I
 should say that it puts emphatically up to us the responsibility
 for assuring the Library of Congress not only of our applause
@@ -5950,31 +5950,31 @@ so quickly over Nos. 13, 14 and 15 that we find a fairly
 satisfactory answer to 13 and 15. To be sure, we have not
 determined as to the sources from which special support can
 be secured. We are open to suggestions of novel and untapped
-resources to appeal to.
+resources to appeal to.</span>
 
-CO-CHAIRMAN LELAND: I think, Mr. Chairman, that
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">I think, Mr. Chairman, that
 emphasis should be given to the question immediately preceding
 that: From what sources may special support be secured? If
 the results of these operations are worth a great deal to
 scholarship, to individual scholars,to scholars collectively,
 to libraries, and so forth, it seems to me that some degree of
 self-support should be assured for them. Whether that is
-feasible or not, I am sure I don't know, but I think that <span style="page" id="page245">[p.245]</span> those possibilities ought to be as fully explored as possible,
+feasible or not, I am sure I don't know, but I think that <span class="page" id="page245">[p.245]</span> those possibilities ought to be as fully explored as possible,
 because my experience with our more usual sources of support,
 at least the sources to which we more usually apply for support,
 is that the Lord helps those who help themselves; at least He
 likes to do it better, He does it with more pleasure, and it
 seems to me that some degree of self-support ought to be expected
-here in services that are going to be so generally useful.
+here in services that are going to be so generally useful.</span>
 
-CO-CHAIRMAN LYDENBERG: Mr. Power has demonstrated
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Mr. Power has demonstrated
 that certain efforts to this end are self-supporting. Dr.
 Bishop has pointed out that the opportunities are overwhelming.
 I should think that the ordinary administrator of any library
 or of any institution would say that that is nowhere different
-from the problems of yesterday and tomorrow.
+from the problems of yesterday and tomorrow.</span>
 
-MR. TATE: Mr. Chairman, I would like to speak a
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">Mr. Chairman, I would like to speak a
 moment to that particular point. At the present time we have
 been talking rather much today and yesterday of microphotography
 as an agent in servicing scholarly material. It might be of
@@ -5983,7 +5983,7 @@ impact of microphotography has been on libraries, and in the
 secondary sense on a limited number of individual scholars. As
 the result, most of the large projects that have been carried
 out are library projects, inter-library loan, newspaper, the
-gathering of rare books, etc. It seems to me that there must <span style="page" id="page246">[p.246]</span> be, if this program is to grow, become what it should become,
+gathering of rare books, etc. It seems to me that there must <span class="page" id="page246">[p.246]</span> be, if this program is to grow, become what it should become,
 more emphasis placed on microphotography for the individual
 scholar. The microfilm is a device of expediency and if the
 person who is actually the ultimate consumer, who is actually
@@ -6003,7 +6003,7 @@ outstanding exceptions.
 It seems to me that a certain proportion of the
 activity of the Continuation Committee could very logically be
 devoted directly to educational work and to the incorporation
-of microphotography in the courses, let us say, of research <span style="page" id="page247">[p.247]</span> training which are offered to graduate students. They generally
+of microphotography in the courses, let us say, of research <span class="page" id="page247">[p.247]</span> training which are offered to graduate students. They generally
 receive some instruction in bibliography, in the other
 "ographies," and in the use of the library. They should receive, too, precise instruction on the use of microphotography
 in scholarship.
@@ -6015,22 +6015,22 @@ funds as they can lay their hands on to microphotography in
 general, and also an individual scholar may be able to tap
 foundation grants, grants-in-aid, even private funds---I speak
 from experience---to the purchase of microfilm copies, and indirectly to the support of a program such as that which we have
-in hand.
+in hand.</span>
 
-MR. DANTON: Mr. Chairman, might we not extend Dr.
+<span class="speaker" data-speaker="DANTON">MR. DANTON</span>: <span class="speech" data-speaker="DANTON">Mr. Chairman, might we not extend Dr.
 Tate's remarks and give almost a categorical affirmative answer
 to the second question under 15: Can they be made self-supporting, at least in part? Mr. Power has been able to
 persuade fifteen or twenty libraries each to subscribe $500 a
 year for four years for a limited group of materials, and I
 should think that one of two things might easily be possible,
 either that a fairly large group of forty or fifty research and
-scholarly libraries might be persuaded to support by an annual <span style="page" id="page248">[p.248]</span> subscription such a program as we have generally considered
+scholarly libraries might be persuaded to support by an annual <span class="page" id="page248">[p.248]</span> subscription such a program as we have generally considered
 here, or that that support might come in another direction by
 offering the libraries the opportunity of purchasing copies of
 the materials that were more or less directly in their
-spheres of interest.
+spheres of interest.</span>
 
-MR. ROOSEN-RUNGE: I very heartily agree with Dr.
+<span class="speaker" data-speaker="ROOSEN-RUNGE">MR. ROOSEN-RUNGE</span>: <span class="speech" data-speaker="ROOSEN-RUNGE">I very heartily agree with Dr.
 Tate on the question of the support of the needs of the individual scholar. I want to illustrate that point with one experience that we have had. We have filmed 2,100 articles for the
 mathematical reviews, mathematical articles out of some of
 the best known journals and also of a great many entirely unknown journals that are probably unique in this country---Russian, Rumanian, Indian, and so on. Out of this great
@@ -6041,10 +6041,10 @@ who wanted to see what the things looked like. So you see how
 extremely important it would be to educate the individuals.
 There may be special reasons for this flop in this particular
 case, but anyway it indicates the education would be just as
-necessary.
+necessary.</span>
 
-MR. SCHWEGMANN: Mr. Chairman, in his opening remarks
-yesterday Mr. MacLeish specifically asked that we consider <span style="page" id="page249">[p.249]</span> to some extent the matter of commercial competition or the
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">Mr. Chairman, in his opening remarks
+yesterday Mr. MacLeish specifically asked that we consider <span class="page" id="page249">[p.249]</span> to some extent the matter of commercial competition or the
 activity of library reproductions of microfilms and other
 photoduplicates with commercial enterprises. But before bringing that question to the front, I think we should have a rather
 frank discussion of the self-supporting theory that we are
@@ -6078,9 +6078,9 @@ thoughts a little cold business right now.
 
 That brings up the question that Mr. MacLeish referred
 to, that is, what would be the feeling of this meeting regarding the matter of possible conflict in interest between the
-operations of library activities and commercial activities?
+operations of library activities and commercial activities?</span>
 
-DR. MAYER: Mr. Chairman, I am authorized to say
+<span class="speaker" data-speaker="MAYER">DR. MAYER</span>: <span class="speech" data-speaker="MAYER">Mr. Chairman, I am authorized to say
 in the name of the Army Medical Library that whatever microfilming in the field of medicine is done, we would purchase,
 so that if ever a central institute could be established and
 they would send out microfilming expeditions to some country
@@ -6088,9 +6088,9 @@ and they would find medical manuscripts or unique medical
 books, then we would buy the negatives, and that probably would
 solve the problem for the whole field of medicine because the
 interests of the individual medical research man are the
-same as the interests of the National Medical Library. <span style="page" id="page251">[p.251]</span>
+same as the interests of the National Medical Library. <span class="page" id="page251">[p.251]</span></span>
 
-MR. SEIDELL: I would like to speak a little of
+<span class="speaker" data-speaker="SEIDELL">MR. SEIDELL</span>: <span class="speech" data-speaker="SEIDELL">I would like to speak a little of
 Bibliofilm Service. Bibliofilm Service is operating in a
 library which is conducted for the support of research in subjects pertaining to agriculture.
 This library has gathered
@@ -6109,7 +6109,7 @@ it was for the purpose of improving, we might say, the service
 that such a library renders. When a book is loaned to a
 person it contains many things of interest to others; I am
 speaking now of periodicals in which original scientific research is published. Each periodical is made up of a heterogeneous number of papers, but when one man is using that
-book it is no longer available to the other one, and the reproach that Bibliofilm Service has at the present time is the <span style="page" id="page252">[p.252]</span> slowness of the service we render because when a group of orders
+book it is no longer available to the other one, and the reproach that Bibliofilm Service has at the present time is the <span class="page" id="page252">[p.252]</span> slowness of the service we render because when a group of orders
 are received, we can fill only 80 per cent of them. There are
 20 per cent of the books that are out on loan.
 
@@ -6131,7 +6131,7 @@ in each of the four sections of the country a great research
 laboratory. Now Bibliofilm Service can cooperate in furnishing
 literature to those people which would have to be purchased
 and libraries started in each special case, so there will arise
-a greater and greater actual application or use of Bibliofilm <span style="page" id="page253">[p.253]</span> Service in the government service itself. I like to look upon
+a greater and greater actual application or use of Bibliofilm <span class="page" id="page253">[p.253]</span> Service in the government service itself. I like to look upon
 this microfilm copying as simply a perfection of library
 service which should be rendered in exactly the same way that
 all other library service is rendered. For instance, public
@@ -6152,9 +6152,9 @@ might try to look forward to the time that Bibliofilm Service
 or Microfilm Service should not be considered as something
 outside the libraries; it should be considered as simply
 perfection of service which a library should eventually render
-to those who can use their talents to promote the welfare of <span style="page" id="page254">[p.254]</span> man.
+to those who can use their talents to promote the welfare of <span class="page" id="page254">[p.254]</span> man.</span>
 
-MR. PETTITT: Following up the remarks made by Mr.
+<span class="speaker" data-speaker="PETTITT">MR. PETTITT</span>: <span class="speech" data-speaker="PETTITT">Following up the remarks made by Mr.
 Seidell, why could we not attempt to establish a loan service
 on your Bibliofilm the same as you have on books? I am thinking now of developing the use of microfilms. Several people
 have mentioned that the country must be educated to the usage
@@ -6176,7 +6176,7 @@ At the same time if such films could be made, I
 would perhaps be the only one who would send in and ask for
 the microfilms and it might be necessary to charge me almost
 the full price of making the microfilms, but if in some cases
-three or four people in various parts of the country might <span style="page" id="page255">[p.255]</span> ask for a rare book, would there not be a possibility of
+three or four people in various parts of the country might <span class="page" id="page255">[p.255]</span> ask for a rare book, would there not be a possibility of
 merely renting them the microfilm? I am suggesting that because
 we have thousands, and tens of thousands, of graduate students
 who perhaps could use microfilm service but who are not well
@@ -6187,9 +6187,9 @@ such as the Library of Congress, might work out that problem.
 
 I am merely offering these as suggestions which may
 fit into any program of developing a wider and more extensive
-use.
+use.</span>
 
-MR. VANDERBILT: I speak for a moment from the point
+<span class="speaker" data-speaker="VANDERBILT">MR. VANDERBILT</span>: <span class="speech" data-speaker="VANDERBILT">I speak for a moment from the point
 of view of the small special library which is certainly not
 the major interest of this group but it has a certain application to future possible bibliofilm-microfilm plants. I am thinking of a staff of a library intended for the purpose of running
 one institution which has a ceiling of 20,000 volumes, a ceiling
@@ -6198,7 +6198,7 @@ having available on film perhaps one out of every 100 titles
 of books, and perhaps one-third of the periodicals on film.
 
 Our acquisition policy is to put on our shelves
-those reference books which are constantly needed, to get <span style="page" id="page256">[p.256]</span> reports from other libraries of the materials which are available in the community or in a very wide circle thereabout,
+those reference books which are constantly needed, to get <span class="page" id="page256">[p.256]</span> reports from other libraries of the materials which are available in the community or in a very wide circle thereabout,
 but to acquire in film form materials which are not available
 in the community, which are infrequently used, and which it is
 part of our community obligation to acquire for the purpose of
@@ -6226,9 +6226,9 @@ people who are not engaged in publication so much as in planning
 action, and the smaller library which is trying to do
 the immense job is limited only by the entire earth, provided
 time and a very limited expenditure of money for correspondence
-and purchase of films of single items is available.
+and purchase of films of single items is available.</span>
 
-MR. TILLEUX: With regard to the possible interlibrary loan of film, of course as the gentleman has already
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">With regard to the possible interlibrary loan of film, of course as the gentleman has already
 pointed out, you would have to have some way of distributing
 the original cost of the negative. Please don't let me give
 you the impression I am harping on WPA, but it so happens we
@@ -6244,7 +6244,7 @@ to take up with the Librarian, because that immediately involves
 housing of the positive print. It immediately involves the
 setting up of records for clearing the thing in and out---controls. We permit the second copy of the positive print to
 remain, say, in Cleveland, Ohio, and that replaces in use the
-newspaper file. In other words, once and for all the necessity <span style="page" id="page258">[p.258]</span> disappears of bringing out the large bound volumes which are
+newspaper file. In other words, once and for all the necessity <span class="page" id="page258">[p.258]</span> disappears of bringing out the large bound volumes which are
 elephantine in size and very heavy, unless it is necessary
 through some former film to check the original.
 
@@ -6261,12 +6261,12 @@ scholar in any part of the United States, or for that matter
 in the world, who desires some very difficult-to-obtain issue,
 or run of a year or more, of a particular title, may make out
 an inter-library loan request at his local library and in due
-time receive it under government frank from Washington.
+time receive it under government frank from Washington.</span>
 
-MR. KELLAR: I think we are all agreed on the desirability of much wider use of microphotography than is true
+<span class="speaker" data-speaker="KELLAR">MR. KELLAR</span>: <span class="speech" data-speaker="KELLAR">I think we are all agreed on the desirability of much wider use of microphotography than is true
 at the present time. Dr. Tate has pointed out that the actual
 status is that it has not been used to anywhere near the extent
-that it can and probably will be. <span style="page" id="page259">[p.259]</span>
+that it can and probably will be. <span class="page" id="page259">[p.259]</span>
 
 One factor in that which has not been mentioned is
 that many institutions have preferred not to buy cameras and
@@ -6291,17 +6291,17 @@ letters and other literature to heads of responsible institutions in this countr
 program. Make them acquainted with it, tell them what we
 are trying to do and enlist their assistance, and perhaps we
 will get something in the way of financial aid. I think also
-you get a certain assistance to the people in the institutions <span style="page" id="page260">[p.260]</span> who are interested in this and would also aid perhaps in getting
-further instruction in the use of microphotography.
+you get a certain assistance to the people in the institutions <span class="page" id="page260">[p.260]</span> who are interested in this and would also aid perhaps in getting
+further instruction in the use of microphotography.</span>
 
-MR. JAMESON: Mr. Chairman, I merely want to underscore what Mr. Kellar has said. In my visits this winter
+<span class="speaker" data-speaker="JAMESON">MR. JAMESON</span>: <span class="speech" data-speaker="JAMESON">Mr. Chairman, I merely want to underscore what Mr. Kellar has said. In my visits this winter
 I think I would name even now a dozen college presidents who
 are ignorant of microfilming, who are planning or hoping to
 build new libraries with microfilming facilities in them,
 and who constantly asked me where they could get materials.
-I hope the Continuation Committee will answer that.
+I hope the Continuation Committee will answer that.</span>
 
-MR. EVANS: One idea has come to my mind that may be
+<span class="speaker" data-speaker="EVANS">MR. EVANS</span>: <span class="speech" data-speaker="EVANS">One idea has come to my mind that may be
 foolish, I am not sure. It comes to mind in connection with
 Mr. Davis' statement that the filming of scientific publication
 would have value in the national defense program. If that be
@@ -6316,7 +6316,7 @@ be glad to pay for the negative of material filmed in the field
 of medicine.
 
 I am wondering also if the Department of Agriculture
-in connection with the Chinese manuscripts and unique books <span style="page" id="page261">[p.261]</span> mentioned last night would not be willing to purchase some of
+in connection with the Chinese manuscripts and unique books <span class="page" id="page261">[p.261]</span> mentioned last night would not be willing to purchase some of
 the materials of that character. Also these million dollar
 research laboratories that are being set up over the country
 might wish to bear a considerable proportion of the cost of
@@ -6333,12 +6333,12 @@ in furnishing copies of material which would be available
 through private channels, the question which Mr. Schwegmann
 raised. I wonder if Mr. Power who has had some experience in
 a commercial enterprise could give us his point of view on
-that question, Mr. Chairman.
+that question, Mr. Chairman.</span>
 
-MR. POWER: I am not sure that I can give you what
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">I am not sure that I can give you what
 you want. I think my organization represents the only laboratory here at least that is self-supporting; not self-supporting
 perhaps, but that has built itself up and has equipped itself
-without outside aid. In doing so, we have necessarily had to <span style="page" id="page262">[p.262]</span> sacrifice somewhat in appearance and make some equipment ourselves. However, I think in any question of copying in general
+without outside aid. In doing so, we have necessarily had to <span class="page" id="page262">[p.262]</span> sacrifice somewhat in appearance and make some equipment ourselves. However, I think in any question of copying in general
 you have got to establish it on the basis that it will support
 itself, and I see no reason to believe that an organization
 perhaps that is endowed can necessarily operate any less expensively than one that maintains itself. In the end the costs
@@ -6350,16 +6350,16 @@ has been discussed here and it was with that in view that we
 tried to establish a service in Europe whereby scholars could
 order the things they want and by which if necessary large
 blocks of material could be copied. In the event any large-scale copying is done, I should like to offer the services of
-that organization for what they are worth.
+that organization for what they are worth.</span>
 
-MR. SCHWEGMANN: I brought to the front this whole
+<span class="speaker" data-speaker="SCHWEGMANN">MR. SCHWEGMANN</span>: <span class="speech" data-speaker="SCHWEGMANN">I brought to the front this whole
 question of commercial competition because it is going to be
 inevitable. By the way, when I spoke of different philosophies
 of administration of photocopying services, I meant only to
 suggest such services as have not been fully self-supporting;
 that difference has not been the result of the difference in
 price. I think the price structures of all of these photocopying organizations
-are practically the same. It is the <span style="page" id="page263">[p.263]</span> degree of service you give for the amount of money you take in.
+are practically the same. It is the <span class="page" id="page263">[p.263]</span> degree of service you give for the amount of money you take in.
 I can't help but allude to it in cold business terms because
 I am entrusted with the administration of the Library of
 Congress photoduplication service. It operates strictly
@@ -6381,18 +6381,18 @@ material.
 That would be the real thing in view.
 
 I think it is this type of thing Mr. MacLeish wanted
-to get some expression of opinion on: What would be the thought <span style="page" id="page264">[p.264]</span> of the majority here as to the operation of such a service---that is, once you have acquired a negative, to service additional positives from it?
+to get some expression of opinion on: What would be the thought <span class="page" id="page264">[p.264]</span> of the majority here as to the operation of such a service---that is, once you have acquired a negative, to service additional positives from it?</span>
 
-MR. HILL: Mr. Chairman, Mr. Tate has spoken about
+<span class="speaker" data-speaker="HILL">MR. HILL</span>: <span class="speech" data-speaker="HILL">Mr. Chairman, Mr. Tate has spoken about
 the use of microfilm, as I understand it, through the reading
 machine. The individual scholar probably doesn't have a reading machine. I am afraid that I grew up so long before microfilm that I am not much interested in reading it that way. The
 Library of Congress of course has provided enlargement of most
 of the film that was taken in Europe, and last night Mr. Power
 mentioned the development of the cheaper type of enlargements.
 I think that ought to go in the record, and I would like to have
-Mr. Power speak to that, if he will.
+Mr. Power speak to that, if he will.</span>
 
-MR. POWER: I think it is perfectly possible that
+<span class="speaker" data-speaker="POWER">MR. POWER</span>: <span class="speech" data-speaker="POWER">I think it is perfectly possible that
 the future of microfilm, the future development of it and the
 future extensive use by the individual scholar, will take the
 line of an inexpensive paper print. There are several things
@@ -6400,10 +6400,10 @@ in the offing which might indicate that. Last night we discussed some of them, t
 possibility of using acetate, the possibility of photographic
 enlargements made on a continuous enlarger. All of those things
 are coming along. I know we can now produce a 6 x 8 print for
-about six cents apiece from a microfilm negative, and if the <span style="page" id="page265">[p.265]</span> material is not too large, not too bulky, then it is possible
-to use that rather than the reading machine.
+about six cents apiece from a microfilm negative, and if the <span class="page" id="page265">[p.265]</span> material is not too large, not too bulky, then it is possible
+to use that rather than the reading machine.</span>
 
-MR. WATSON DAVIS: Mr. Chairman, could I speak to the
+<span class="speaker" data-speaker="WATSON DAVIS">MR. WATSON DAVIS</span>: <span class="speech" data-speaker="WATSON DAVIS">Mr. Chairman, could I speak to the
 question of utilization of microfilm? From the experience which
 Bibliofilm Service has had, I think you will find that individuals will use both methods, microfilm or photoprints or enlargements, but one interesting thing did happen in the early
 days of Bibliofilm Service. You remember that through the
@@ -6420,7 +6420,7 @@ film.
 The amazing and interesting thing about it was that
 if the man wanted to use the material that was on the film, he
 figured out some way to read it. He used a dissecting microscope, he rigged up his own enlarging devices, and so forth.
-If the desire to use the material is great enough, the scholar <span style="page" id="page266">[p.266]</span> and the research man will read the film.
+If the desire to use the material is great enough, the scholar <span class="page" id="page266">[p.266]</span> and the research man will read the film.
 
 Now we are beyond that stage. You can get a reading
 machine for the price of a typewriter. You may be able to get
@@ -6436,16 +6436,16 @@ to me that we should as a group and through our continuing
 committee, carry on the necessary educational campaign by all
 means possible to acquaint the scholars and the research men
 of the country with the facilities that microfilm does bring
-them.
+them.</span>
 
-MR. SWINGLE: Mr. Chairman, I might mention that
+<span class="speaker" data-speaker="SWINGLE">MR. SWINGLE</span>: <span class="speech" data-speaker="SWINGLE">Mr. Chairman, I might mention that
 a few years ago at a conference there was discussion of the
 question of interesting libraries in microfilm, and a very
 prominent librarian said, "I am not in favor of it," and
 partly to get around his objection, Dr. Draeger and his
 assistants worked all night and made a dummy volume with about
 twenty pages of good-sized bibliofilm.
-The entire text is <span style="page" id="page267">[p.267]</span> there (displaying dummy volume), 60 pages to a folio; that is,
+The entire text is <span class="page" id="page267">[p.267]</span> there (displaying dummy volume), 60 pages to a folio; that is,
 ten of these leaves would cover 600 pages. Six thousand pages
 would take only 100 of those. That dummy goes on the shelf
 of the library in the proper place with other editions of the
@@ -6460,15 +6460,15 @@ away from the shelf to do that. When he finds something he
 wants, then he presses the button and has the film put on the
 projector and reads it. Meantime, there is the book on the
 shelf and here is protection against the little worms in boxes.
-This happens to be Chinese, a very rare Chinese book.
+This happens to be Chinese, a very rare Chinese book.</span>
 
-CO-CHAIRMAN LYDENBERG: It is instructive to see
-how we have been paying attention to the service to the individual scholar in the recent development of our talk.
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">It is instructive to see
+how we have been paying attention to the service to the individual scholar in the recent development of our talk.</span>
 
-MR. SEIDELL: May I speak just once more? I dislike
+<span class="speaker" data-speaker="SEIDELL">MR. SEIDELL</span>: <span class="speech" data-speaker="SEIDELL">May I speak just once more? I dislike
 very much this idea of self-support. It may be very bad to
 say so, but I feel that public funds support libraries to serve
-people who can improve conditions of mankind. Well, how shall <span style="page" id="page268">[p.268]</span> we select those whom we serve? I think we can trust those who
+people who can improve conditions of mankind. Well, how shall <span class="page" id="page268">[p.268]</span> we select those whom we serve? I think we can trust those who
 are willing to try to serve humanity to receive and be given
 all the support they can, so I would like to think that the
 time will come when libraries will look upon the use of microfilm as as much a part of their duty of expenditure of public
@@ -6487,7 +6487,7 @@ libraries and most of you want to collect things and have them
 ready for people to use. Naturally, you have to buy books for
 the library; that is well established; you get appropriations
 for that service. You must buy those things and the selections
-must be made by someone skilled in that field. <span style="page" id="page269">[p.269]</span>
+must be made by someone skilled in that field. <span class="page" id="page269">[p.269]</span>
 
 After you have paid money, public funds, to buy it and
 you have got it in the library, then microfilm offers a means
@@ -6508,18 +6508,18 @@ to some of the rest of them. So eventually I look forward to
 the time when microfilm service, as far as this library is
 concerned, will be supported directly by public funds in the
 same way that the service of books is supported at the present
-time.
+time.</span>
 
-CO-CHAIRMAN LYDENBERG: That is certainly a very impressive ideal to set before us.
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">That is certainly a very impressive ideal to set before us.
 
-May I ask if you have any suggestion on No. 14, as to <span style="page" id="page270">[p.270]</span> how we may coordinate the operations---not the needs, the
-active operations---of the individual scholars?
+May I ask if you have any suggestion on No. 14, as to <span class="page" id="page270">[p.270]</span> how we may coordinate the operations---not the needs, the
+active operations---of the individual scholars?</span>
 
-MR. BEMIS: If the Library of Congress accepts the
+<span class="speaker" data-speaker="BEMIS">MR. BEMIS</span>: <span class="speech" data-speaker="BEMIS">If the Library of Congress accepts the
 direction of this work, I should say that would be the ideal
-coordination of everything.
+coordination of everything.</span>
 
-CO-CHAIRMAN LELAND: Mr. Chairman, perhaps what the
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Mr. Chairman, perhaps what the
 person who endeavored to compose this agenda had in mind when
 he put that question was something like this. A great many
 individual scholars, as all aid-granting agencies know, apply
@@ -6537,7 +6537,7 @@ is a definite pool established in the Library of Congress, a
 constantly growing pool of material of a great diversity of
 nature, of course composed mostly of fairly short pieces---that
 is to say there are no very long runs in it---which is made up
-in just that way. It is made up of materials secured for <span style="page" id="page271">[p.271]</span> individual scholars for their particular needs but exists as
+in just that way. It is made up of materials secured for <span class="page" id="page271">[p.271]</span> individual scholars for their particular needs but exists as
 a general pool, as a national asset, and parts of it are
 available for other scholars who may want to use it after the
 use has been finished by the scholar for whose use it was
@@ -6557,10 +6557,10 @@ think that there is a problem there that has got to be taken
 into consideration in order that the results of a great many
 individual efforts shall not be wasted or lost by having their
 use confined to the person who makes the film or for whom the
-film is secured.
+film is secured.</span>
 
-MR. BUCK: Mr. Chairman, in that connection I should
-like to point out that the same problem develops when an institution makes microcopies of material in its possession for <span style="page" id="page272">[p.272]</span> individual scholars scattered all over the country, and those
+<span class="speaker" data-speaker="BUCK">MR. BUCK</span>: <span class="speech" data-speaker="BUCK">Mr. Chairman, in that connection I should
+like to point out that the same problem develops when an institution makes microcopies of material in its possession for <span class="page" id="page272">[p.272]</span> individual scholars scattered all over the country, and those
 copies may be preserved but would be so scattered that they
 would not serve any general purposes. At the National Archives
 we have been considering the desirability of establishing the
@@ -6580,7 +6580,7 @@ one matter to the attention of this group. The problem of
 storage of materials is of course going to be a serious one
 if any very extensive body of microcopies is acquired. Possibly the microcopies will be distributed around to various
 libraries, but there seems to be a feeling on the part of many
-that some sort of central pool, at least for negatives, would <span style="page" id="page273">[p.273]</span> be desirable. In that connection, the Archivist wanted me to
+that some sort of central pool, at least for negatives, would <span class="page" id="page273">[p.273]</span> be desirable. In that connection, the Archivist wanted me to
 state that plans have been under consideration for a number of
 years for the construction of a government building, probably
 in the outskirts of Washington, for the purpose of housing film.
@@ -6596,7 +6596,7 @@ to have some relation to American history but that is interpreted very broadly t
 desirable.
 
 That collection is being built up in the National
-Archives at the present time, but special equipment and facilities are necessary for adequate preservation, especially, of <span style="page" id="page274">[p.274]</span> course, for the nitrate type, but I understand even cellulose
+Archives at the present time, but special equipment and facilities are necessary for adequate preservation, especially, of <span class="page" id="page274">[p.274]</span> course, for the nitrate type, but I understand even cellulose
 film requires special care in order to insure its preservation.
 
 Sometime ago it was evident that this collection,
@@ -6616,39 +6616,39 @@ public buildings in Washington. Of course that doesn't mean
 that money has been appropriated for it, but it is in the
 routine of development and should be taken into consideration,
 I think, by the Continuation Committee in any discussion of
-storage facilities for a great central pool of microfilms.
+storage facilities for a great central pool of microfilms.</span>
 
-MR. TILLEUX: Who absorbs the additional cost of
-the microfilm made for scholars? You say you retain the <span style="page" id="page275">[p.275]</span> original.
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">Who absorbs the additional cost of
+the microfilm made for scholars? You say you retain the <span class="page" id="page275">[p.275]</span> original.</span>
 
-MR. BUCK: What I said was that we are discussing a
+<span class="speaker" data-speaker="BUCK">MR. BUCK</span>: <span class="speech" data-speaker="BUCK">What I said was that we are discussing a
 plan for doing this. Actually, that plan has not yet been put
 into operation. My own personal feeling is that the positive
 should be sold at a price that will absorb part of the cost of
 the negative with the thought that in case there is the sale
 of another positive, that will also cover part of the cost
 of the negative. I think the thing could be apportioned
-roughly in such a way as to take care of the situation.
+roughly in such a way as to take care of the situation.</span>
 
-CO-CHAIRMAN LYDENBERG: That brings us very neatly
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">That brings us very neatly
 into No. 17 under VI. It is instructive to see that National
 Archives has had foresight enough to see the necessity of pooling this. May I ask if any of the others have any comments
-to make on that particular phase of the problem?
+to make on that particular phase of the problem?</span>
 
-MR. CASE: Mr. Chairman, what Dr. Buck has just described has raised a question which we have skirted around to
+<span class="speaker" data-speaker="CASE">MR. CASE</span>: <span class="speech" data-speaker="CASE">Mr. Chairman, what Dr. Buck has just described has raised a question which we have skirted around to
 some extent during these discussions. I am not entirely clear
 as to the intended function of the central agency which would
 coordinate the want lists and the effectuation of the various
 parts of the program of microcopying.
-If it is to serve fundamentally as a clearing house for the projects which are proposed by individual institutions, and which are to be undertaken by those institutions, and ultimately to be serviced by <span style="page" id="page276">[p.276]</span> those institutions, in cooperation with others, that is one
+If it is to serve fundamentally as a clearing house for the projects which are proposed by individual institutions, and which are to be undertaken by those institutions, and ultimately to be serviced by <span class="page" id="page276">[p.276]</span> those institutions, in cooperation with others, that is one
 kind. If it is to take over not only the advisory and clearing
 house capacity, but also the operating and servicing functions
 as well, that is entirely different.
 
 I should like to have some definition of the intent
-of that agency discussed here.
+of that agency discussed here.</span>
 
-CO-CHAIRMAN LELAND: Mr. Chairman, that is of course
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Mr. Chairman, that is of course
 a very important question. I think it is very hard to think
 through it completely. I suppose we can hardly conceive of
 some single agency doing all these things, but I do think
@@ -6663,15 +6663,15 @@ a national basis, it is quite conceivable that a central agency
 might assume the operation of those, assume the operating of
 making the films, of storing them, of servicing them through
 whatever national agency might be selected for that, say the
-Library of Congress or the National Archives for storage <span style="page" id="page277">[p.277]</span> purposes or some other national agency.
+Library of Congress or the National Archives for storage <span class="page" id="page277">[p.277]</span> purposes or some other national agency.
 In other words, I
 think the Continuation Committee has got to consider the possibility of the central agency, the central committee, doing a
 good many quite different things, that it isn't necessary to
 have only a clearing house or to have only a central operating
 and servicing agency. Probably the two things will have to go
-along together.
+along together.</span>
 
-MR. CASE: Mr. Chairman, I don't want at this late
+<span class="speaker" data-speaker="CASE">MR. CASE</span>: <span class="speech" data-speaker="CASE">Mr. Chairman, I don't want at this late
 date to get into too deep a controversy over that, but it does
 seem to me that the individual needs over a long period of the
 separate institutions have got to be kept in mind. Libraries
@@ -6687,11 +6687,11 @@ their place relatively, but to increase their usefulness.
 I should imagine that you could count on a great
 deal of eagerness and initiative if those institutions felt
 that projects which they developed could, within the framework
-of a clearing house and within the framework of agencies <span style="page" id="page278">[p.278]</span> by which complete cooperation and servicing could be accomplished to the satisfaction of scholars, still that they might
+of a clearing house and within the framework of agencies <span class="page" id="page278">[p.278]</span> by which complete cooperation and servicing could be accomplished to the satisfaction of scholars, still that they might
 serve as the depository, as the servicing agent of their own
-projects.
+projects.</span>
 
-CO-CHAIRMAN LELAND: Mr. Chairman, I think that is
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">Mr. Chairman, I think that is
 a very good statement of exactly what I have in mind. It
 is stated much more clearly than I stated it myself. Obviously,
 these enterprises, especially of institutions that we have
@@ -6703,13 +6703,13 @@ scholarly world at large would know what those institutions
 were doing and what they could ask of them. In other words,
 they would be encouraged to go on in the work they were doing,
 and if the several agencies could facilitate that in any way,
-so much the better.
+so much the better.</span>
 
-MR. MacLEISH: I think I see what the gentleman has
+<span class="speaker" data-speaker="MacLEISH">MR. MacLEISH</span>: <span class="speech" data-speaker="MacLEISH">I think I see what the gentleman has
 in mind. I think the thing he fears is something he needn't
 fear; at least I shouldn't think he needs fear it. I think
 this matter revolves closely about the item that is numbered
-16, and which seems to me to be so basic to this whole matter <span style="page" id="page279">[p.279]</span> that perhaps it ought not even to be discussed in these last
+16, and which seems to me to be so basic to this whole matter <span class="page" id="page279">[p.279]</span> that perhaps it ought not even to be discussed in these last
 few minutes, but perhaps I can take two minutes to say why I
 think it is basic.
 
@@ -6729,12 +6729,12 @@ true. The problem is to make the resources of the country
 adequate. That can only be done by dividing responsibility.
 Microfilm offers a means of arriving at that end. So it seems
 to me it is absolutely basic to this whole proposal that
-sometime, somewhere, we develop a system of division of responsibility. Once that is done, a central unit such as we have in <span style="page" id="page280">[p.280]</span> mind, which would be nothing but a clearing house to receive
+sometime, somewhere, we develop a system of division of responsibility. Once that is done, a central unit such as we have in <span class="page" id="page280">[p.280]</span> mind, which would be nothing but a clearing house to receive
 inquiries, forward them and fill them, would step on nobody's
 toes and get in nobody's way and be a useful thing. Until
-that is done, I can see difficulties.
+that is done, I can see difficulties.</span>
 
-CO-CHAIRMAN LYDENBERG: Thank you, Mr. MacLeish.
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Thank you, Mr. MacLeish.
 May I add to your two minutes. I see I am going to anticipate
 what Mr. Downs undoubtedly was planning to say, namely, that
 the Board on Resources of the American Library Association has
@@ -6744,13 +6744,13 @@ healthy rather than destructive, and the general object of
 librarianship as an aid to scholarship and research may be
 improved rather than developed into any petty jealousies. I
 am sorry, Mr. Downs, I took the words out of your mouth, but I
-felt so strongly as Mr. MacLeish expressed that he had anticipated what I know you had long planned for.
+felt so strongly as Mr. MacLeish expressed that he had anticipated what I know you had long planned for.</span>
 
-MR. DOWNS: At this time I would like to add just a
+<span class="speaker" data-speaker="DOWNS">MR. DOWNS</span>: <span class="speech" data-speaker="DOWNS">At this time I would like to add just a
 few words to that. I think these agreements between libraries
 are entirely practical things. There are many such agreements existing in the country at the present time, usually
 in rather limited areas, Chicago, Cincinnati, Boston, several
-southern centers, in which collecting agreements exist among <span style="page" id="page281">[p.281]</span> the libraries. I have had some experience in working out such
+southern centers, in which collecting agreements exist among <span class="page" id="page281">[p.281]</span> the libraries. I have had some experience in working out such
 agreements. They can be done on two or three bases. One is
 by subjects, either minute or very broad subjects; another
 is by forms of material, such as public documents, newspapers,
@@ -6775,9 +6775,9 @@ deal of duplication of interest in these collecting activities
 ## p. 282 (#575) ############################################
 
 and I think it is highly desirable that agreements of this
-sort be reached.
+sort be reached.</span>
 
-MR. CASE: If I may transgress on your time for one
+<span class="speaker" data-speaker="CASE">MR. CASE</span>: <span class="speech" data-speaker="CASE">If I may transgress on your time for one
 more word on this subject, there are now fairly well recognized
 scholarly centers of research in given fields, and it seems to
 me that we should recognize that microfilm material is most
@@ -6793,14 +6793,14 @@ strength where it now does exist, and that the depository and
 the servicing agency should again be within this frame of the
 production of the clearing house, first, and then of agencies
 for lending and servicing materials, but building upon the
-existing structure of present collections.
+existing structure of present collections.</span>
 
-MR. CARRUTHERS: Just one word on that. I think the
+<span class="speaker" data-speaker="CARRUTHERS">MR. CARRUTHERS</span>: <span class="speech" data-speaker="CARRUTHERS">Just one word on that. I think the
 problem could be resolved very nicely by the use of duplicate
 negatives. You have your original negative in the central
-depository and the duplicate negative in the special collection. <span style="page" id="page283">[p.283]</span>
+depository and the duplicate negative in the special collection. <span class="page" id="page283">[p.283]</span></span>
 
-MR. TILLEUX: I think it would be indeed unfortunate
+<span class="speaker" data-speaker="TILLEUX">MR. TILLEUX</span>: <span class="speech" data-speaker="TILLEUX">I think it would be indeed unfortunate
 if this very, very interesting conference were to close without
 our expressing the thanks of the body to the Librarian of
 Congress for the very commodious quarters and the very fine
@@ -6822,7 +6822,7 @@ method? Perhaps it has possibilities. Then there is also the
 Hunter Electro Copyist which is essentially a photostating
 device. You put your original here (demonstrating), a sheet of
 photostat paper on the top, close the lid, the clock ticks away
-for a few seconds, the lid flies up and you have your copy. <span style="page" id="page284">[p.284]</span> The advantage is you can develop that within a moment or two at
+for a few seconds, the lid flies up and you have your copy. <span class="page" id="page284">[p.284]</span> The advantage is you can develop that within a moment or two at
 that point and then you know whether your print is any good.
 It is also advantageous in that it is no heavier than a portable
 typewriter. In other words, let's read into the record that
@@ -6847,7 +6847,7 @@ Then we ought to plan a list of all the microfilming
 firms in America and in Europe, such as Gaevert in Belgium,
 Systeme Lizy in France, Kohlux in Berne, Kontophot and
 Fotokopist in Berlin, Foto-Clark in Bonn, the Sellmannfilms
-in Stockholm. We ought to write to these firms and to all the <span style="page" id="page285">[p.285]</span> various learned societies and libraries doing microfilming
+in Stockholm. We ought to write to these firms and to all the <span class="page" id="page285">[p.285]</span> various learned societies and libraries doing microfilming
 there, explain what we have been doing, if necessary send them
 complete drafts of our proceedings, let them know we recognize
 their scholarly ability, that we want to cooperate, that we
@@ -6855,24 +6855,24 @@ need help and they can give it. I have in mind the Preussische
 Staatsbibliothek in Berlin, the Federation Internationale
 de Documentation, the office
 Internationale de Chimie and
-the Institut de Recherche et d'Histoire des Textes.
+the Institut de Recherche et d'Histoire des Textes.</span>
 
-CO-CHAIRMAN LYDENBERG: I wonder if it would not be
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">I wonder if it would not be
 just as well to offer those detailed suggestions to the
 Continuation Committee, with power to expand them.
 
 May I ring the bell for the home stretch and ask if
 the Reporter is in position to give us in fifteen seconds the
-summary of our deliberations of fifteen hours.
+summary of our deliberations of fifteen hours.</span>
 
-MR. TATE: The Reporter is unfortunately not in a
+<span class="speaker" data-speaker="TATE">MR. TATE</span>: <span class="speech" data-speaker="TATE">The Reporter is unfortunately not in a
 position to give you anything other than a few comments on the
 sessions thus far. Briefly, the questions of publication, list
 of sources, information centers, methods of progress, were discussed yesterday morning. A resolution was offered to the
 effect that when libraries secure full-scale or microfilm
 reproductions of important printed texts, a proper catalogue
 card should be made and sent to the Union Catalogue of the
-Library of Congress. This was later extended to include <span style="page" id="page286">[p.286]</span> past copies.
+Library of Congress. This was later extended to include <span class="page" id="page286">[p.286]</span> past copies.
 
 The various problems relating to the production and
 use of film were discussed in greater or lesser detail. A
@@ -6896,7 +6896,7 @@ period of time, were brought up. Again the importance of rapid
 procedure in the selection of fields are particularly stressed.
 There were a number of queries: One of them, how to utilize
 the possibilities of selection and other machinery? What body
-shall formulate and coordinate the program, carry it out? The <span style="page" id="page287">[p.287]</span> Continuation Committee was instructed to investigate this
+shall formulate and coordinate the program, carry it out? The <span class="page" id="page287">[p.287]</span> Continuation Committee was instructed to investigate this
 technically and also to determine what machinery might be set
 up. The suggestion of the incorporation of the Bibliofilm
 Service with the Library of Congress service was made, and
@@ -6919,21 +6919,21 @@ servicing unit?
 The preliminary appointments to the Continuation
 Committee were Mr. Metcalf as Chairman, Mr. Lydenberg, Mr.
 Kellar, Mr. MacLeish, Mr. Stewart, Mr. Schwegmann and Mr. Tate
-were announced by the Co-Chairman.
+were announced by the Co-Chairman.</span>
 
-CO-CHAIRMAN LYDENBERG: I am sure Mr. Tilleux' <span style="page" id="page288">[p.288]</span> suggestion of a vote of thanks to the Librarian of Congress,
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">I am sure Mr. Tilleux' <span class="page" id="page288">[p.288]</span> suggestion of a vote of thanks to the Librarian of Congress,
 the American Council of Learned Societies, the Cosmos Club and
 to the others who have joined to make this conference possible,
 calls for no formal action. Our gratitude is spontaneous and
 sincere, and with your permission I will ask that the minutes
 of the meeting contain that record.
 
-... Announcement regarding expense vouchers ...
+... Announcement regarding expense vouchers ...</span>
 
-CO-CHAIRMAN LYDENBERG: Have you any other comments,
-Dr. Leland?
+<span class="speaker" data-speaker="LYDENBERG">CO-CHAIRMAN LYDENBERG</span>: <span class="speech" data-speaker="LYDENBERG">Have you any other comments,
+Dr. Leland?</span>
 
-CO-CHAIRMAN LELAND: No, except on behalf of the
+<span class="speaker" data-speaker="LELAND">CO-CHAIRMAN LELAND</span>: <span class="speech" data-speaker="LELAND">No, except on behalf of the
 Council of Learned Societies I want to thank you all for the
 time and trouble you have taken to attend this conference and
 the attention you have given it.
@@ -6946,7 +6946,7 @@ possible, and we shall do our best to see that in the course of
 time an adequate report of these proceedings is placed in your
 hands, and of course your names will be kept on a list and
 any reports that the Continuation Committee may make will be
-sent to you in due time. In other words, you will be kept informed as to the results of this conference. The information <span style="page" id="page289">[p.289]</span> may not reach you as promptly as you would like; doubtless you
+sent to you in due time. In other words, you will be kept informed as to the results of this conference. The information <span class="page" id="page289">[p.289]</span> may not reach you as promptly as you would like; doubtless you
 would like to have full information by the time you reach home
 but in the course of the summer you will receive these reports
 and documents and we will try to keep you informed.
