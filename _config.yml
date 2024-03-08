@@ -23,8 +23,8 @@ email: peter.binkley@ualberta.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Stenographic record of an ACLS conference, held June 5-6, 1940 
   at the Library of Congress and the Cosmos Club, Washington, D. C.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://ex:wqample.com
+baseurl: "https://pbinkley.github.io" # the subpath of your site, e.g. /blog
+url: "/microcopying_1940" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  pbinkley
 
 # Build settings
