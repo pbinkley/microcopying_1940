@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page {
+	background-color: yellow;
+}
+.speech {
+	border: 1px solid gray;
+	margin-top: 20px;
+	padding: 5px;
+}
+.speaker {
+	background-color: pink;
+}
